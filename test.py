@@ -1,12 +1,14 @@
-from tqdm import tqdm
-import time
- 
-print('hello torero')
+import requests
 
- 
-for i in tqdm (range (101), 
-               desc="Loading…", 
-               ascii=False, ncols=75):
-    time.sleep(0.01)
-     
-print("Complete.")
+def check_requests_version():
+    print("Versión de requests instalada:", requests.__version__)
+    if requests.__version__ == "2.26.0":
+        print("¡La versión de requests es correcta!")
+    else:
+        print("La versión de requests no es la correcta.")
+
+def main():
+    check_requests_version()
+
+if __name__ == "__main__":
+    main()
