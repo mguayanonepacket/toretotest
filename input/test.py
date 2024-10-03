@@ -8,8 +8,7 @@ def test():
 
 def main():
     test()
-	     
-print("Complete.")
+
 if __name__ == "__main__":
     main()
 
