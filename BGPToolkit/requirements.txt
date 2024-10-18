@@ -62,3 +62,5 @@ keyring==23.13.1
 keyrings.alt==4.2.0
 pycountry==22.3.5
 countryinfo==0.1.2
+libxml2
+libxslt
