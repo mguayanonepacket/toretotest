@@ -1,0 +1,246 @@
+================================================================================
+ethernet-1/1 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/2 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/3 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/4 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/5 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/6 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/49 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/49.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.73/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::49/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:2545/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/50 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/50.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.101/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::65/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:2546/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/51 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/51.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.129/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::81/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:2547/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/52 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/52.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.157/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::9d/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:2548/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/53 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/53.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.176/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::b0/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:2549/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/54 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/54.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.178/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::b2/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:254a/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb1 is up, speed None, type None
+  irb1.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-IP-VRF
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-01
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.106/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.138/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::a/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:2556/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb2 is up, speed None, type None
+  irb2.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-02
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.104/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.136/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::8/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:2557/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb3 is up, speed None, type None
+  irb3.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-03
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.102/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.134/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::6/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:2558/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb4 is up, speed None, type None
+  irb4.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-IP-VRF
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-04
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.100/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.132/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::4/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:2559/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb5 is up, speed None, type None
+  irb5.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-05
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.98/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.130/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::2/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:255a/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb6 is up, speed None, type None
+  irb6.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-06
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.0.6.96/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.222.128/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4060::/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:255b/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+lag1 is up, speed None, type None
+  lag1.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-01
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag2 is up, speed None, type None
+  lag2.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-02
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag3 is up, speed None, type None
+  lag3.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-03
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag4 is up, speed None, type None
+  lag4.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-04
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag5 is up, speed None, type None
+  lag5.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-05
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag6 is up, speed None, type None
+  lag6.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-MAC-VRF-PROD-MX2-EDGE-06
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lo0 is up, speed None, type None
+  lo0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.14/32 (static, preferred, primary)
+    IPv6 addr    : 2604:1380:4060:ffff::e/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+lo1 is up, speed None, type None
+  lo1.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 169.254.255.1/32 (static, preferred, primary)
+    IPv6 addr    : fc00::e/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+lo101 is up, speed None, type None
+  lo101.0 is up
+    Network-instances:
+      * Name: PACKET-INTERNAL-IP-VRF
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.44/32 (static, preferred, primary)
+--------------------------------------------------------------------------------
+mgmt0 is up, speed 1G, type None
+  mgmt0.0 is up
+    Network-instances:
+      * Name: mgmt
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.55.132.2/25 (static, preferred)
+    IPv6 addr    : fe80::1298:26ff:feb0:2514/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+system0 is up, speed None, type None
+  system0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.30/32 (static, preferred)
+--------------------------------------------------------------------------------
+================================================================================
+Summary
+  3 loopback interfaces configured
+  25 ethernet interfaces are up
+  1 management interfaces are up
+  23 subinterfaces are up
+================================================================================
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+
+

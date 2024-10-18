@@ -1,0 +1,3125 @@
+================================================================================
+Interface: ethernet-1/1
+--------------------------------------------------------------------------------
+  Description         : BB: ssp1.mx2:ethernet-1/5
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m56s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 5 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/1
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/1
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              28526995   30863195
+  Unicast packets     94662      78039   
+  Broadcast packets   7          6       
+  Multicast packets   56         54      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/1
+--------------------------------------------------------------------------------
+    units     Rx    Tx 
+  kbps rate   558   375
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/1
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               2090    430  
+  65-127 bytes           42154   29994
+  128-255 bytes          25630   26815
+  256-511 bytes          12334   3974 
+  512-1023 bytes         3749    3461 
+  1024-1518 bytes        4892    13531
+  1519+ bytes            4023    5    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/1
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 36
+  Voltage         : 3.1727
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/1
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.07            0.87             42.120                 
+  2            -0.94            0.60             42.132                 
+  3            -0.51            0.72             42.170                 
+  4            -0.20            0.51             43.104                 
+================================================================================
+  Subinterface: ethernet-1/1.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m55s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.32/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::20/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bda8/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/1.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/1.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/1.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/1.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             94669      73179   
+  Octets              28037623   29926930
+  Discarded packets   5773       0       
+  Forwarded packets   88896      73179   
+  Forwarded octets    28037623   29926930
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/1.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/1.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/2
+--------------------------------------------------------------------------------
+  Description         : BB: ssp2.mx2:ethernet-1/5
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m56s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 7 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/2
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/2
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              23513696   39351041
+  Unicast packets     83127      143761  
+  Broadcast packets   7          6       
+  Multicast packets   56         54      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/2
+--------------------------------------------------------------------------------
+    units     Rx    Tx 
+  kbps rate   436   327
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/2
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               1848    3590 
+  65-127 bytes           35961   67411
+  128-255 bytes          23977   51860
+  256-511 bytes          11069   3692 
+  512-1023 bytes         4080    2753 
+  1024-1518 bytes        5794    8830 
+  1519+ bytes            461     5685 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/2
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 39
+  Voltage         : 3.1662
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/2
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.49            0.71             42.830                 
+  2            -0.82            0.83             41.996                 
+  3            -1.33            0.86             38.384                 
+  4            -0.94            0.66             43.228                 
+================================================================================
+  Subinterface: ethernet-1/2.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m56s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.48/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::30/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bda9/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/2.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/2.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/2.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/2.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             82988      135837  
+  Octets              23255100   37082641
+  Discarded packets   2266       0       
+  Forwarded packets   80722      135837  
+  Forwarded octets    23255100   37082641
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/2.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/2.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/3
+--------------------------------------------------------------------------------
+  Description         : BB: ssp3.mx2:ethernet-1/5
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m56s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/3
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/3
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              19407020   54180693
+  Unicast packets     88793      137875  
+  Broadcast packets   6          6       
+  Multicast packets   56         53      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/3
+--------------------------------------------------------------------------------
+    units     Rx    Tx 
+  kbps rate   429   568
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/3
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               1894    25   
+  65-127 bytes           52648   28861
+  128-255 bytes          17910   79880
+  256-511 bytes          5739    3015 
+  512-1023 bytes         7551    2833 
+  1024-1518 bytes        3058    13541
+  1519+ bytes            55      9779 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/3
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 40
+  Voltage         : 3.1695
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/3
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.68            0.67             44.014                 
+  2            -1.43            0.71             44.358                 
+  3            -1.18            0.75             43.180                 
+  4            -0.58            0.72             43.124                 
+================================================================================
+  Subinterface: ethernet-1/3.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m56s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.40/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::28/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdaa/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/3.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/3.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/3.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/3.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             88649      128912  
+  Octets              19097975   52435603
+  Discarded packets   3011       0       
+  Forwarded packets   85638      128912  
+  Forwarded octets    19097975   52435603
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/3.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/3.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/4
+--------------------------------------------------------------------------------
+  Description         : BB: ssp4.mx2:ethernet-1/5
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m56s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 5 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/4
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/4
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              31322963   53934609
+  Unicast packets     88419      80465   
+  Broadcast packets   6          6       
+  Multicast packets   55         53      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/4
+--------------------------------------------------------------------------------
+    units     Rx     Tx 
+  kbps rate   490   1449
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/4
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               1941    21   
+  65-127 bytes           36704   21287
+  128-255 bytes          23152   23728
+  256-511 bytes          8498    2106 
+  512-1023 bytes         6258    3727 
+  1024-1518 bytes        9166    29610
+  1519+ bytes            2761    45   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/4
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 43
+  Voltage         : 3.1630
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/4
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -1.03            0.29             45.810                 
+  2            -1.21            0.04             45.956                 
+  3            -0.84            -0.26            45.958                 
+  4            -0.77            -0.17            45.980                 
+================================================================================
+  Subinterface: ethernet-1/4.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m56s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.56/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::38/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdab/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/4.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/4.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/4.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/4.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             88222      73299   
+  Octets              30866714   48421050
+  Discarded packets   4097       0       
+  Forwarded packets   84125      73299   
+  Forwarded octets    30866714   48421050
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/4.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/4.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/5
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk01.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m57s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/5
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/5
+--------------------------------------------------------------------------------
+       counter          Rx        Tx  
+  Octets              2179534   162382
+  Unicast packets     5986      1279  
+  Broadcast packets   6         6     
+  Multicast packets   56        54    
+  Errored packets     0         0     
+  FCS error packets   0         N/A   
+  MAC pause frames    0         0     
+  Oversize frames     0         N/A   
+  Jabber frames       0         N/A   
+  Fragment frames     0         N/A   
+  CRC errors          0         N/A   
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/5
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   2    0 
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/5
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               8      64  
+  65-127 bytes           3699   1062
+  128-255 bytes          906    146 
+  256-511 bytes          266    17  
+  512-1023 bytes         94     36  
+  1024-1518 bytes        1075   14  
+  1519+ bytes            0      0   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/5
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 39
+  Voltage         : 3.1501
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/5
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            1.16             0.62             42.846                 
+  2            0.31             0.71             42.858                 
+  3            0.82             0.55             43.650                 
+  4            0.77             0.56             42.854                 
+================================================================================
+  Subinterface: ethernet-1/5.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m57s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.64/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::40/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdac/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/5.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/5.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/5.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/5.0
+--------------------------------------------------------------------------------
+     Statistics         Rx        Tx  
+  Packets             6025      1094  
+  Octets              2037183   134163
+  Discarded packets   1844      0     
+  Forwarded packets   4181      1094  
+  Forwarded octets    2037183   134163
+  CPM packets         -         0     
+  CPM octets          -         0     
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/5.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/5.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/6
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk01.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m57s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/6
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/6
+--------------------------------------------------------------------------------
+       counter          Rx       Tx  
+  Octets              388102   206557
+  Unicast packets     3882     2104  
+  Broadcast packets   6        6     
+  Multicast packets   54       55    
+  Errored packets     0        0     
+  FCS error packets   0        N/A   
+  MAC pause frames    0        0     
+  Oversize frames     0        N/A   
+  Jabber frames       0        N/A   
+  Fragment frames     0        N/A   
+  CRC errors          0        N/A   
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/6
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   2    0 
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/6
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               6      78  
+  65-127 bytes           3168   1910
+  128-255 bytes          699    127 
+  256-511 bytes          60     18  
+  512-1023 bytes         6      27  
+  1024-1518 bytes        3      5   
+  1519+ bytes            0      0   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/6
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 43
+  Voltage         : 3.1807
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/6
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            0.13             -0.37            45.846                 
+  2            1.55             -0.96            45.886                 
+  3            0.98             -0.18            45.874                 
+  4            0.88             0.11             45.918                 
+================================================================================
+  Subinterface: ethernet-1/6.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m57s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.66/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::42/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdad/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/6.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/6.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/6.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/6.0
+--------------------------------------------------------------------------------
+     Statistics         Rx       Tx  
+  Packets             3927     1920  
+  Octets              246452   178332
+  Discarded packets   1845     0     
+  Forwarded packets   2082     1920  
+  Forwarded octets    246452   178332
+  CPM packets         -        0     
+  CPM octets          -        0     
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/6.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/6.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/7
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk02.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m57s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/7
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/7
+--------------------------------------------------------------------------------
+       counter          Rx        Tx  
+  Octets              3657684   177116
+  Unicast packets     6621      1982  
+  Broadcast packets   7         6     
+  Multicast packets   55        54    
+  Errored packets     0         0     
+  FCS error packets   0         N/A   
+  MAC pause frames    0         0     
+  Oversize frames     0         N/A   
+  Jabber frames       0         N/A   
+  Fragment frames     0         N/A   
+  CRC errors          0         N/A   
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/7
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   9    0 
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/7
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               8      59  
+  65-127 bytes           3400   1882
+  128-255 bytes          942    83  
+  256-511 bytes          86     0   
+  512-1023 bytes         54     9   
+  1024-1518 bytes        2193   9   
+  1519+ bytes            0      0   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/7
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 39
+  Voltage         : 3.1598
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/7
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.81            0.36             44.854                 
+  2            -0.72            0.60             44.800                 
+  3            -0.21            0.51             44.204                 
+  4            -0.32            -0.04            38.536                 
+================================================================================
+  Subinterface: ethernet-1/7.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m57s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.68/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::44/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdae/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/7.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/7.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/7.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/7.0
+--------------------------------------------------------------------------------
+     Statistics         Rx        Tx  
+  Packets             6638      1793  
+  Octets              3509676   148585
+  Discarded packets   1844      0     
+  Forwarded packets   4794      1793  
+  Forwarded octets    3509676   148585
+  CPM packets         -         0     
+  CPM octets          -         0     
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/7.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/7.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/8
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk02.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m57s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/8
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/8
+--------------------------------------------------------------------------------
+       counter          Rx      Tx  
+  Octets              853646   76316
+  Unicast packets     4338     491  
+  Broadcast packets   7        6    
+  Multicast packets   55       55   
+  Errored packets     0        0    
+  FCS error packets   0        N/A  
+  MAC pause frames    0        0    
+  Oversize frames     0        N/A  
+  Jabber frames       0        N/A  
+  Fragment frames     0        N/A  
+  CRC errors          0        N/A  
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/8
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   2    0 
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/8
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx    Tx 
+  64 bytes               8      60 
+  65-127 bytes           3192   354
+  128-255 bytes          771    93 
+  256-511 bytes          47     20 
+  512-1023 bytes         39     24 
+  1024-1518 bytes        343    1  
+  1519+ bytes            0      0  
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/8
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 42
+  Voltage         : 3.1727
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/8
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.69            -0.27            45.846                 
+  2            -1.50            0.43             45.738                 
+  3            -1.38            0.35             45.732                 
+  4            -1.90            -0.02            45.684                 
+================================================================================
+  Subinterface: ethernet-1/8.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m57s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.70/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::46/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdaf/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/8.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/8.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/8.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/8.0
+--------------------------------------------------------------------------------
+     Statistics         Rx      Tx  
+  Packets             4382     309  
+  Octets              711748   48265
+  Discarded packets   1846     0    
+  Forwarded packets   2536     309  
+  Forwarded octets    711748   48265
+  CPM packets         -        0    
+  CPM octets          -        0    
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/8.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/8.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/9
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.core2.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h51m32s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/9
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/9
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              40293977   40136868
+  Unicast packets     118610     109861  
+  Broadcast packets   6          6       
+  Multicast packets   43         41      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/9
+--------------------------------------------------------------------------------
+    units     Rx     Tx 
+  kbps rate   525   1576
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/9
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               20      52   
+  65-127 bytes           24093   46318
+  128-255 bytes          75847   26043
+  256-511 bytes          1304    18410
+  512-1023 bytes         2596    4931 
+  1024-1518 bytes        3450    14112
+  1519+ bytes            11349   42   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/9
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 39
+  Voltage         : 3.1775
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/9
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.06            0.53             44.860                 
+  2            -0.38            0.62             43.250                 
+  3            -0.36            0.78             41.236                 
+  4            -0.09            0.65             42.662                 
+================================================================================
+  Subinterface: ethernet-1/9.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h51m32s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.72/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::48/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb0/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/9.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/9.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/9.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/9.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             117818     108732  
+  Octets              40069065   39606973
+  Discarded packets   1283       0       
+  Forwarded packets   116535     108732  
+  Forwarded octets    40069065   39606973
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/9.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/9.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/10
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.core2.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m58s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 4 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/10
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/10
+--------------------------------------------------------------------------------
+       counter           Rx         Tx   
+  Octets              70957479   19476883
+  Unicast packets     132775     71422   
+  Broadcast packets   6          6       
+  Multicast packets   55         54      
+  Errored packets     0          0       
+  FCS error packets   0          N/A     
+  MAC pause frames    0          0       
+  Oversize frames     0          N/A     
+  Jabber frames       0          N/A     
+  Fragment frames     0          N/A     
+  CRC errors          0          N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/10
+--------------------------------------------------------------------------------
+    units      Rx    Tx 
+  kbps rate   1633   136
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/10
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               6       77   
+  65-127 bytes           38781   30877
+  128-255 bytes          50788   23164
+  256-511 bytes          2705    10453
+  512-1023 bytes         4822    1897 
+  1024-1518 bytes        31631   5014 
+  1519+ bytes            4103    0    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/10
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 40
+  Voltage         : 3.1695
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/10
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            0.42             0.67             42.160                 
+  2            0.06             0.93             41.936                 
+  3            -0.45            0.81             42.846                 
+  4            -0.21            0.74             42.006                 
+================================================================================
+  Subinterface: ethernet-1/10.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m57s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.74/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::4a/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb1/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/10.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/10.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/10.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/10.0
+--------------------------------------------------------------------------------
+     Statistics          Rx         Tx   
+  Packets             131728     70986   
+  Octets              70002963   19383145
+  Discarded packets   1844       0       
+  Forwarded packets   129884     70986   
+  Forwarded octets    70002963   19383145
+  CPM packets         -          0       
+  CPM octets          -          0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/10.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/10.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/11
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk03.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h51m33s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 6 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/11
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/11
+--------------------------------------------------------------------------------
+       counter          Rx        Tx   
+  Octets              5183107   1322578
+  Unicast packets     10393     8310   
+  Broadcast packets   7         6      
+  Multicast packets   43        52     
+  Errored packets     0         0      
+  FCS error packets   0         N/A    
+  MAC pause frames    0         0      
+  Oversize frames     0         N/A    
+  Jabber frames       0         N/A    
+  Fragment frames     0         N/A    
+  CRC errors          0         N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/11
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   12   10
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/11
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               36     80  
+  65-127 bytes           4291   5118
+  128-255 bytes          1720   2037
+  256-511 bytes          1255   872 
+  512-1023 bytes         602    249 
+  1024-1518 bytes        2535   12  
+  1519+ bytes            4      0   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/11
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 38
+  Voltage         : 3.1759
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/11
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            0.04             0.76             37.738                 
+  2            -0.14            0.80             32.228                 
+  3            -0.21            0.73             42.794                 
+  4            -0.38            0.48             42.318                 
+================================================================================
+  Subinterface: ethernet-1/11.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h51m33s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.76/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::4c/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb2/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/11.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/11.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/11.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/11.0
+--------------------------------------------------------------------------------
+     Statistics         Rx        Tx   
+  Packets             10404     8142   
+  Octets              5078878   1295456
+  Discarded packets   1284      0      
+  Forwarded packets   9120      8142   
+  Forwarded octets    5078878   1295456
+  CPM packets         -         0      
+  CPM octets          -         0      
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/11.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/11.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/12
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk03.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m58s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 5 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/12
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/12
+--------------------------------------------------------------------------------
+       counter          Rx        Tx   
+  Octets              4460255   4016286
+  Unicast packets     11410     13765  
+  Broadcast packets   6         6      
+  Multicast packets   55        54     
+  Errored packets     0         0      
+  FCS error packets   0         N/A    
+  MAC pause frames    0         0      
+  Oversize frames     0         N/A    
+  Jabber frames       0         N/A    
+  Fragment frames     0         N/A    
+  CRC errors          0         N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/12
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   7    29
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/12
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               50     270 
+  65-127 bytes           6140   4841
+  128-255 bytes          1697   2859
+  256-511 bytes          947    2165
+  512-1023 bytes         705    3676
+  1024-1518 bytes        1932   14  
+  1519+ bytes            0      0   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/12
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 44
+  Voltage         : 3.1598
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/12
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.37            0.61             43.958                 
+  2            -0.39            0.77             41.674                 
+  3            -0.15            0.73             43.380                 
+  4            -0.21            0.56             43.916                 
+================================================================================
+  Subinterface: ethernet-1/12.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m58s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.78/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::4e/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb3/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/12.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/12.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/12.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/12.0
+--------------------------------------------------------------------------------
+     Statistics         Rx        Tx   
+  Packets             11441     13537  
+  Octets              4315568   3973249
+  Discarded packets   1844      0      
+  Forwarded packets   9597      13537  
+  Forwarded octets    4315568   3973249
+  CPM packets         -         0      
+  CPM octets          -         0      
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/12.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/12.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/13
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk04.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h51m33s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 6 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/13
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/13
+--------------------------------------------------------------------------------
+       counter           Rx        Tx   
+  Octets              10615570   5218932
+  Unicast packets     43938      18829  
+  Broadcast packets   6          6      
+  Multicast packets   43         40     
+  Errored packets     0          0      
+  FCS error packets   0          N/A    
+  MAC pause frames    0          0      
+  Oversize frames     0          N/A    
+  Jabber frames       0          N/A    
+  Fragment frames     0          N/A    
+  CRC errors          0          N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/13
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   78   47
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/13
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               24      173  
+  65-127 bytes           10207   3043 
+  128-255 bytes          28894   10481
+  256-511 bytes          1439    450  
+  512-1023 bytes         627     4689 
+  1024-1518 bytes        2787    38   
+  1519+ bytes            9       1    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/13
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 38
+  Voltage         : 3.1791
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/13
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.55            0.58             43.452                 
+  2            -0.13            0.61             42.906                 
+  3            -0.56            0.54             42.884                 
+  4            -0.37            0.54             42.896                 
+================================================================================
+  Subinterface: ethernet-1/13.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h51m33s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.80/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::50/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb4/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/13.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/13.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/13.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/13.0
+--------------------------------------------------------------------------------
+     Statistics          Rx        Tx   
+  Packets             43787      18604  
+  Octets              10486231   5173458
+  Discarded packets   1282       0      
+  Forwarded packets   42505      18604  
+  Forwarded octets    10486231   5173458
+  CPM packets         -          0      
+  CPM octets          -          0      
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/13.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/13.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/14
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk04.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m58s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 7 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/14
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/14
+--------------------------------------------------------------------------------
+       counter          Rx         Tx   
+  Octets              4235726   10664322
+  Unicast packets     14117     36425   
+  Broadcast packets   6         6       
+  Multicast packets   54        85      
+  Errored packets     0         0       
+  FCS error packets   0         N/A     
+  MAC pause frames    0         0       
+  Oversize frames     0         N/A     
+  Jabber frames       0         N/A     
+  Fragment frames     0         N/A     
+  CRC errors          0         N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/14
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   8    52
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/14
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx  
+  64 bytes               382    755  
+  65-127 bytes           9328   5259 
+  128-255 bytes          1283   21684
+  256-511 bytes          1060   2735 
+  512-1023 bytes         278    3085 
+  1024-1518 bytes        1846   2998 
+  1519+ bytes            0      0    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/14
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 43
+  Voltage         : 3.1743
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/14
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.17            0.15             45.704                 
+  2            -0.24            0.51             45.688                 
+  3            -0.38            0.24             45.716                 
+  4            -0.35            0.31             45.710                 
+================================================================================
+  Subinterface: ethernet-1/14.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m58s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.82/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::52/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb5/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/14.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/14.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/14.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/14.0
+--------------------------------------------------------------------------------
+     Statistics         Rx         Tx   
+  Packets             14132     36109   
+  Octets              4088590   10604728
+  Discarded packets   1866      0       
+  Forwarded packets   12266     36109   
+  Forwarded octets    4088590   10604728
+  CPM packets         -         0       
+  CPM octets          -         0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/14.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/14.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/15
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk05.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h51m33s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 5 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/15
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/15
+--------------------------------------------------------------------------------
+       counter           Rx        Tx   
+  Octets              13096531   1012214
+  Unicast packets     17695      5470   
+  Broadcast packets   6          6      
+  Multicast packets   41         42     
+  Errored packets     0          0      
+  FCS error packets   0          N/A    
+  MAC pause frames    0          0      
+  Oversize frames     0          N/A    
+  Jabber frames       0          N/A    
+  Fragment frames     0          N/A    
+  CRC errors          0          N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/15
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   10   10
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/15
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               57     88  
+  65-127 bytes           4517   2853
+  128-255 bytes          2829   2184
+  256-511 bytes          991    80  
+  512-1023 bytes         1646   142 
+  1024-1518 bytes        7677   169 
+  1519+ bytes            39     6   
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/15
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 36
+  Voltage         : 3.1743
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/15
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.10            0.59             42.136                 
+  2            -0.45            0.68             42.990                 
+  3            -0.55            0.79             41.548                 
+  4            -0.65            0.84             41.166                 
+================================================================================
+  Subinterface: ethernet-1/15.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h51m33s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.84/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::54/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb6/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/15.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/15.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/15.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/15.0
+--------------------------------------------------------------------------------
+     Statistics          Rx        Tx  
+  Packets             17725      5307  
+  Octets              12995634   987445
+  Discarded packets   1281       0     
+  Forwarded packets   16444      5307  
+  Forwarded octets    12995634   987445
+  CPM packets         -          0     
+  CPM octets          -          0     
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/15.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/15.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/16
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk05.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m59s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 5 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/16
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/16
+--------------------------------------------------------------------------------
+       counter          Rx         Tx   
+  Octets              7822872   14841926
+  Unicast packets     14196     17087   
+  Broadcast packets   6         6       
+  Multicast packets   55        55      
+  Errored packets     0         0       
+  FCS error packets   0         N/A     
+  MAC pause frames    0         0       
+  Oversize frames     0         N/A     
+  Jabber frames       0         N/A     
+  Fragment frames     0         N/A     
+  CRC errors          0         N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/16
+--------------------------------------------------------------------------------
+    units     Rx    Tx
+  kbps rate   165   24
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/16
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx 
+  64 bytes               30     109 
+  65-127 bytes           7615   2360
+  128-255 bytes          1159   1917
+  256-511 bytes          699    2452
+  512-1023 bytes         430    2847
+  1024-1518 bytes        4317   212 
+  1519+ bytes            7      7251
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/16
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 40
+  Voltage         : 3.1775
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/16
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.47            0.42             42.802                 
+  2            -0.22            0.68             40.468                 
+  3            -0.55            0.54             42.944                 
+  4            -0.83            0.46             42.842                 
+================================================================================
+  Subinterface: ethernet-1/16.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m59s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.86/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::56/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb7/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/16.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/16.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/16.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/16.0
+--------------------------------------------------------------------------------
+     Statistics         Rx         Tx   
+  Packets             14247     16871   
+  Octets              7681307   14800984
+  Discarded packets   1853      0       
+  Forwarded packets   12394     16871   
+  Forwarded octets    7681307   14800984
+  CPM packets         -         0       
+  CPM octets          -         0       
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/16.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/16.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/17
+--------------------------------------------------------------------------------
+  Description         : BB: esr1a.rk06.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h51m34s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 7 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/17
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/17
+--------------------------------------------------------------------------------
+       counter          Rx        Tx   
+  Octets              6020294   1452437
+  Unicast packets     44746     14269  
+  Broadcast packets   6         6      
+  Multicast packets   41        41     
+  Errored packets     0         0      
+  FCS error packets   0         N/A    
+  MAC pause frames    0         0      
+  Oversize frames     0         N/A    
+  Jabber frames       0         N/A    
+  Fragment frames     0         N/A    
+  CRC errors          0         N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/17
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   36   9 
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/17
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx      Tx  
+  64 bytes               3521    1395 
+  65-127 bytes           37866   12479
+  128-255 bytes          1109    186  
+  256-511 bytes          378     20   
+  512-1023 bytes         191     25   
+  1024-1518 bytes        1728    211  
+  1519+ bytes            0       0    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/17
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 34
+  Voltage         : 3.1904
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/17
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.56            0.76             41.358                 
+  2            -0.11            0.72             41.282                 
+  3            -0.64            0.65             41.342                 
+  4            -0.73            0.78             40.256                 
+================================================================================
+  Subinterface: ethernet-1/17.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h51m34s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.88/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::58/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb8/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/17.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/17.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/17.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/17.0
+--------------------------------------------------------------------------------
+     Statistics         Rx        Tx   
+  Packets             44515     14054  
+  Octets              5886859   1425436
+  Discarded packets   1275      0      
+  Forwarded packets   43240     14054  
+  Forwarded octets    5886859   1425436
+  CPM packets         -         0      
+  CPM octets          -         0      
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/17.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/17.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/18
+--------------------------------------------------------------------------------
+  Description         : BB: esr1b.rk06.p01.mx2:ethernet-1/49
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h57m59s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  MTU                 : 9412
+  VLAN tagging        : false
+  VLAN TPID           : TPID_0X8100
+  Queues              : 8 output queues supported, 7 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+L2CP transparency rule for ethernet-1/18
+--------------------------------------------------------------------------------
+  Lldp              : trap-to-cpu-untagged
+  Lacp              : trap-to-cpu-untagged
+  xStp              : drop-tagged-and-untagged
+  Dot1x             : drop-tagged-and-untagged
+  Ptp               : drop-tagged-and-untagged
+  Non-specified l2cp: false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/18
+--------------------------------------------------------------------------------
+       counter          Rx        Tx   
+  Octets              1059674   3700927
+  Unicast packets     8731      43551  
+  Broadcast packets   6         6      
+  Multicast packets   54        54     
+  Errored packets     0         0      
+  FCS error packets   0         N/A    
+  MAC pause frames    0         0      
+  Oversize frames     0         N/A    
+  Jabber frames       0         N/A    
+  Fragment frames     0         N/A    
+  CRC errors          0         N/A    
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/18
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   5    18
+--------------------------------------------------------------------------------
+Frame length statistics for ethernet-1/18
+--------------------------------------------------------------------------------
+  Frame length(Octets)    Rx     Tx  
+  64 bytes               12     4500 
+  65-127 bytes           4789   38469
+  128-255 bytes          3900   353  
+  256-511 bytes          50     56   
+  512-1023 bytes         22     38   
+  1024-1518 bytes        15     195  
+  1519+ bytes            3      0    
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/18
+--------------------------------------------------------------------------------
+  Status          : Transceiver is present and operational
+  Form factor     : QSFP28
+  Channels used   : 4
+  Connector type  : LC
+  Vendor          : Arista Networks
+  Vendor part     : QSFP100G-CWDM4-L
+  PMD type        : 100G CWDM4 MSA with FEC
+  Fault condition : false
+  Temperature     : 35
+  Voltage         : 3.1759
+--------------------------------------------------------------------------------
+Transceiver channel detail for ethernet-1/18
+--------------------------------------------------------------------------------
+  Channel No   Rx Power (dBm)   Tx Power (dBm)   Laser Bias current (mA)
+  1            -0.35            0.66             41.566                 
+  2            -0.59            0.62             40.702                 
+  3            0.08             0.82             38.238                 
+  4            -0.07            0.73             40.866                 
+================================================================================
+  Subinterface: ethernet-1/18.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Type                  : routed
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h57m59s ago
+  Encapsulation         : null
+  IP MTU                : 9214
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.253.20.90/31 (static, preferred, primary)
+  IPv6 addr    : fc00:da::5a/127 (static, preferred, primary)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bdb9/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for ethernet-1/18.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 1 dynamic
+  IPv6 ND  entries : 0 static, 2 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to ethernet-1/18.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to ethernet-1/18.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/18.0
+--------------------------------------------------------------------------------
+     Statistics         Rx       Tx   
+  Packets             8756     43198  
+  Octets              915401   3660013
+  Discarded packets   1850     0      
+  Forwarded packets   6906     43198  
+  Forwarded octets    915401   3660013
+  CPM packets         -        0      
+  CPM octets          -        0      
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for ethernet-1/18.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for ethernet-1/18.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: ethernet-1/19
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/19
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/19
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/19
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/20
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/20
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/20
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/20
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/21
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/21
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/21
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/21
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/22
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/22
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/22
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/22
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/23
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/23
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/23
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/23
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/24
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/24
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/24
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/24
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/25
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m26s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/25
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/25
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/25
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/26
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/26
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/26
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/26
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/27
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/27
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/27
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/27
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/28
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/28
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/28
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/28
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/29
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/29
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/29
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/29
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/30
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/30
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/30
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/30
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/31
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/31
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/31
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/31
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/32
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 100G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/32
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/32
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/32
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/33
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 10G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/33
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/33
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/33
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: ethernet-1/34
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : down
+  Down reason         : port-admin-disabled
+  Last change         : 223d11h17m27s ago, No flaps since last clear
+  Speed               : 10G
+  Flow control        : Rx is enabled
+  Loopback mode       : none
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for ethernet-1/34
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for ethernet-1/34
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for ethernet-1/34
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is down
+  Oper down reason: not-present
+================================================================================
+================================================================================
+================================================================================
+Interface: lo0
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d10h58m2s ago, No flaps since last clear
+  Queues              : 8 output queues supported, 0 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for lo0
+--------------------------------------------------------------------------------
+       counter        Rx   Tx 
+  Octets              0    0  
+  Unicast packets     0    0  
+  Broadcast packets   0    0  
+  Multicast packets   0    0  
+  Errored packets     0    0  
+  FCS error packets   0    N/A
+--------------------------------------------------------------------------------
+Traffic rate statistics for lo0
+--------------------------------------------------------------------------------
+    units     Rx   Tx
+  kbps rate   0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for lo0
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is None
+================================================================================
+  Subinterface: lo0.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : default
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d10h58m2s ago
+  Encapsulation         : null
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 147.28.222.10/32 (static, preferred, primary)
+  IPv6 addr    : 2604:1380:4060:ffff::a/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+ARP/ND summary for lo0.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 0 dynamic
+  IPv6 ND  entries : 0 static, 0 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to lo0.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to lo0.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for lo0.0
+--------------------------------------------------------------------------------
+     Statistics       Rx   Tx
+  Packets             0    0 
+  Octets              0    0 
+  Discarded packets   0    0 
+  Forwarded packets   0    0 
+  Forwarded octets    0    0 
+  CPM packets         -    0 
+  CPM octets          -    0 
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for lo0.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for lo0.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+Interface: mgmt0
+--------------------------------------------------------------------------------
+  Description         : <None>
+  Oper state          : up
+  Down reason         : N/A
+  Last change         : 223d11h17m24s ago, 2 flaps since last clear
+  Speed               : 1G
+  Flow control        : Rx is disabled
+  MTU                 : 1514
+  Queues              : 8 output queues supported, 0 used since the last clear
+  Last stats clear    : never
+  Breakout mode       : false
+--------------------------------------------------------------------------------
+Traffic statistics for mgmt0
+--------------------------------------------------------------------------------
+       counter          Rx         Tx   
+  Octets              2068859   20490272
+  Unicast packets     15869     19737   
+  Broadcast packets   1252      29      
+  Multicast packets   87        33      
+  Errored packets     1319      0       
+  FCS error packets   0         N/A     
+  MAC pause frames    0         0       
+  Oversize frames     0         N/A     
+  Jabber frames       0         N/A     
+  Fragment frames     0         N/A     
+  CRC errors          0         N/A     
+--------------------------------------------------------------------------------
+Traffic rate statistics for mgmt0
+--------------------------------------------------------------------------------
+    units     Rx   Tx 
+  kbps rate   33   438
+--------------------------------------------------------------------------------
+Frame length statistics for mgmt0
+--------------------------------------------------------------------------------
+  Frame length(Octets)   Rx   Tx
+  64 bytes               0    0 
+  65-127 bytes           0    0 
+  128-255 bytes          0    0 
+  256-511 bytes          0    0 
+  512-1023 bytes         0    0 
+  1024-1518 bytes        0    0 
+  1519+ bytes            0    0 
+--------------------------------------------------------------------------------
+Transceiver detail for mgmt0
+--------------------------------------------------------------------------------
+  Status          : Transceiver state is None
+================================================================================
+  Subinterface: mgmt0.0
+--------------------------------------------------------------------------------
+  Description           : <None>
+  Network-instance      : mgmt
+  Oper state            : up
+  Down reason           : N/A
+  Last change           : 223d11h17m24s ago
+  Encapsulation         : null
+  IP MTU                : 1500
+  Last stats clear      : never
+  MAC duplication action: -
+  IPv4 addr    : 10.55.128.138/25 (static, preferred)
+  IPv6 addr    : fe80::9e54:67ff:fe4f:bda7/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ARP/ND summary for mgmt0.0
+--------------------------------------------------------------------------------
+  IPv4 ARP entries : 0 static, 3 dynamic
+  IPv6 ND  entries : 0 static, 0 dynamic
+--------------------------------------------------------------------------------
+ACL filters applied to mgmt0.0
+--------------------------------------------------------------------------------
+     Summary       In    Out 
+  IPv4 ACL Name   none   none
+  IPv6 ACL Name   none   none
+--------------------------------------------------------------------------------
+QOS Policies applied to mgmt0.0
+--------------------------------------------------------------------------------
+           Summary               In      Out 
+  DSCP classifier              default      -
+  DSCP rewrite                       -   none
+  IPv4 Multifield Classifier      none      -
+  IPv6 Multifield Classifier      none      -
+  Dot1p classifier             default      -
+  Dot1p rewrite                      -   none
+  Policer Template                none      -
+--------------------------------------------------------------------------------
+Traffic statistics for mgmt0.0
+--------------------------------------------------------------------------------
+     Statistics         Rx         Tx   
+  Packets             18643     19789   
+  Octets              1962293   20489672
+  Discarded packets   17324     0       
+  Forwarded packets   0         0       
+  Forwarded octets    0         0       
+  CPM packets         -         19789   
+  CPM octets          -         20489672
+--------------------------------------------------------------------------------
+IPv4 Traffic statistics for mgmt0.0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 Traffic statistics for mgmt0.0
+--------------------------------------------------------------------------------
+================================================================================
+================================================================================
+
+

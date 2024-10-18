@@ -1,0 +1,182 @@
++------------+------------+------------+------------+------------+------------+
+|    Name    | Descriptio |   Admin-   | Oper-state | Transceive |  Ethernet  |
+|            |     n      |   state    |            |  r form-   | port-speed |
+|            |            |            |            |   factor   |            |
++============+============+============+============+============+============+
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /1         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /2         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /3         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /4         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /5         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /6         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /7         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /8         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /9         |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /10        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /11        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /12        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /13        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /14        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /15        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /16        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /17        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /18        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /19        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /20        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /21        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /22        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /23        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /24        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /25        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /26        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /27        |            |            |            |            |            |
+| ethernet-1 | HARDWARE:  | enable     | up         | SFP28      | 25G        |
+| /28        | ID: c1c75b |            |            |            |            |
+|            | d5-0ecb-4f |            |            |            |            |
+|            | 33-a710-81 |            |            |            |            |
+|            | 07133115c0 |            |            |            |            |
+|            | ,          |            |            |            |            |
+|            | Hostname:  |            |            |            |            |
+|            | server-311 |            |            |            |            |
+|            | 5c0.rk06.m |            |            |            |            |
+|            | x2.packet. |            |            |            |            |
+|            | net        |            |            |            |            |
+| ethernet-1 | HARDWARE:  | enable     | up         | SFP28      | 25G        |
+| /29        | ID: c66d82 |            |            |            |            |
+|            | 2d-a099-4d |            |            |            |            |
+|            | 2c-960d-f9 |            |            |            |            |
+|            | 4fc3c1ae0f |            |            |            |            |
+|            | ,          |            |            |            |            |
+|            | Hostname:  |            |            |            |            |
+|            | server-c1a |            |            |            |            |
+|            | e0f.rk06.m |            |            |            |            |
+|            | x2.packet. |            |            |            |            |
+|            | net        |            |            |            |            |
+| ethernet-1 | CUST:      | enable     | up         | SFP28      | 25G        |
+| /30        | Owner:     |            |            |            |            |
+|            | Juan       |            |            |            |            |
+|            | Saenz,     |            |            |            |            |
+|            | Hostname:  |            |            |            |            |
+|            | cbc02,     |            |            |            |            |
+|            | Instance   |            |            |            |            |
+|            | ID: 7e5ab3 |            |            |            |            |
+|            | a2-6499-41 |            |            |            |            |
+|            | 4e-94d1-e1 |            |            |            |            |
+|            | 4fcee70e9b |            |            |            |            |
+| ethernet-1 | HARDWARE:  | enable     | up         | SFP28      | 25G        |
+| /31        | ID: 778dc9 |            |            |            |            |
+|            | 4b-c2f1-49 |            |            |            |            |
+|            | 95-a22b-ca |            |            |            |            |
+|            | e7fac5a5f8 |            |            |            |            |
+|            | ,          |            |            |            |            |
+|            | Hostname:  |            |            |            |            |
+|            | server-c5a |            |            |            |            |
+|            | 5f8.rk06.m |            |            |            |            |
+|            | x2.packet. |            |            |            |            |
+|            | net        |            |            |            |            |
+| ethernet-1 | CUST:      | enable     | up         | SFP28      | 25G        |
+| /32        | Owner:     |            |            |            |            |
+|            | Fabiano    |            |            |            |            |
+|            | Feitosa,   |            |            |            |            |
+|            | Hostname:  |            |            |            |            |
+|            | m3-small-x |            |            |            |            |
+|            | 86-01,     |            |            |            |            |
+|            | Instance   |            |            |            |            |
+|            | ID: 24244f |            |            |            |            |
+|            | 54-0fca-4f |            |            |            |            |
+|            | 3b-b8b1-e1 |            |            |            |            |
+|            | 13af9cf277 |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /33        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /34        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /35        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /36        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /37        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /38        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /39        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /40        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /41        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /42        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /43        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /44        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /45        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /46        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /47        |            |            |            |            |            |
+| ethernet-1 |            | enable     | down       |            | 25G        |
+| /48        |            |            |            |            |            |
+| ethernet-1 | BB: dsr1.r | enable     | up         | QSFP28     | 100G       |
+| /49        | k01.p01.mx |            |            |            |            |
+|            | 2:ethernet |            |            |            |            |
+|            | -1/17      |            |            |            |            |
+| ethernet-1 | BB: dsr2.r | enable     | up         | QSFP28     | 100G       |
+| /50        | k02.p01.mx |            |            |            |            |
+|            | 2:ethernet |            |            |            |            |
+|            | -1/17      |            |            |            |            |
+| ethernet-1 | BB: dsr3.r | enable     | up         | QSFP28     | 100G       |
+| /51        | k01.p01.mx |            |            |            |            |
+|            | 2:ethernet |            |            |            |            |
+|            | -1/17      |            |            |            |            |
+| ethernet-1 | BB: dsr4.r | enable     | up         | QSFP28     | 100G       |
+| /52        | k02.p01.mx |            |            |            |            |
+|            | 2:ethernet |            |            |            |            |
+|            | -1/17      |            |            |            |            |
+| ethernet-1 | BB: esr1b. | enable     | up         | QSFP28     | 100G       |
+| /53        | rk06.p01.m |            |            |            |            |
+|            | x2:etherne |            |            |            |            |
+|            | t-1/53     |            |            |            |            |
+| ethernet-1 | BB: esr1b. | enable     | up         | QSFP28     | 100G       |
+| /54        | rk06.p01.m |            |            |            |            |
+|            | x2:etherne |            |            |            |            |
+|            | t-1/54     |            |            |            |            |
+| ethernet-1 |            | disable    | down       |            | 100G       |
+| /55        |            |            |            |            |            |
+| ethernet-1 |            | disable    | down       |            | 100G       |
+| /56        |            |            |            |            |            |
+| ethernet-1 |            | disable    | down       |            | 10G        |
+| /57        |            |            |            |            |            |
+| ethernet-1 |            | disable    | down       |            | 10G        |
+| /58        |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+
+
+

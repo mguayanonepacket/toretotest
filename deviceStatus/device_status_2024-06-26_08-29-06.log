@@ -1,0 +1,1857 @@
+2024-06-26 08:29:14  Script Start
+2024-06-26 08:29:23  {
+    "dsr1.rk01.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr1.rk01.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk02.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk02.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk01.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk01.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr4.rk02.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr4.rk02.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk03.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk04.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk05.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk06.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk07.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk08.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk09.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk09.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk10.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk10.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk11.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk11.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk12.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk12.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk13.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk14.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk15.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk16.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk17.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk18.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk03.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk04.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk05.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk06.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk07.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk08.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk09.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk10.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk11.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk12.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk03.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk04.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk05.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk06.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk07.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk08.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk09.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk09.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk10.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk10.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk11.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk11.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk12.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk12.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk13.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk13.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk14.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk14.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk15.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk15.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk16.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk16.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk17.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk17.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk18.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk18.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk19.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk20.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk21.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk26.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk27.p01.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk09.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk10.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk11.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk12.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk13.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk14.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk15.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk16.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk17.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk18.p02.da6": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    }
+}
+2024-06-26 08:29:23  Starting Status Checks
+2024-06-26 08:29:24  esr1a.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk05.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk07.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk04.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk05.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk06.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk08.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk10.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk04.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk08.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  msw1.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1b.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk12.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk03.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk09.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk10.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk07.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1b.rk03.p01.da6 is now Up / Up
+2024-06-26 08:29:24  esr1a.rk09.p01.da6 is now Up / Up
+2024-06-26 08:29:24  msw1.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk11.p01.da6 is now Up / Up
+2024-06-26 08:29:24  msw1.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  msw1.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  msw1.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  esr1a.rk06.p01.da6 is now Up / Up
+2024-06-26 08:29:24  msw1.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  msw1.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:24  msw1.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1b.rk12.p01.da6 is now Up / Up
+2024-06-26 08:29:25  msw1.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  msw1.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  msw1.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1b.rk11.p01.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  msw1.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk15.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk16.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk18.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk09.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk13.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk14.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk10.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk17.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk11.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk12.p02.da6 is now Up / Up
+2024-06-26 08:29:25  dsr4.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr2.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr4.rk02.p01.da6 is now Up / Up
+2024-06-26 08:29:25  esr1b.rk07.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr3.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr3.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1a.rk05.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr1.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr2.rk02.p01.da6 is now Up / Up
+2024-06-26 08:29:25  esr1b.rk05.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr2.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr4.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  dsr3.rk01.p01.da6 is now Up / Up
+2024-06-26 08:29:25  dsr3.rk01.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk08.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr1.rk01.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk04.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk04.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk09.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr2.rk02.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1b.rk08.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr1.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:25  esr1b.rk10.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr4.rk02.p02.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk12.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk06.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk10.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk03.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk11.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk06.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk03.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk07.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr1.rk01.p01.da6 is now Up / Up
+2024-06-26 08:29:25  esr1a.rk09.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk12.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk11.p01.da6 is now NoMaint
+2024-06-26 08:29:25  msw1.rk05.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk05.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk11.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk11.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk03.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk03.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk03.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk10.p02.da6 is now Up
+2024-06-26 08:29:25  msw1.rk07.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk07.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk08.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk06.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk10.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk09.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk09.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk04.p01.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk08.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk11.p02.da6 is now Up
+2024-06-26 08:29:25  msw1.rk06.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  msw1.rk04.p01.da6 is now Up
+2024-06-26 08:29:25  msw1.rk10.p01.da6 is now Up
+2024-06-26 08:29:25  esr1a.rk16.p02.da6 is now Disabled
+2024-06-26 08:29:25  msw1.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:29:25  msw1.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:25  esr1a.rk15.p02.da6 is now Disabled
+2024-06-26 08:29:25  msw1.rk09.p02.da6 is now Up
+2024-06-26 08:29:25  esr1a.rk09.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk18.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk17.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk13.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk14.p02.da6 is now Disabled
+2024-06-26 08:29:25  dsr4.rk02.p01.da6 is now NoMaint
+2024-06-26 08:29:25  esr1a.rk11.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk10.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk12.p02.da6 is now Disabled
+2024-06-26 08:29:25  esr1a.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:29:25  esr1b.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:29:25  esr1a.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  esr1b.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  esr1b.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:29:25  esr1b.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  esr1a.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:29:25  esr1a.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  dsr3.rk01.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr2.rk02.p01.da6 is now NoMaint
+2024-06-26 08:29:25  dsr1.rk01.p02.da6 is now NoMaint
+2024-06-26 08:29:25  esr1b.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:29:25  esr1b.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:25  dsr3.rk01.p02.da6 is now NoMaint
+2024-06-26 08:29:25  dsr2.rk02.p02.da6 is now NoMaint
+2024-06-26 08:29:26  esr1b.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1b.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr4.rk02.p02.da6 is now NoMaint
+2024-06-26 08:29:26  esr1a.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1b.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:29:26  esr1b.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1b.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1b.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1b.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1b.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1b.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:29:26  esr1b.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr1.rk01.p01.da6 is now NoMaint
+2024-06-26 08:29:26  esr1b.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1b.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1b.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1b.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  dsr4.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr4.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  msw1.rk13.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  msw1.rk16.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  msw1.rk14.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  msw1.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk16.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  msw1.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  dsr2.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  msw1.rk15.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk09.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr3.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr1.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk13.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr1.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk10.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr3.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk18.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr2.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk15.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr2.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk11.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk14.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr3.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr3.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr2.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk17.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr4.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr4.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  msw1.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:26  esr1a.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk12.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  esr1a.rk17.p02.da6 pstate is now 4/4
+2024-06-26 08:29:26  esr1a.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:26  dsr1.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:29:26  dsr1.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk12.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk12.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk12.p02.da6 is now Up
+2024-06-26 08:29:27  msw1.rk18.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk16.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk16.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk16.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk13.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk13.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk13.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk20.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk16.p02.da6 is now Up
+2024-06-26 08:29:27  msw1.rk15.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk15.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk15.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk14.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk14.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk14.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk19.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk13.p02.da6 is now Up
+2024-06-26 08:29:27  msw1.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk21.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk15.p02.da6 is now Up
+2024-06-26 08:29:27  msw1.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk14.p02.da6 is now Up
+2024-06-26 08:29:27  msw2.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk17.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk27.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw2.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk17.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk17.p01.da6 is now Up
+2024-06-26 08:29:27  msw2.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk26.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk17.p02.da6 is now Up
+2024-06-26 08:29:27  msw2.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:27  msw1.rk18.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk18.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk18.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk20.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk20.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk20.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk19.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk19.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk19.p01.da6 is now Up
+2024-06-26 08:29:27  msw1.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk18.p02.da6 is now Up
+2024-06-26 08:29:27  msw2.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw2.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw2.rk10.p02.da6 is now Up
+2024-06-26 08:29:27  msw1.rk21.p01.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw1.rk21.p01.da6 SC pstate is now -
+2024-06-26 08:29:27  msw1.rk21.p01.da6 is now Up
+2024-06-26 08:29:27  msw2.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw2.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw2.rk11.p02.da6 is now Up
+2024-06-26 08:29:27  msw2.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:29:27  msw2.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:27  msw2.rk09.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk16.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk14.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk13.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk12.p02.da6 is now Up
+2024-06-26 08:29:28  msw1.rk26.p01.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw1.rk26.p01.da6 SC pstate is now -
+2024-06-26 08:29:28  msw1.rk26.p01.da6 is now Up
+2024-06-26 08:29:28  msw1.rk27.p01.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw1.rk27.p01.da6 SC pstate is now -
+2024-06-26 08:29:28  msw1.rk27.p01.da6 is now Up
+2024-06-26 08:29:28  msw2.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk15.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk17.p02.da6 is now Up
+2024-06-26 08:29:28  msw2.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:29:28  msw2.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:28  msw2.rk18.p02.da6 is now Up
+2024-06-26 08:29:49  esr1a.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk06.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk08.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk05.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk04.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk03.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk07.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk09.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk11.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk10.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1b.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1b.rk03.p01.da6 is now Up / Up
+2024-06-26 08:29:49  esr1a.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:49  esr1a.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk12.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1b.rk04.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1b.rk09.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk10.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk05.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk06.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk07.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk08.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk10.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk09.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk12.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk11.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1b.rk12.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk14.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1b.rk11.p01.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk15.p02.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk13.p02.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk16.p02.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk17.p02.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  esr1a.rk18.p02.da6 is now Up / Up
+2024-06-26 08:29:50  msw1.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr1.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr2.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  msw1.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr1.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr3.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr4.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr3.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr1.rk01.p01.da6 is now Up / Up
+2024-06-26 08:29:50  dsr2.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr2.rk02.p02.da6 is now Up / Up
+2024-06-26 08:29:50  dsr4.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:50  dsr3.rk01.p01.da6 is now Up / Up
+2024-06-26 08:29:50  dsr4.rk02.p02.da6 is now Up / Up
+2024-06-26 08:29:50  dsr3.rk01.p02.da6 is now Up / Up
+2024-06-26 08:29:50  dsr2.rk02.p01.da6 is now Up / Up
+2024-06-26 08:29:50  dsr1.rk01.p02.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk07.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk05.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk04.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk09.p01.da6 is now NoMaint
+2024-06-26 08:29:50  dsr4.rk02.p01.da6 is now Up / Up
+2024-06-26 08:29:50  esr1a.rk03.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk11.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk06.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk08.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk10.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk12.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk10.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk03.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk07.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk08.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk04.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk09.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk05.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk12.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk11.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1b.rk06.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk12.p02.da6 is now Disabled
+2024-06-26 08:29:50  esr1a.rk10.p02.da6 is now Disabled
+2024-06-26 08:29:50  esr1a.rk09.p02.da6 is now Disabled
+2024-06-26 08:29:50  dsr2.rk02.p02.da6 is now NoMaint
+2024-06-26 08:29:50  msw1.rk10.p01.da6 pstate is now 2/2
+2024-06-26 08:29:50  msw1.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:50  msw1.rk10.p01.da6 is now Up
+2024-06-26 08:29:50  msw1.rk08.p01.da6 pstate is now 2/2
+2024-06-26 08:29:50  msw1.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:50  msw1.rk08.p01.da6 is now Up
+2024-06-26 08:29:50  dsr1.rk01.p01.da6 is now NoMaint
+2024-06-26 08:29:50  msw1.rk03.p01.da6 pstate is now 2/2
+2024-06-26 08:29:50  msw1.rk04.p01.da6 pstate is now 2/2
+2024-06-26 08:29:50  msw1.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:50  msw1.rk03.p01.da6 SC pstate is now -
+2024-06-26 08:29:50  msw1.rk03.p01.da6 is now Up
+2024-06-26 08:29:50  esr1a.rk11.p02.da6 is now Disabled
+2024-06-26 08:29:50  msw1.rk04.p01.da6 is now Up
+2024-06-26 08:29:50  dsr1.rk01.p02.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:29:50  dsr4.rk02.p02.da6 is now NoMaint
+2024-06-26 08:29:50  dsr3.rk01.p01.da6 is now NoMaint
+2024-06-26 08:29:50  esr1a.rk16.p02.da6 is now Disabled
+2024-06-26 08:29:50  esr1a.rk15.p02.da6 is now Disabled
+2024-06-26 08:29:50  esr1a.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk07.p01.da6 pstate is now 2/2
+2024-06-26 08:29:51  esr1a.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr3.rk01.p02.da6 is now NoMaint
+2024-06-26 08:29:51  esr1a.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr4.rk02.p01.da6 is now NoMaint
+2024-06-26 08:29:51  esr1a.rk14.p02.da6 is now Disabled
+2024-06-26 08:29:51  esr1a.rk13.p02.da6 is now Disabled
+2024-06-26 08:29:51  esr1a.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr2.rk02.p01.da6 is now NoMaint
+2024-06-26 08:29:51  esr1a.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:29:51  esr1a.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk06.p01.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk10.p02.da6 is now Up
+2024-06-26 08:29:51  msw1.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk05.p01.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk11.p01.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:29:51  esr1a.rk18.p02.da6 is now Disabled
+2024-06-26 08:29:51  esr1a.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk11.p02.da6 is now Up
+2024-06-26 08:29:51  esr1a.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk11.p01.da6 is now Up
+2024-06-26 08:29:51  esr1a.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk09.p01.da6 pstate is now 2/2
+2024-06-26 08:29:51  msw1.rk07.p01.da6 is now Up
+2024-06-26 08:29:51  msw1.rk06.p01.da6 is now Up
+2024-06-26 08:29:51  msw1.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk09.p02.da6 is now Up
+2024-06-26 08:29:51  esr1b.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:29:51  msw1.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk05.p01.da6 is now Up
+2024-06-26 08:29:51  msw1.rk09.p01.da6 is now Up
+2024-06-26 08:29:51  esr1b.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1b.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1b.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr2.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr2.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk10.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk12.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk09.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr1.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr1.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr1.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr1.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr4.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr4.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr3.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr3.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr2.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr3.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr4.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk11.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  dsr2.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr4.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:29:51  dsr3.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  esr1a.rk15.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk16.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  esr1a.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk13.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  msw1.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk13.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  esr1a.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk15.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  esr1a.rk14.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  esr1a.rk18.p02.da6 pstate is now 4/4
+2024-06-26 08:29:51  esr1a.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:51  msw1.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk17.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk14.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:51  msw1.rk16.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  esr1a.rk17.p02.da6 is now Disabled
+2024-06-26 08:29:52  msw1.rk18.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk19.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk26.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk21.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk20.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk12.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk12.p01.da6 is now Up
+2024-06-26 08:29:52  msw2.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk27.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw2.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw2.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk12.p02.da6 is now Up
+2024-06-26 08:29:52  msw1.rk15.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk15.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk13.p02.da6 is now Up
+2024-06-26 08:29:52  msw1.rk13.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk15.p01.da6 is now Up
+2024-06-26 08:29:52  msw1.rk13.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk13.p01.da6 is now Up
+2024-06-26 08:29:52  msw1.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk14.p02.da6 is now Up
+2024-06-26 08:29:52  msw1.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk15.p02.da6 is now Up
+2024-06-26 08:29:52  msw2.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:29:52  msw1.rk17.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk17.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk17.p01.da6 is now Up
+2024-06-26 08:29:52  msw1.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk17.p02.da6 is now Up
+2024-06-26 08:29:52  msw1.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk16.p02.da6 is now Up
+2024-06-26 08:29:52  msw1.rk16.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk16.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk16.p01.da6 is now Up
+2024-06-26 08:29:52  msw1.rk14.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk14.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk14.p01.da6 is now Up
+2024-06-26 08:29:52  esr1a.rk17.p02.da6 pstate is now 4/4
+2024-06-26 08:29:52  esr1a.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk18.p01.da6 pstate is now 2/2
+2024-06-26 08:29:52  msw1.rk18.p01.da6 SC pstate is now -
+2024-06-26 08:29:52  msw1.rk18.p01.da6 is now Up
+2024-06-26 08:29:53  msw1.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk26.p01.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk18.p02.da6 is now Up
+2024-06-26 08:29:53  msw1.rk26.p01.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk26.p01.da6 is now Up
+2024-06-26 08:29:53  msw1.rk21.p01.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk21.p01.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk21.p01.da6 is now Up
+2024-06-26 08:29:53  msw1.rk19.p01.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk19.p01.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk19.p01.da6 is now Up
+2024-06-26 08:29:53  msw1.rk20.p01.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk20.p01.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk20.p01.da6 is now Up
+2024-06-26 08:29:53  msw2.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk10.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk16.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk12.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk09.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk15.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk17.p02.da6 is now Up
+2024-06-26 08:29:53  msw1.rk27.p01.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw1.rk27.p01.da6 SC pstate is now -
+2024-06-26 08:29:53  msw1.rk27.p01.da6 is now Up
+2024-06-26 08:29:53  msw2.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk14.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk11.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk18.p02.da6 is now Up
+2024-06-26 08:29:53  msw2.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:29:53  msw2.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:29:53  msw2.rk13.p02.da6 is now Up
+2024-06-26 08:30:15  esr1a.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk04.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk06.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk07.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk09.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk05.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk08.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk03.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk10.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk11.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk12.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk03.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk08.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk04.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk07.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk05.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk13.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk06.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk09.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk10.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk12.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk10.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk11.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk09.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk17.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk16.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1b.rk12.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk14.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk15.p02.da6 is now Up / Up
+2024-06-26 08:30:15  msw1.rk03.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk04.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr4.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk06.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr1.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1b.rk11.p01.da6 is now Up / Up
+2024-06-26 08:30:15  dsr3.rk01.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk07.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk05.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr2.rk02.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  esr1a.rk18.p02.da6 is now Up / Up
+2024-06-26 08:30:15  dsr4.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk09.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr3.rk01.p01.da6 is now Up / Up
+2024-06-26 08:30:15  msw1.rk08.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  msw1.rk11.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr4.rk02.p01.da6 is now Up / Up
+2024-06-26 08:30:15  msw1.rk10.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr1.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr1.rk01.p01.da6 is now Up / Up
+2024-06-26 08:30:15  dsr2.rk02.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr3.rk01.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:15  dsr2.rk02.p01.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk05.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk04.p01.da6 is now NoMaint
+2024-06-26 08:30:15  dsr4.rk02.p02.da6 is now Up / Up
+2024-06-26 08:30:15  dsr1.rk01.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk07.p01.da6 is now NoMaint
+2024-06-26 08:30:15  dsr3.rk01.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk06.p01.da6 is now NoMaint
+2024-06-26 08:30:15  dsr2.rk02.p02.da6 is now Up / Up
+2024-06-26 08:30:15  esr1a.rk08.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk10.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk09.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk03.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk11.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1a.rk12.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk03.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk04.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk08.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk07.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk06.p01.da6 is now NoMaint
+2024-06-26 08:30:15  esr1b.rk05.p01.da6 is now NoMaint
+2024-06-26 08:30:16  esr1b.rk12.p01.da6 is now NoMaint
+2024-06-26 08:30:16  esr1b.rk09.p01.da6 is now NoMaint
+2024-06-26 08:30:16  esr1b.rk10.p01.da6 is now NoMaint
+2024-06-26 08:30:16  esr1b.rk11.p01.da6 is now NoMaint
+2024-06-26 08:30:16  dsr4.rk02.p01.da6 is now NoMaint
+2024-06-26 08:30:16  dsr3.rk01.p01.da6 is now NoMaint
+2024-06-26 08:30:16  dsr1.rk01.p01.da6 is now NoMaint
+2024-06-26 08:30:16  esr1a.rk12.p02.da6 is now Disabled
+2024-06-26 08:30:16  esr1a.rk13.p02.da6 is now Disabled
+2024-06-26 08:30:16  msw1.rk03.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk03.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk03.p01.da6 is now Up
+2024-06-26 08:30:16  dsr1.rk01.p02.da6 is now NoMaint
+2024-06-26 08:30:16  dsr2.rk02.p01.da6 is now NoMaint
+2024-06-26 08:30:16  msw1.rk04.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  dsr4.rk02.p02.da6 is now NoMaint
+2024-06-26 08:30:16  msw1.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk17.p02.da6 is now Disabled
+2024-06-26 08:30:16  esr1a.rk10.p02.da6 is now Disabled
+2024-06-26 08:30:16  msw1.rk04.p01.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk11.p02.da6 is now Disabled
+2024-06-26 08:30:16  dsr3.rk01.p02.da6 is now NoMaint
+2024-06-26 08:30:16  esr1a.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr2.rk02.p02.da6 is now NoMaint
+2024-06-26 08:30:16  esr1a.rk16.p02.da6 is now Disabled
+2024-06-26 08:30:16  esr1a.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk09.p02.da6 is now Disabled
+2024-06-26 08:30:16  esr1a.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk07.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk06.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  esr1a.rk14.p02.da6 is now Disabled
+2024-06-26 08:30:16  esr1a.rk15.p02.da6 is now Disabled
+2024-06-26 08:30:16  msw1.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk09.p02.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk05.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk07.p01.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  msw1.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:30:16  esr1a.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  msw1.rk06.p01.da6 is now Up
+2024-06-26 08:30:16  msw1.rk11.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk09.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk10.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk05.p01.da6 is now Up
+2024-06-26 08:30:16  msw1.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  msw1.rk08.p01.da6 pstate is now 2/2
+2024-06-26 08:30:16  msw1.rk11.p02.da6 is now Up
+2024-06-26 08:30:16  msw1.rk09.p01.da6 is now Up
+2024-06-26 08:30:16  msw1.rk11.p01.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk18.p02.da6 is now Disabled
+2024-06-26 08:30:16  msw1.rk10.p01.da6 is now Up
+2024-06-26 08:30:16  msw1.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk03.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  msw1.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk08.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  msw1.rk10.p02.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk08.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:30:16  msw1.rk08.p01.da6 is now Up
+2024-06-26 08:30:16  esr1a.rk03.p01.da6 SC pstate is now 10/10
+2024-06-26 08:30:16  esr1b.rk04.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk07.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk04.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk07.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk06.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk06.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk09.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk09.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk05.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk05.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk12.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk10.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk10.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1b.rk11.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1b.rk11.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr3.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr3.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr4.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr4.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr1.rk01.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr1.rk01.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr1.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr1.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr4.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr4.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr2.rk02.p01.da6 pstate is now 4/4
+2024-06-26 08:30:16  esr1a.rk12.p02.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr2.rk02.p01.da6 SC pstate is now -
+2024-06-26 08:30:16  esr1a.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr3.rk01.p02.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr2.rk02.p02.da6 pstate is now 4/4
+2024-06-26 08:30:16  dsr3.rk01.p02.da6 SC pstate is now -
+2024-06-26 08:30:16  dsr2.rk02.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  esr1a.rk17.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk09.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk13.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk11.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  esr1a.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  esr1a.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  esr1a.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk12.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk16.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk10.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  esr1a.rk15.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  esr1a.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk14.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  msw1.rk14.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk18.p02.da6 pstate is now 4/4
+2024-06-26 08:30:17  msw1.rk16.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk13.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  esr1a.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk17.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk15.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk18.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk20.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk19.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk21.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk27.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk26.p01.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk12.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk12.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk12.p01.da6 is now Up
+2024-06-26 08:30:17  msw2.rk10.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk14.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk11.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk17.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk12.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk09.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk15.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk13.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk12.p02.da6 is now Up
+2024-06-26 08:30:17  msw1.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk14.p02.da6 is now Up
+2024-06-26 08:30:17  msw2.rk16.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw2.rk18.p02.da6 Version is now EOS: 4.28.7M
+2024-06-26 08:30:17  msw1.rk13.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk14.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk13.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk17.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk14.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk13.p01.da6 is now Up
+2024-06-26 08:30:17  msw1.rk17.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk14.p01.da6 is now Up
+2024-06-26 08:30:17  msw1.rk17.p01.da6 is now Up
+2024-06-26 08:30:17  msw1.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk15.p02.da6 is now Up
+2024-06-26 08:30:17  msw1.rk15.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk15.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk15.p01.da6 is now Up
+2024-06-26 08:30:17  msw1.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk16.p02.da6 is now Up
+2024-06-26 08:30:17  msw1.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk13.p02.da6 is now Up
+2024-06-26 08:30:17  msw1.rk16.p01.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk16.p01.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk16.p01.da6 is now Up
+2024-06-26 08:30:17  msw1.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:30:17  msw1.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:30:17  msw1.rk17.p02.da6 is now Up
+2024-06-26 08:30:18  msw1.rk18.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk18.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk18.p01.da6 is now Up
+2024-06-26 08:30:18  msw1.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk18.p02.da6 is now Up
+2024-06-26 08:30:18  msw1.rk20.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk20.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk20.p01.da6 is now Up
+2024-06-26 08:30:18  msw1.rk19.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk19.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk19.p01.da6 is now Up
+2024-06-26 08:30:18  msw1.rk21.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk21.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk21.p01.da6 is now Up
+2024-06-26 08:30:18  msw1.rk27.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk27.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk27.p01.da6 is now Up
+2024-06-26 08:30:18  msw1.rk26.p01.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw1.rk26.p01.da6 SC pstate is now -
+2024-06-26 08:30:18  msw1.rk26.p01.da6 is now Up
+2024-06-26 08:30:18  msw2.rk10.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk10.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk10.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk11.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk11.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk11.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk14.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk14.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk14.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk17.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk17.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk17.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk09.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk09.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk09.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk12.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk12.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk12.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk15.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk15.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk15.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk13.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk13.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk13.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk16.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk16.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk16.p02.da6 is now Up
+2024-06-26 08:30:18  msw2.rk18.p02.da6 pstate is now 2/2
+2024-06-26 08:30:18  msw2.rk18.p02.da6 SC pstate is now -
+2024-06-26 08:30:18  msw2.rk18.p02.da6 is now Up
+2024-06-26 08:30:35  Status Checking Complete

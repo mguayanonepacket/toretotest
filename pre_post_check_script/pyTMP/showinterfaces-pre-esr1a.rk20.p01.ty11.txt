@@ -1,0 +1,1747 @@
+Ethernet1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f362 (bia c4ca.2bb5.f362)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet2 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f363 (bia c4ca.2bb5.f363)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet3 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f364 (bia c4ca.2bb5.f364)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet4 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f365 (bia c4ca.2bb5.f365)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet5 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f366 (bia c4ca.2bb5.f366)
+  Description: HARDWARE: ID: a534dfb2-506e-463a-a3de-f07d75df2254, Hostname: server-df2254.rk20.ty11.packet.net
+  Member of Port-Channel17
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 124 days, 19 hours, 25 minutes, 37 seconds
+  Loopback Mode : None
+  10 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 293 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.74 kbps (0.0% with framing overhead), 2 packets/sec
+     5341099 packets input, 563103130 bytes
+     Received 20 broadcasts, 1443711 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     23088439 packets output, 9067219471 bytes
+     Sent 690193 broadcasts, 16495867 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet6 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f367 (bia c4ca.2bb5.f367)
+  Description: CUST: Owner: Hiroshi Nakayama, Hostname: EquinixNutanixB, Instance ID: a8475f1c-aef1-4c1d-a61c-57ff835bb5d1
+  Member of Port-Channel21
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 6 days, 6 hours, 43 minutes, 33 seconds
+  Loopback Mode : None
+  112 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 74 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.53 kbps (0.0% with framing overhead), 2 packets/sec
+     15150545 packets input, 1147711078 bytes
+     Received 29558 broadcasts, 870433 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     473556382 packets output, 581542397970 bytes
+     Sent 580515 broadcasts, 12929447 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet7 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f368 (bia c4ca.2bb5.f368)
+  Description: HARDWARE: ID: ff069db4-94d9-4b29-ba61-2c7d6505a6de, Hostname: server-05a6de.rk20.ty11.packet.net
+  Member of Port-Channel25
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 41 days, 18 hours, 2 minutes, 25 seconds
+  Loopback Mode : None
+  8 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.66 kbps (0.0% with framing overhead), 2 packets/sec
+     996049 packets input, 113492637 bytes
+     Received 20 broadcasts, 23 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     22665827 packets output, 9670430436 bytes
+     Sent 690147 broadcasts, 16567825 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet8 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f369 (bia c4ca.2bb5.f369)
+  Description: HARDWARE: ID: 1a25943d-718c-4c37-a3ab-de42e9c34437, Hostname: server-c34437.rk20.ty11.packet.net
+  Member of Port-Channel29
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 61 days, 17 hours, 44 minutes, 55 seconds
+  Loopback Mode : None
+  44 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 151 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.67 kbps (0.0% with framing overhead), 2 packets/sec
+     7415949 packets input, 664453180 bytes
+     Received 202 broadcasts, 1376194 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     283668611 packets output, 346305902812 bytes
+     Sent 690804 broadcasts, 15610154 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet9 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f36a (bia c4ca.2bb5.f36a)
+  Description: CUST: Owner: Joe McLaughlin, Hostname: TY-hsfpiow, Instance ID: fffd117c-9053-44b7-b6cb-6afe9520ebb8
+  Member of Port-Channel33
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 89 days, 14 hours, 46 minutes, 35 seconds
+  Loopback Mode : None
+  34 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 155 Mbps (0.6% with framing overhead), 16545 packets/sec
+  30 seconds output rate 59.7 Mbps (0.2% with framing overhead), 8568 packets/sec
+     512313474790 packets input, 701009020719016 bytes
+     Received 26043 broadcasts, 529996 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     385250101310 packets output, 523429858388683 bytes
+     Sent 5124739 broadcasts, 9277104 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet10 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f36b (bia c4ca.2bb5.f36b)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet11 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f36c (bia c4ca.2bb5.f36c)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet12 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f36d (bia c4ca.2bb5.f36d)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet13 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f36e (bia c4ca.2bb5.f36e)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet14 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f36f (bia c4ca.2bb5.f36f)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet15 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f370 (bia c4ca.2bb5.f370)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet16 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f371 (bia c4ca.2bb5.f371)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet17 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f372 (bia c4ca.2bb5.f372)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet18 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f373 (bia c4ca.2bb5.f373)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet19 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f374 (bia c4ca.2bb5.f374)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet20 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f375 (bia c4ca.2bb5.f375)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet21 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f376 (bia c4ca.2bb5.f376)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet22 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f377 (bia c4ca.2bb5.f377)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet23 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f378 (bia c4ca.2bb5.f378)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet24 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f379 (bia c4ca.2bb5.f379)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet25 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37a (bia c4ca.2bb5.f37a)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet26 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37b (bia c4ca.2bb5.f37b)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet27 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37c (bia c4ca.2bb5.f37c)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet28 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37d (bia c4ca.2bb5.f37d)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet29 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37e (bia c4ca.2bb5.f37e)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet30 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f37f (bia c4ca.2bb5.f37f)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet31 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f380 (bia c4ca.2bb5.f380)
+  Description: CUST: Owner: Chris Turra, Hostname: r-8e46a0d4.tyo1.p1.edge.menlorecast.com, Instance ID: 503c0f95-7abc-4a8c-af8c-30b647055f40
+  Member of Port-Channel121
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 83 days, 16 hours, 55 minutes, 57 seconds
+  Loopback Mode : None
+  6 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 132 Mbps (0.5% with framing overhead), 22266 packets/sec
+  30 seconds output rate 123 Mbps (0.5% with framing overhead), 24297 packets/sec
+     463143262319 packets input, 382986269220323 bytes
+     Received 15 broadcasts, 19180170993 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     506513515948 packets output, 372396226607846 bytes
+     Sent 690227 broadcasts, 56187953973 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet32 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f381 (bia c4ca.2bb5.f381)
+  Description: CUST: Owner: James Malachowski, Hostname: m3-small-x86-01, Instance ID: 848dcc54-f81a-402a-a790-fd3e9ea02278
+  Member of Port-Channel125
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 125 days, 17 hours, 53 minutes, 41 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 31 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 689 bps (0.0% with framing overhead), 1 packets/sec
+     683347 packets input, 80413441 bytes
+     Received 1 broadcasts, 348223 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     12510538 packets output, 1881669673 bytes
+     Sent 690230 broadcasts, 6435039 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet33 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f382 (bia c4ca.2bb5.f382)
+  Description: HARDWARE: ID: 855ecb97-d721-4657-9323-0e883844d493, Hostname: server-44d493.rk20.ty11.packet.net
+  Member of Port-Channel129
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 38 days, 22 hours, 44 minutes, 22 seconds
+  Loopback Mode : None
+  16 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.67 kbps (0.0% with framing overhead), 2 packets/sec
+     24383073 packets input, 29249935179 bytes
+     Received 61 broadcasts, 8448 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     66638031 packets output, 66821892328 bytes
+     Sent 690488 broadcasts, 16557836 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet34 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f383 (bia c4ca.2bb5.f383)
+  Description: HARDWARE: ID: bad07304-8384-4f0e-a778-87d2dc2806f6, Hostname: server-2806f6.rk20.ty11.packet.net
+  Member of Port-Channel133
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 32 days, 14 hours, 1 minute
+  Loopback Mode : None
+  10 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.69 kbps (0.0% with framing overhead), 2 packets/sec
+     2700515 packets input, 282024323 bytes
+     Received 32 broadcasts, 53 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     25713197 packets output, 13198338399 bytes
+     Sent 690391 broadcasts, 16567955 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet35 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f384 (bia c4ca.2bb5.f384)
+  Description: HARDWARE: ID: 7a51eed9-ce67-4204-a1ac-e55a29436ded, Hostname: server-436ded.rk20.ty11.packet.net
+  Member of Port-Channel137
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 18 days, 21 hours, 48 minutes, 8 seconds
+  Loopback Mode : None
+  62 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.65 kbps (0.0% with framing overhead), 2 packets/sec
+     22454636 packets input, 12635519226 bytes
+     Received 294 broadcasts, 11895 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     95397918 packets output, 107081696733 bytes
+     Sent 691650 broadcasts, 16551551 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet36 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f385 (bia c4ca.2bb5.f385)
+  Description: CUST: Owner: Kevin Jones, Hostname: navy-workshop-5-bastion, Instance ID: c84b70b0-13b9-40c1-962a-09ea1147e5ef
+  Member of Port-Channel141
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 18 hours, 42 minutes, 41 seconds
+  Loopback Mode : None
+  30 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 51.5 kbps (0.0% with framing overhead), 7 packets/sec
+  30 seconds output rate 53.8 kbps (0.0% with framing overhead), 8 packets/sec
+     60563353 packets input, 75925138173 bytes
+     Received 133 broadcasts, 83269 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     125644505 packets output, 148971698229 bytes
+     Sent 691280 broadcasts, 16625771 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet37 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f386 (bia c4ca.2bb5.f386)
+  Description: CUST: Owner: Aaron Klink, Hostname: kube-node-1.tko.prd.incap-infra.net, Instance ID: 0725acaf-a828-4901-81e3-03a7ee6d90a2
+  Member of Port-Channel145
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 71 days, 8 hours, 50 minutes, 37 seconds
+  Loopback Mode : None
+  10 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 137 Mbps (0.6% with framing overhead), 12522 packets/sec
+  30 seconds output rate 143 Mbps (0.6% with framing overhead), 15249 packets/sec
+     57393816273 packets input, 65656355477929 bytes
+     Received 51 broadcasts, 195558 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     64051528169 packets output, 73089396598077 bytes
+     Sent 4907145 broadcasts, 16287043 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet38 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f387 (bia c4ca.2bb5.f387)
+  Description: HARDWARE: ID: 37582c20-888b-41cf-ba93-bba1da005a25, Hostname: server-005a25.rk20.ty11.packet.net
+  Member of Port-Channel149
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Up 41 days, 21 hours, 13 minutes, 47 seconds
+  Loopback Mode : None
+  64 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.70 kbps (0.0% with framing overhead), 2 packets/sec
+     130250701 packets input, 162454102188 bytes
+     Received 300 broadcasts, 167347 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     196769270 packets output, 239855461799 bytes
+     Sent 699590 broadcasts, 16479081 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet39 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f388 (bia c4ca.2bb5.f388)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet40 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f389 (bia c4ca.2bb5.f389)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet41 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38a (bia c4ca.2bb5.f38a)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet42 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38b (bia c4ca.2bb5.f38b)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet43 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38c (bia c4ca.2bb5.f38c)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet44 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38d (bia c4ca.2bb5.f38d)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet45 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38e (bia c4ca.2bb5.f38e)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet46 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f38f (bia c4ca.2bb5.f38f)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet47 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f390 (bia c4ca.2bb5.f390)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet48 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f391 (bia c4ca.2bb5.f391)
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet49/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f361
+  Description: BB: dsr1.rk01.p01.ty11:Ethernet4/15/1 [local wire]
+  Internet address is 10.253.105.89/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fc00:da:0:19::159, subnet is fc00:da:0:19::158/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 125 days, 18 hours, 14 minutes, 44 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 104 Mbps (0.1% with framing overhead), 16573 packets/sec
+  30 seconds output rate 131 Mbps (0.1% with framing overhead), 17877 packets/sec
+     236532415008 packets input, 171128728434065 bytes
+     Received 1 broadcasts, 424397 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     361367976092 packets output, 399705591345126 bytes
+     Sent 6 broadcasts, 424392 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet50/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f361
+  Description: BB: dsr2.rk02.p01.ty11:Ethernet4/15/1 [local wire]
+  Internet address is 10.253.105.91/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fc00:da:0:19::15b, subnet is fc00:da:0:19::15a/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 3 days, 20 hours, 2 minutes, 37 seconds
+  Loopback Mode : None
+  86 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 54.0 Mbps (0.1% with framing overhead), 10015 packets/sec
+  30 seconds output rate 114 Mbps (0.1% with framing overhead), 13911 packets/sec
+     158141745813 packets input, 142383796719419 bytes
+     Received 59 broadcasts, 424802 multicast
+     0 runts, 0 giants
+     1 input errors, 1 CRC, 0 alignment, 1 symbol, 0 input discards
+     0 PAUSE input
+     303362089744 packets output, 370271220452140 bytes
+     Sent 270 broadcasts, 424809 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet51/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f361
+  Description: BB: dsr3.rk03.p01.ty11:Ethernet4/15/1 [local wire]
+  Internet address is 10.253.105.93/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fc00:da:0:19::15d, subnet is fc00:da:0:19::15c/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 62 days, 2 hours, 6 minutes, 57 seconds
+  Loopback Mode : None
+  6 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 87.1 Mbps (0.1% with framing overhead), 11376 packets/sec
+  30 seconds output rate 54.9 Mbps (0.1% with framing overhead), 8411 packets/sec
+     139914406212 packets input, 125978003257724 bytes
+     Received 2 broadcasts, 424335 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     192607927277 packets output, 189575088614825 bytes
+     Sent 13 broadcasts, 424395 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet52/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f361
+  Description: BB: dsr4.rk04.p01.ty11:Ethernet4/15/1 [local wire]
+  Internet address is 10.253.105.95/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fc00:da:0:19::15f, subnet is fc00:da:0:19::15e/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 59 days, 7 hours, 2 minutes, 30 seconds
+  Loopback Mode : None
+  12 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 90.7 Mbps (0.1% with framing overhead), 10167 packets/sec
+  30 seconds output rate 137 Mbps (0.1% with framing overhead), 12382 packets/sec
+     422361491814 packets input, 554007555922674 bytes
+     Received 7 broadcasts, 424357 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     195100226540 packets output, 220347667857403 bytes
+     Sent 30 broadcasts, 424398 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet53/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f3a2 (bia c4ca.2bb5.f3a2)
+  Description: BB: esr1b.rk20.p01.ty11:Ethernet53/1 [BB-AE:Port-Channel2000] [local wire]
+  Member of Port-Channel2000
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 125 days, 17 hours, 41 minutes, 46 seconds
+  Loopback Mode : None
+  6 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 2.57 Mbps (0.0% with framing overhead), 3865 packets/sec
+  30 seconds output rate 1.55 Mbps (0.0% with framing overhead), 2338 packets/sec
+     44196365514 packets input, 3956942344308 bytes
+     Received 10951450 broadcasts, 44089791268 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     33858309059 packets output, 2964191944052 bytes
+     Sent 6552813 broadcasts, 33845133088 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet54/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f3a6 (bia c4ca.2bb5.f3a6)
+  Description: BB: esr1b.rk20.p01.ty11:Ethernet54/1 [BB-AE:Port-Channel2000] [local wire]
+  Member of Port-Channel2000
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 125 days, 17 hours, 41 minutes, 46 seconds
+  Loopback Mode : None
+  6 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 1.75 Mbps (0.0% with framing overhead), 2645 packets/sec
+  30 seconds output rate 1.75 Mbps (0.0% with framing overhead), 2638 packets/sec
+     29584514683 packets input, 2675151557537 bytes
+     Received 8292060 broadcasts, 29488033691 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     41585122353 packets output, 3639582076535 bytes
+     Sent 8313278 broadcasts, 41519859906 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet55/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f3aa (bia c4ca.2bb5.f3aa)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet56/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is c4ca.2bb5.f3ae (bia c4ca.2bb5.f3ae)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 125 days, 18 hours, 20 minutes, 8 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Loopback0 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: BB: Primary peering/management IP
+  Internet address is 139.178.78.58/32
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::ff:fe00:0/64
+  IPv6 global unicast address(es):
+    2604:1380:3010:ffff::2a, subnet is 2604:1380:3010:ffff::2a/128
+  IP MTU 65535 bytes (default)
+  Up 125 days, 18 hours, 20 minutes, 51 seconds
+Loopback1 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: BB: Customer BGP Peering Interface
+  Internet address is 169.254.255.1/32
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::ff:fe00:0/64
+  IPv6 global unicast address(es):
+    fc00::e, subnet is fc00::e/128
+  IP MTU 65535 bytes (default)
+  Up 125 days, 18 hours, 20 minutes, 51 seconds
+Loopback2 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: BB: VXLAN Anycast IP
+  Internet address is 139.178.78.67/32
+  Broadcast address is 255.255.255.255
+  IP MTU 65535 bytes (default)
+  Up 125 days, 18 hours, 20 minutes, 51 seconds
+Loopback11 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: VRF CUST-1cf83bed-53cd-44e6-bcc7-37fc53f31f50 DYNAMIC BGP PEER GROUP
+  Internet address is 169.254.255.1/32
+  Secondary address is 169.254.255.3/32
+  Secondary address is 169.254.255.5/32
+  Secondary address is 169.254.255.7/32
+  Secondary address is 169.254.255.9/32
+  Secondary address is 169.254.255.11/32
+  Secondary address is 169.254.255.13/32
+  Secondary address is 169.254.255.15/32
+  Broadcast address is 255.255.255.255
+  IP MTU 65535 bytes (default)
+  Up 71 days, 8 hours, 45 minutes, 6 seconds
+Management1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is c4ca.2bb5.f360 (bia c4ca.2bb5.f360)
+  Description: MGMT: msw1.rk20.p01.ty11:Ethernet43 [local wire]
+  Internet address is 10.205.139.2/25
+  Broadcast address is 255.255.255.255
+  IP MTU 1500 bytes (default), BW 1000000 kbit
+  Full-duplex, 1Gb/s, auto negotiation: on, uni-link: n/a
+  Up 125 days, 18 hours, 20 minutes, 44 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 125 days, 18:23:48 ago
+  30 seconds input rate 572 bps (0.0% with framing overhead), 1 packets/sec
+  30 seconds output rate 90 bps (0.0% with framing overhead), 0 packets/sec
+     5890068 packets input, 766467219 bytes
+     Received 47473 broadcasts, 5676913 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     498938 packets output, 141492326 bytes
+     Sent 14 broadcasts, 362292 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Port-Channel17 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f366
+  Description: HARDWARE: ID: a534dfb2-506e-463a-a3de-f07d75df2254, Hostname: server-df2254.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet5 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 124 days, 19 hours, 25 minutes, 37 seconds
+  14 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 293 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.74 kbps (0.0% with framing overhead), 2 packets/sec
+     5341097 packets input, 563102900 bytes
+     Received 20 broadcasts, 1443709 multicast
+     0 input errors, 0 input discards
+     23088429 packets output, 9067215991 bytes
+     Sent 690193 broadcasts, 16495863 multicast
+     0 output errors, 0 output discards
+Port-Channel21 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f367
+  Description: CUST: Owner: Hiroshi Nakayama, Hostname: EquinixNutanixB, Instance ID: a8475f1c-aef1-4c1d-a61c-57ff835bb5d1
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet6 , Full-duplex, 25Gb/s
+  ... PeerEthernet6 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 6 days, 6 hours, 27 minutes, 36 seconds
+  266 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 76 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.57 kbps (0.0% with framing overhead), 2 packets/sec
+     15150331 packets input, 1147690643 bytes
+     Received 29496 broadcasts, 870296 multicast
+     0 input errors, 0 input discards
+     473555908 packets output, 581542198329 bytes
+     Sent 580471 broadcasts, 12929196 multicast
+     0 output errors, 0 output discards
+Port-Channel25 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f368
+  Description: HARDWARE: ID: ff069db4-94d9-4b29-ba61-2c7d6505a6de, Hostname: server-05a6de.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet7 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 41 days, 18 hours, 2 minutes, 25 seconds
+  14 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.66 kbps (0.0% with framing overhead), 2 packets/sec
+     996049 packets input, 113492637 bytes
+     Received 20 broadcasts, 23 multicast
+     0 input errors, 0 input discards
+     22665818 packets output, 9670429299 bytes
+     Sent 690147 broadcasts, 16567816 multicast
+     0 output errors, 0 output discards
+Port-Channel29 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f369
+  Description: HARDWARE: ID: 1a25943d-718c-4c37-a3ab-de42e9c34437, Hostname: server-c34437.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet8 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 61 days, 17 hours, 44 minutes, 55 seconds
+  104 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 151 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.67 kbps (0.0% with framing overhead), 2 packets/sec
+     7415849 packets input, 664443906 bytes
+     Received 170 broadcasts, 1376133 multicast
+     0 input errors, 0 input discards
+     283668448 packets output, 346305885618 bytes
+     Sent 690766 broadcasts, 15610041 multicast
+     0 output errors, 0 output discards
+Port-Channel33 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f36a
+  Description: CUST: Owner: Joe McLaughlin, Hostname: TY-hsfpiow, Instance ID: fffd117c-9053-44b7-b6cb-6afe9520ebb8
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet9 , Full-duplex, 25Gb/s
+  ... PeerEthernet9 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 89 days, 14 hours, 5 minutes, 18 seconds
+  74 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 158 Mbps (0.3% with framing overhead), 16900 packets/sec
+  30 seconds output rate 61.3 Mbps (0.1% with framing overhead), 8781 packets/sec
+     512313474181 packets input, 701009020628597 bytes
+     Received 26036 broadcasts, 529980 multicast
+     0 input errors, 0 input discards
+     385250101212 packets output, 523429858376224 bytes
+     Sent 5124733 broadcasts, 9277037 multicast
+     0 output errors, 0 output discards
+Port-Channel121 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f380
+  Description: CUST: Owner: Chris Turra, Hostname: r-8e46a0d4.tyo1.p1.edge.menlorecast.com, Instance ID: 503c0f95-7abc-4a8c-af8c-30b647055f40
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet31 , Full-duplex, 25Gb/s
+  ... PeerEthernet31 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 83 days, 16 hours, 52 minutes, 54 seconds
+  8 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 134 Mbps (0.3% with framing overhead), 22710 packets/sec
+  30 seconds output rate 125 Mbps (0.3% with framing overhead), 24766 packets/sec
+     463143261950 packets input, 382986269116957 bytes
+     Received 15 broadcasts, 19180170989 multicast
+     0 input errors, 0 input discards
+     506513498125 packets output, 372396225063476 bytes
+     Sent 690227 broadcasts, 56187936750 multicast
+     0 output errors, 0 output discards
+Port-Channel125 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f381
+  Description: CUST: Owner: James Malachowski, Hostname: m3-small-x86-01, Instance ID: 848dcc54-f81a-402a-a790-fd3e9ea02278
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet32 , Full-duplex, 25Gb/s
+  ... PeerEthernet32 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 125 days, 17 hours, 53 minutes, 39 seconds
+  4 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 32 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 705 bps (0.0% with framing overhead), 1 packets/sec
+     683346 packets input, 80413313 bytes
+     Received 1 broadcasts, 348222 multicast
+     0 input errors, 0 input discards
+     12510537 packets output, 1881669545 bytes
+     Sent 690230 broadcasts, 6435038 multicast
+     0 output errors, 0 output discards
+Port-Channel129 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f382
+  Description: HARDWARE: ID: 855ecb97-d721-4657-9323-0e883844d493, Hostname: server-44d493.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet33 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 38 days, 22 hours, 44 minutes, 22 seconds
+  34 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.67 kbps (0.0% with framing overhead), 2 packets/sec
+     24383035 packets input, 29249931427 bytes
+     Received 61 broadcasts, 8410 multicast
+     0 input errors, 0 input discards
+     66637953 packets output, 66821883098 bytes
+     Sent 690478 broadcasts, 16557769 multicast
+     0 output errors, 0 output discards
+Port-Channel133 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f383
+  Description: HARDWARE: ID: bad07304-8384-4f0e-a778-87d2dc2806f6, Hostname: server-2806f6.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet34 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 32 days, 14 hours, 1 minute
+  18 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.69 kbps (0.0% with framing overhead), 2 packets/sec
+     2700452 packets input, 282011429 bytes
+     Received 31 broadcasts, 46 multicast
+     0 input errors, 0 input discards
+     25712008 packets output, 13198110309 bytes
+     Sent 690386 broadcasts, 16567933 multicast
+     0 output errors, 0 output discards
+Port-Channel137 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f384
+  Description: HARDWARE: ID: 7a51eed9-ce67-4204-a1ac-e55a29436ded, Hostname: server-436ded.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet35 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 18 days, 21 hours, 48 minutes, 8 seconds
+  152 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.65 kbps (0.0% with framing overhead), 2 packets/sec
+     22454424 packets input, 12635488000 bytes
+     Received 290 broadcasts, 11783 multicast
+     0 input errors, 0 input discards
+     95395256 packets output, 107081216722 bytes
+     Sent 691570 broadcasts, 16551246 multicast
+     0 output errors, 0 output discards
+Port-Channel141 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f385
+  Description: CUST: Owner: Kevin Jones, Hostname: navy-workshop-5-bastion, Instance ID: c84b70b0-13b9-40c1-962a-09ea1147e5ef
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet36 , Full-duplex, 25Gb/s
+  ... PeerEthernet36 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 16 hours, 7 minutes, 23 seconds
+  74 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 51.9 kbps (0.0% with framing overhead), 7 packets/sec
+  30 seconds output rate 54.9 kbps (0.0% with framing overhead), 9 packets/sec
+     60563094 packets input, 75925092679 bytes
+     Received 131 broadcasts, 83181 multicast
+     0 input errors, 0 input discards
+     125643010 packets output, 148971429669 bytes
+     Sent 691224 broadcasts, 16625591 multicast
+     0 output errors, 0 output discards
+Port-Channel145 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f386
+  Description: CUST: Owner: Aaron Klink, Hostname: kube-node-1.tko.prd.incap-infra.net, Instance ID: 0725acaf-a828-4901-81e3-03a7ee6d90a2
+  Ethernet MTU 9214 bytes, BW 50000000 kbit
+  Full-duplex, 50Gb/s 
+  Active members in this channel: 2
+  ... Ethernet37 , Full-duplex, 25Gb/s
+  ... PeerEthernet37 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Monitoring
+  Fallback timeout is 5 seconds
+  Up 71 days, 8 hours, 46 minutes, 2 seconds
+  22 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 140 Mbps (0.3% with framing overhead), 12801 packets/sec
+  30 seconds output rate 146 Mbps (0.3% with framing overhead), 15597 packets/sec
+     57393816244 packets input, 65656355474981 bytes
+     Received 51 broadcasts, 195540 multicast
+     0 input errors, 0 input discards
+     64051528099 packets output, 73089396590380 bytes
+     Sent 4907137 broadcasts, 16286994 multicast
+     0 output errors, 0 output discards
+Port-Channel149 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f387
+  Description: HARDWARE: ID: 37582c20-888b-41cf-ba93-bba1da005a25, Hostname: server-005a25.rk20.ty11.packet.net
+  Ethernet MTU 9214 bytes, BW 25000000 kbit
+  Full-duplex, 25Gb/s 
+  Active members in this channel: 1
+  ... Ethernet38 , Full-duplex, 25Gb/s
+  Fallback mode is: static
+  Fallback mode status: Enabled
+  Fallback timeout is 5 seconds
+  Up 41 days, 21 hours, 13 minutes, 47 seconds
+  164 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 1.70 kbps (0.0% with framing overhead), 2 packets/sec
+     130250459 packets input, 162454071496 bytes
+     Received 299 broadcasts, 167154 multicast
+     0 input errors, 0 input discards
+     196768764 packets output, 239855400300 bytes
+     Sent 699532 broadcasts, 16478683 multicast
+     0 output errors, 0 output discards
+Port-Channel2000 is up, line protocol is up (connected)
+  Hardware is Port-Channel, address is c4ca.2bb5.f3a2
+  Description: BB: MLAG Peer Link
+  Ethernet MTU 9214 bytes, BW 200000000 kbit
+  Full-duplex, 200Gb/s 
+  Active members in this channel: 2
+  ... Ethernet53/1 , Full-duplex, 100Gb/s
+  ... Ethernet54/1 , Full-duplex, 100Gb/s
+  Fallback mode is: off
+  Up 125 days, 17 hours, 41 minutes, 44 seconds
+  5 link status changes since last clear
+  Last clearing of "show interface" counters never
+  30 seconds input rate 4.41 Mbps (0.0% with framing overhead), 6652 packets/sec
+  30 seconds output rate 3.38 Mbps (0.0% with framing overhead), 5085 packets/sec
+     73780880165 packets input, 6632093898794 bytes
+     Received 19243505 broadcasts, 73577824950 multicast
+     0 input errors, 0 input discards
+     75443416256 packets output, 6603772783656 bytes
+     Sent 14866087 broadcasts, 75364977859 multicast
+     0 output errors, 0 output discards
+Vlan17 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: a534dfb2-506e-463a-a3de-f07d75df2254, Hostname: server-df2254.rk20.ty11.packet.net
+  Internet address is 169.254.17.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:17::, subnet is fe80:17::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan21 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: CUST: Owner: Hiroshi Nakayama, Hostname: EquinixNutanixB, Instance ID: a8475f1c-aef1-4c1d-a61c-57ff835bb5d1
+  Internet address is 169.254.21.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:21::, subnet is fe80:21::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan25 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: ff069db4-94d9-4b29-ba61-2c7d6505a6de, Hostname: server-05a6de.rk20.ty11.packet.net
+  Internet address is 169.254.25.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:25::, subnet is fe80:25::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan29 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: 1a25943d-718c-4c37-a3ab-de42e9c34437, Hostname: server-c34437.rk20.ty11.packet.net
+  Internet address is 169.254.29.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:29::, subnet is fe80:29::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan33 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: CUST: Owner: Joe McLaughlin, Hostname: TY-hsfpiow, Instance ID: fffd117c-9053-44b7-b6cb-6afe9520ebb8
+  Internet address is 169.254.33.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:33::, subnet is fe80:33::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan121 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: CUST: Owner: Chris Turra, Hostname: r-8e46a0d4.tyo1.p1.edge.menlorecast.com, Instance ID: 503c0f95-7abc-4a8c-af8c-30b647055f40
+  Internet address is 169.254.121.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:121::, subnet is fe80:121::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan125 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: CUST: Owner: James Malachowski, Hostname: m3-small-x86-01, Instance ID: 848dcc54-f81a-402a-a790-fd3e9ea02278
+  Internet address is 169.254.125.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:125::, subnet is fe80:125::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan129 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: 855ecb97-d721-4657-9323-0e883844d493, Hostname: server-44d493.rk20.ty11.packet.net
+  Internet address is 169.254.129.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:129::, subnet is fe80:129::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan133 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: bad07304-8384-4f0e-a778-87d2dc2806f6, Hostname: server-2806f6.rk20.ty11.packet.net
+  Internet address is 169.254.133.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:133::, subnet is fe80:133::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan137 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: 7a51eed9-ce67-4204-a1ac-e55a29436ded, Hostname: server-436ded.rk20.ty11.packet.net
+  Internet address is 169.254.137.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:137::, subnet is fe80:137::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan141 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: CUST: Owner: Kevin Jones, Hostname: navy-workshop-5-bastion, Instance ID: c84b70b0-13b9-40c1-962a-09ea1147e5ef
+  Internet address is 169.254.141.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:141::, subnet is fe80:141::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan149 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: HARDWARE: ID: 37582c20-888b-41cf-ba93-bba1da005a25, Hostname: server-005a25.rk20.ty11.packet.net
+  Internet address is 169.254.149.0/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fe80:149::, subnet is fe80:149::/127
+  IP MTU 9142 bytes
+  Up 125 days, 18 hours, 19 minutes, 56 seconds
+Vlan2021 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Internet address is virtual 198.143.44.97/28
+  Broadcast address is 255.255.255.255
+  IP MTU 9142 bytes
+  Up 71 days, 8 hours, 45 minutes, 17 seconds
+Vlan2022 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: VRF CUST-1cf83bed-53cd-44e6-bcc7-37fc53f31f50 MLAG Transit VLAN
+  Internet address is 169.254.255.254/31
+  Broadcast address is 255.255.255.255
+  IP MTU 1500 bytes (default)
+  Up 71 days, 8 hours, 45 minutes, 6 seconds
+Vlan3996 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  No Internet protocol address assigned
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  No IPv6 global unicast address is assigned
+  IP MTU 9164 bytes (default)
+  Up 71 days, 8 hours, 45 minutes, 17 seconds
+Vlan4094 is up, line protocol is up (connected)
+  Hardware is Vlan, address is c4ca.2bb5.f361 (bia c4ca.2bb5.f361)
+  Description: BB: MLAG Peer L3 Link
+  Internet address is 169.254.255.254/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::c6ca:2bff:feb5:f361/64
+  IPv6 global unicast address(es):
+    fc00::, subnet is fc00::/127
+  IP MTU 9214 bytes
+  Up 125 days, 18 hours, 21 minutes, 2 seconds
+Vxlan1 is up, line protocol is up (connected)
+  Hardware is Vxlan
+  Source interface is Loopback2 and is active with 139.178.78.67
+  Listening on UDP port 4789
+  Replication/Flood Mode is headend with Flood List Source: EVPN
+  Remote MAC learning via EVPN
+  VNI mapping to VLANs
+  Static VLAN to VNI mapping is 
+    [2000, 500244]    [2001, 100108]    [2002, 100099]    [2003, 100016]   
+    [2004, 100082]    [2005, 100098]    [2006, 100096]    [2007, 100091]   
+    [2008, 100101]    [2009, 100109]    [2010, 100113]    [2011, 100092]   
+    [2012, 100114]    [2013, 100119]    [2014, 500315]    [2015, 100051]   
+    [2016, 100140]    [2017, 501180]    [2018, 500743]    [2019, 500840]   
+    [2020, 501247]    [2021, 501685]    [2023, 500390]    [2024, 501401]   
+    [2025, 501888]    [2026, 501889]    [2027, 501918]    [2028, 500200]   
+    [2029, 500240]    [2030, 501924]    [2031, 502769]    [2032, 502102]   
+    [2033, 502450]   
+  Dynamic VLAN to VNI mapping for 'evpn' is
+    [3996, 300012]   
+  Note: All Dynamic VLANs used by VCS are internal VLANs.
+        Use 'show vxlan vni' for details.
+  Static VRF to VNI mapping is 
+   [CUST-1cf83bed-53cd-44e6-bcc7-37fc53f31f50, 300012]
+  Headend replication flood vtep list is:
+  2000 139.178.78.54   139.178.78.66  
+  2001 139.178.78.66  
+  2002 139.178.78.54   139.178.78.66  
+  2003 139.178.78.42   139.178.78.26  
+  2004 139.178.78.54   139.178.78.66  
+  2005 139.178.78.54   139.178.78.66  
+  2006 139.178.78.54   139.178.78.66  
+  2007 139.178.78.54   139.178.78.66  
+  2008 139.178.78.54   139.178.78.66  
+  2009 139.178.78.54   139.178.78.66  
+  2010 139.178.78.54   139.178.78.66  
+  2011 139.178.78.54   139.178.78.66  
+  2012 139.178.78.54   139.178.78.66  
+  2013 139.178.78.54   139.178.78.66  
+  2014 139.178.78.54   139.178.78.66  
+  2015 139.178.78.54   139.178.78.66  
+  2016 139.178.78.54   139.178.78.66  
+  2017 139.178.78.54   139.178.78.66  
+  2018 139.178.78.54   139.178.78.66  
+  2019 139.178.78.54   139.178.78.66  
+  2020 139.178.78.54   139.178.78.66  
+  2021 139.178.78.54   139.178.78.28   139.178.78.23   139.178.78.43  
+  2023 139.178.78.54   139.178.78.66  
+  2024 139.178.78.54   139.178.78.66  
+  2025 139.178.78.54   139.178.78.66  
+  2026 139.178.78.54   139.178.78.66  
+  2027 139.178.78.54   139.178.78.66  
+  2028 139.178.78.54   139.178.78.66  
+  2029 139.178.78.54   139.178.78.66  
+  2030 139.178.78.54   139.178.78.66  
+  2031 139.178.78.54   139.178.78.66   139.178.78.41  
+  2032 139.178.78.54   139.178.78.66  
+  2033 139.178.78.34  
+  MLAG Shared Router MAC is c6ca.2bb5.f1c7
+
+

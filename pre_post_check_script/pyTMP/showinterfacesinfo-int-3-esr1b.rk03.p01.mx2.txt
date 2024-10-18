@@ -1,0 +1,325 @@
++------------+------------+------------+------------+------------+------------+
+|    Name    |   Admin-   | Oper-state |  Ethernet  | Transceive | Descriptio |
+|            |   state    |            | port-speed |  r form-   |     n      |
+|            |            |            |            |   factor   |            |
++============+============+============+============+============+============+
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/1        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/2        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/3        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/4        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/5        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/6        |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/7        |            |            |            |            | ID: 5f7047 |
+|            |            |            |            |            | 53-1933-   |
+|            |            |            |            |            | 45ee-939f- |
+|            |            |            |            |            | 76d08b9271 |
+|            |            |            |            |            | f6,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 9271f6.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/8        |            |            |            |            | ID: 26b503 |
+|            |            |            |            |            | 4e-af81-   |
+|            |            |            |            |            | 43bd-bc4f- |
+|            |            |            |            |            | 74907ce4a6 |
+|            |            |            |            |            | 37,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | e4a637.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/9        |            |            |            |            | ID: 6e9083 |
+|            |            |            |            |            | 79-311f-   |
+|            |            |            |            |            | 425c-a3c6- |
+|            |            |            |            |            | be6b0fd4c9 |
+|            |            |            |            |            | 71,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | d4c971.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/10       |            |            |            |            | ID: 3cd4ba |
+|            |            |            |            |            | 98-b2e4-   |
+|            |            |            |            |            | 4cea-a861- |
+|            |            |            |            |            | c6bdf15c8a |
+|            |            |            |            |            | 05,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 5c8a05.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        | SFP28      | HARDWARE:  |
+| 1/11       |            |            |            |            | ID: 1d1e60 |
+|            |            |            |            |            | 8d-8f39-   |
+|            |            |            |            |            | 44fe-bd7f- |
+|            |            |            |            |            | f4c77f5cbc |
+|            |            |            |            |            | 8a,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 5cbc8a.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/12       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/13       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/14       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/15       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/16       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/17       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/18       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/19       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/20       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/21       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/22       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/23       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/24       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/25       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/26       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/27       |            |            |            |            | Owner:     |
+|            |            |            |            |            | James Mala |
+|            |            |            |            |            | chowski,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | teleperfor |
+|            |            |            |            |            | mance-mx,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: ce1758 |
+|            |            |            |            |            | a0-8d2b-   |
+|            |            |            |            |            | 45eb-ba9e- |
+|            |            |            |            |            | 4c0833944a |
+|            |            |            |            |            | ab         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/28       |            |            |            |            | Owner:     |
+|            |            |            |            |            | Drew       |
+|            |            |            |            |            | Raines,    |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | jmears-sol |
+|            |            |            |            |            | r2-test,   |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 9e9597 |
+|            |            |            |            |            | e8-274b-   |
+|            |            |            |            |            | 42ac-84d1- |
+|            |            |            |            |            | 088f369ab5 |
+|            |            |            |            |            | 46         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/29       |            |            |            |            | ID: 0b4e04 |
+|            |            |            |            |            | a4-16ef-   |
+|            |            |            |            |            | 4529-8b07- |
+|            |            |            |            |            | 19deee4371 |
+|            |            |            |            |            | c8,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 4371c8.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/30       |            |            |            |            | Owner:     |
+|            |            |            |            |            | Drew       |
+|            |            |            |            |            | Raines,    |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | jmears-    |
+|            |            |            |            |            | solr-test, |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 238c75 |
+|            |            |            |            |            | 0a-b26a-   |
+|            |            |            |            |            | 4a79-bc1a- |
+|            |            |            |            |            | 4a1760b876 |
+|            |            |            |            |            | 10         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/31       |            |            |            |            | ID: 300dc4 |
+|            |            |            |            |            | 1c-7cf0-   |
+|            |            |            |            |            | 4b9f-94a6- |
+|            |            |            |            |            | 469fb60857 |
+|            |            |            |            |            | 95,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 085795.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/32       |            |            |            |            | Owner:     |
+|            |            |            |            |            | Drew       |
+|            |            |            |            |            | Raines,    |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | Tyler-     |
+|            |            |            |            |            | test,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: c12d53 |
+|            |            |            |            |            | 48-977d-   |
+|            |            |            |            |            | 4716-8baa- |
+|            |            |            |            |            | 3512169eba |
+|            |            |            |            |            | af         |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/33       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/34       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/35       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER1,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 6a20ce |
+|            |            |            |            |            | 70-f35f-   |
+|            |            |            |            |            | 419c-b590- |
+|            |            |            |            |            | 94dfbb2a6e |
+|            |            |            |            |            | 9b         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/36       |            |            |            |            | ID: 153de5 |
+|            |            |            |            |            | 3a-b45e-   |
+|            |            |            |            |            | 468a-b05e- |
+|            |            |            |            |            | 91f13d37d3 |
+|            |            |            |            |            | b9,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 37d3b9.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/37       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER5,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: d336d8 |
+|            |            |            |            |            | 1c-2a8f-   |
+|            |            |            |            |            | 4ccb-bdda- |
+|            |            |            |            |            | 2def643ba2 |
+|            |            |            |            |            | cb         |
+| ethernet-  | enable     | down       | 25G        |            | CUST:      |
+| 1/38       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER2,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: cac32d |
+|            |            |            |            |            | b7-4b69-   |
+|            |            |            |            |            | 4f3b-ac90- |
+|            |            |            |            |            | f44e9bd0c0 |
+|            |            |            |            |            | df         |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/39       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/40       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/41       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/42       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/43       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/44       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/45       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER1,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 6a20ce |
+|            |            |            |            |            | 70-f35f-   |
+|            |            |            |            |            | 419c-b590- |
+|            |            |            |            |            | 94dfbb2a6e |
+|            |            |            |            |            | 9b         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/46       |            |            |            |            | ID: 153de5 |
+|            |            |            |            |            | 3a-b45e-   |
+|            |            |            |            |            | 468a-b05e- |
+|            |            |            |            |            | 91f13d37d3 |
+|            |            |            |            |            | b9,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 37d3b9.rk0 |
+|            |            |            |            |            | 3.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/47       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER5,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: d336d8 |
+|            |            |            |            |            | 1c-2a8f-   |
+|            |            |            |            |            | 4ccb-bdda- |
+|            |            |            |            |            | 2def643ba2 |
+|            |            |            |            |            | cb         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/48       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER2,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: cac32d |
+|            |            |            |            |            | b7-4b69-   |
+|            |            |            |            |            | 4f3b-ac90- |
+|            |            |            |            |            | f44e9bd0c0 |
+|            |            |            |            |            | df         |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr1.r |
+| 1/49       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/12      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr2.r |
+| 1/50       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/12      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr3.r |
+| 1/51       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/12      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr4.r |
+| 1/52       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/12      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/53       |            |            |            |            | rk03.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/53     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/54       |            |            |            |            | rk03.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/54     |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/55       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/56       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/57       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/58       |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+
+
+

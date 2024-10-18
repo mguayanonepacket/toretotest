@@ -1,0 +1,16 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+--------------------------------------------------------------------------------
+Hostname             : ssp3.mx2
+Chassis Type         : 7220 IXR-D3L
+Part Number          : 3HE17646AARA01
+Serial Number        : NK224238091
+System HW MAC Address: 9C:54:67:4F:A3:A7
+Software Version     : v23.10.4
+Build Number         : 89-g68bbba5a50
+Architecture         : x86_64
+Last Booted          : 2024-09-06T08:25:29.728Z
+Total Memory         : 15986113 kB
+Free Memory          : 12705101 kB
+--------------------------------------------------------------------------------
+
+

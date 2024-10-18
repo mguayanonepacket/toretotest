@@ -1,0 +1,66 @@
+Port       Name                                                                                       Status       Vlan     Duplex Speed  Type           Flags Encapsulation
+Et1/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et10/1     ENROLLED: 10G                                                                              notconnect   trunk    full   100G   Not Present                      
+Et11/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et12/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et13/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et14/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et15/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et16/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et17/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et18/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et19/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et20/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et21/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et22/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et23/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et24/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et25/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et26/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et27/1     FABRIC: ECX {EQUINIX:627768-MX2-CX-PRI-02} (EQSC:22652891) (PP:0000:1332164:3-4) [100G-LR] connected    trunk    full   100G   100GBASE-LR4                     
+Et28/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et29/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et30/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et31/1     BB: bbr1.mx2:et-0/1/8 [local wire]                                                         connected    routed   full   100G   100GBASE-CWDM4                   
+Et32/1     BB: bbr2.mx2:et-0/1/8 [local wire]                                                         connected    routed   full   100G   100GBASE-CWDM4                   
+Et33                                                                                                  notconnect   1        full   10G    Not Present                      
+Et34                                                                                                  notconnect   1        full   10G    Not Present                      
+Ma1                                                                                                   connected    routed   a-full a-1G   10/100/1000                      
+
+
+

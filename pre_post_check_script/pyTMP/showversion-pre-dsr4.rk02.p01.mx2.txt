@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+Hostname             : dsr4.rk02.p01.mx2
+Chassis Type         : 7220 IXR-D3L
+Part Number          : 3HE17646AARA01
+Serial Number        : NK224238190
+System HW MAC Address: 9C:54:67:50:93:A7
+Software Version     : v23.3.3
+Build Number         : 11-ga3835b6dac
+Architecture         : x86_64
+Last Booted          : 2023-12-11T04:06:34.124Z
+Total Memory         : 15987488 kB
+Free Memory          : 12458023 kB
+--------------------------------------------------------------------------------
+
+

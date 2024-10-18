@@ -1,0 +1,76 @@
+System temperature status is: Ok
+Action on overheat: shutdown
+Recovery mode when power-cycle upon overheat: not applicable
+Restrict recovery when ambient temperature is at or above: not applicable
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Cpu temp sensor                        47.5   (60) 62.9     90        95
+2       Cpu board temp sensor                  38.0   (55) 57.9     75        80
+3       Back-panel temp sensor                 34.9   (50) 52.9     75        85
+4       Board temp sensor                      37.0   (65) 67.9     75        85
+5       Front-panel temp sensor                32.2   (50) 52.9     60        65
+6       Trident3 top left outer sensor         41.4   (80) 82.9    100       110
+7       Trident3 bottom left outer sensor      41.9   (80) 82.9    100       110
+8       Trident3 bottom right outer sensor     42.5   (80) 82.9    100       110
+9       Trident3 top right outer sensor        41.4   (80) 82.9    100       110
+10      Trident3 top left center sensor        43.5   (80) 82.9    100       110
+11      Trident3 top right center sensor       43.0   (80) 82.9    100       110
+12      Trident3 top right inner sensor        39.8   (80) 82.9    100       110
+13      Trident3 top center sensor             45.1   (80) 82.9    100       110
+14      Trident3 bottom center sensor          41.4   (80) 82.9    100       110
+15      Trident3 bottom left center sensor     43.0   (80) 82.9    100       110
+16      Trident3 bottom right center sensor    43.5   (80) 82.9    100       110
+
+PowerSupply 1:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Hotspot                                47.0   (80) 82.9     95       100
+2       Inlet                                  29.0   (55) 57.9     70        75
+3       Secondary hotspot                      41.0   (80) 82.9    108       113
+
+PowerSupply 2:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Hotspot                                44.0   (80) 82.9     95       100
+2       Inlet                                  29.0   (55) 57.9     70        75
+3       Secondary hotspot                      42.0   (80) 82.9    108       113
+
+System cooling status is: Ok
+Ambient temperature: 32C
+Airflow: port-side intake
+Number of cooling zones is: 1
+                      Config Actual                    Speed
+Fan            Status  Speed  Speed             Uptime Stability
+-------------- ------ ------ ------ ------------------ -----------
+1/1            Ok        30%    35% 271 days, 10:19:10 Stable
+2/1            Ok        30%    35% 271 days, 10:19:10 Stable
+3/1            Ok        30%    35% 271 days, 10:19:10 Stable
+4/1            Ok        30%    37% 271 days, 10:19:10 Stable
+PowerSupply1/1 Ok        31%    33% 271 days, 10:18:53 FW Override
+PowerSupply2/1 Ok        31%    32% 271 days, 10:18:53 FW Override
+
+            Stable
+            Uptime
+------------------
+271 days, 10:18:54
+271 days, 10:18:54
+271 days, 10:18:56
+271 days, 10:18:54
+               N/A
+               N/A
+
+Power                        Input  Output  Output
+Supply Model       Capacity Current Current  Power Status             Uptime
+------ ----------- -------- ------- ------- ------ ------ ------------------
+1      PWR-500AC-F     500W   0.37A   5.21A  62.5W Ok     271 days, 10:18:53
+2      PWR-500AC-F     500W   0.38A   5.76A  69.0W Ok     271 days, 10:18:53
+Total  --             1000W      --      -- 131.5W --                     --
+
+
+

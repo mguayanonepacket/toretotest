@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | BSR   | SB    | 54825 | estab | 0d:0h | ipv4- | [8/8/ |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 89]   |
+|       | 8     |       |       |       | d     | 22s   | st    |       |
+| defau | 10.25 | BSR   | SB    | 54825 | estab | 0d:0h | ipv4- | [8/8/ |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 96]   |
+|       | 20    |       |       |       | d     | 22s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 4/1]  |
+|       | 56    |       |       |       | d     | 26s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 4/1]  |
+|       | 58    |       |       |       | d     | 18s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 4/1]  |
+|       | 60    |       |       |       | d     | 26s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :12m: | unica | 4/1]  |
+|       | 62    |       |       |       | d     | 24s   | st    |       |
+| defau | fc00: | V6-   | S     | 54825 | estab | 0d:0h | ipv6- | [4/4/ |
+| lt    | da::8 | BSR   |       |       | lishe | :12m: | unica | 32]   |
+|       |       |       |       |       | d     | 37s   | st    |       |
+| defau | fc00: | V6-   | S     | 54825 | estab | 0d:0h | ipv6- | [4/4/ |
+| lt    | da::1 | BSR   |       |       | lishe | :12m: | unica | 35]   |
+|       | 4     |       |       |       | d     | 41s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::3 | DSR   |       |       | lishe | :12m: | unica | 7/1]  |
+|       | 8     |       |       |       | d     | 32s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::3 | DSR   |       |       | lishe | :12m: | unica | 7/1]  |
+|       | a     |       |       |       | d     | 25s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::3 | DSR   |       |       | lishe | :12m: | unica | 7/1]  |
+|       | c     |       |       |       | d     | 32s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::3 | DSR   |       |       | lishe | :12m: | unica | 7/1]  |
+|       | e     |       |       |       | d     | 29s   | st    |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+12 configured neighbors, 12 configured sessions are established,0 disabled peers
+0 dynamic peers
+
+

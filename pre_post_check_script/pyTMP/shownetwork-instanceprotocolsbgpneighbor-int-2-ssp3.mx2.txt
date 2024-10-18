@@ -1,0 +1,54 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | BSR   | SB    | 54825 | estab | 0d:0h | ipv4- | [8/8/ |
+| lt    | 3.20. |       |       |       | lishe | :39m: | unica | 89]   |
+|       | 6     |       |       |       | d     | 59s   | st    |       |
+| defau | 10.25 | BSR   | SB    | 54825 | estab | 0d:0h | ipv4- | [8/8/ |
+| lt    | 3.20. |       |       |       | lishe | :39m: | unica | 96]   |
+|       | 18    |       |       |       | d     | 57s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :20m: | unica | 4/1]  |
+|       | 40    |       |       |       | d     | 41s   | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :40m: | unica | 4/1]  |
+|       | 42    |       |       |       | d     | 3s    | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :40m: | unica | 4/1]  |
+|       | 44    |       |       |       | d     | 0s    | st    |       |
+| defau | 10.25 | DSR   | SB    | 65520 | estab | 0d:0h | ipv4- | [85/8 |
+| lt    | 3.20. |       |       |       | lishe | :40m: | unica | 4/1]  |
+|       | 46    |       |       |       | d     | 2s    | st    |       |
+| defau | fc00: | V6-   | S     | 54825 | estab | 0d:0h | ipv6- | [4/4/ |
+| lt    | da::6 | BSR   |       |       | lishe | :40m: | unica | 32]   |
+|       |       |       |       |       | d     | 21s   | st    |       |
+| defau | fc00: | V6-   | S     | 54825 | estab | 0d:0h | ipv6- | [4/4/ |
+| lt    | da::1 | BSR   |       |       | lishe | :40m: | unica | 35]   |
+|       | 2     |       |       |       | d     | 20s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::2 | DSR   |       |       | lishe | :20m: | unica | 7/1]  |
+|       | 8     |       |       |       | d     | 46s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::2 | DSR   |       |       | lishe | :40m: | unica | 7/1]  |
+|       | a     |       |       |       | d     | 8s    | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::2 | DSR   |       |       | lishe | :40m: | unica | 7/1]  |
+|       | c     |       |       |       | d     | 8s    | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [28/2 |
+| lt    | da::2 | DSR   |       |       | lishe | :40m: | unica | 7/1]  |
+|       | e     |       |       |       | d     | 8s    | st    |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+12 configured neighbors, 12 configured sessions are established,0 disabled peers
+0 dynamic peers
+
+

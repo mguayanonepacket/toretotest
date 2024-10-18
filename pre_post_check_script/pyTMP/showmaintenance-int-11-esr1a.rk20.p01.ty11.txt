@@ -1,0 +1,12 @@
+Flags:
+o - On-boot maintenance
+v - Violating traffic threshold
+
+                                      Time since    Aggregate Rate (Mbps)      
+Unit Name        Status               last change           In        Out Flags
+---------------- ------------------ --------------- ---------- ---------- -----
+System           Not Under            0:00:52 ago            -          -      
+                 Maintenance                                                   
+
+
+

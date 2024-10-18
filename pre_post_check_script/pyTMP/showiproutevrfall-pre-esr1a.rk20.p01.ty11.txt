@@ -1,0 +1,136 @@
+
+VRF: default
+Codes: C - connected, S - static, K - kernel, 
+       O - OSPF, IA - OSPF inter area, E1 - OSPF external type 1,
+       E2 - OSPF external type 2, N1 - OSPF NSSA external type 1,
+       N2 - OSPF NSSA external type2, B - Other BGP Routes,
+       B I - iBGP, B E - eBGP, R - RIP, I L1 - IS-IS level 1,
+       I L2 - IS-IS level 2, O3 - OSPFv3, A B - BGP Aggregate,
+       A O - OSPF Summary, NG - Nexthop Group Static Route,
+       V - VXLAN Control Service, M - Martian,
+       DH - DHCP client installed default route,
+       DP - Dynamic Policy Route, L - VRF Leaked,
+       G  - gRIBI, RC - Route Cache Route,
+       CL - CBF Leaked Route
+
+Gateway of last resort:
+ B E      0.0.0.0/0 [200/0] via 10.253.105.88, Ethernet49/1
+                            via 10.253.105.90, Ethernet50/1
+                            via 10.253.105.92, Ethernet51/1
+                            via 10.253.105.94, Ethernet52/1
+
+ S        10.79.14.6/31 is directly connected, Vlan121
+ S        10.79.27.4/31 is directly connected, Vlan33
+ S        10.79.58.176/28 is directly connected, Vlan21
+ S        10.79.62.128/31 is directly connected, Vlan141
+ S        10.79.68.0/31 is directly connected, Vlan125
+ C        10.253.105.88/31 is directly connected, Ethernet49/1
+ C        10.253.105.90/31 is directly connected, Ethernet50/1
+ C        10.253.105.92/31 is directly connected, Ethernet51/1
+ C        10.253.105.94/31 is directly connected, Ethernet52/1
+ B I      10.253.105.96/31 [200/0] via 169.254.255.255, Vlan4094
+ B I      10.253.105.98/31 [200/0] via 169.254.255.255, Vlan4094
+ B I      10.253.105.100/31 [200/0] via 169.254.255.255, Vlan4094
+ B I      10.253.105.102/31 [200/0] via 169.254.255.255, Vlan4094
+ B E      57.140.64.0/24 [200/0] via 10.79.14.7, Vlan121
+ B E      57.140.67.0/24 [200/0] via 10.79.14.7, Vlan121
+ C        139.178.78.58/32 is directly connected, Loopback0
+ B I      139.178.78.59/32 [200/0] via 169.254.255.255, Vlan4094
+ C        139.178.78.67/32 is directly connected, Loopback2
+ S        147.75.92.144/31 is directly connected, Vlan125
+ S        147.75.92.236/31 is directly connected, Vlan121
+ S        147.75.94.94/31 is directly connected, Vlan141
+ S        147.75.94.96/31 is directly connected, Vlan33
+ C        169.254.17.0/31 is directly connected, Vlan17
+ C        169.254.21.0/31 is directly connected, Vlan21
+ C        169.254.25.0/31 is directly connected, Vlan25
+ C        169.254.29.0/31 is directly connected, Vlan29
+ C        169.254.33.0/31 is directly connected, Vlan33
+ C        169.254.121.0/31 is directly connected, Vlan121
+ C        169.254.125.0/31 is directly connected, Vlan125
+ C        169.254.129.0/31 is directly connected, Vlan129
+ C        169.254.133.0/31 is directly connected, Vlan133
+ C        169.254.137.0/31 is directly connected, Vlan137
+ C        169.254.141.0/31 is directly connected, Vlan141
+ C        169.254.149.0/31 is directly connected, Vlan149
+ C        169.254.255.1/32 is directly connected, Loopback1
+ B I      169.254.255.2/32 [200/0] via 169.254.255.255, Vlan4094
+ C        169.254.255.254/31 is directly connected, Vlan4094
+ S        172.17.66.250/31 is directly connected, Vlan149
+ S        172.17.67.0/31 is directly connected, Vlan133
+ S        172.17.67.2/31 is directly connected, Vlan137
+ S        172.17.67.6/31 is directly connected, Vlan129
+ S        172.17.67.106/31 is directly connected, Vlan17
+ S        172.17.67.110/31 is directly connected, Vlan25
+ S        172.17.67.112/31 is directly connected, Vlan29
+
+
+VRF: CUST-1cf83bed-53cd-44e6-bcc7-37fc53f31f50
+Codes: C - connected, S - static, K - kernel, 
+       O - OSPF, IA - OSPF inter area, E1 - OSPF external type 1,
+       E2 - OSPF external type 2, N1 - OSPF NSSA external type 1,
+       N2 - OSPF NSSA external type2, B - Other BGP Routes,
+       B I - iBGP, B E - eBGP, R - RIP, I L1 - IS-IS level 1,
+       I L2 - IS-IS level 2, O3 - OSPFv3, A B - BGP Aggregate,
+       A O - OSPF Summary, NG - Nexthop Group Static Route,
+       V - VXLAN Control Service, M - Martian,
+       DH - DHCP client installed default route,
+       DP - Dynamic Policy Route, L - VRF Leaked,
+       G  - gRIBI, RC - Route Cache Route,
+       CL - CBF Leaked Route
+
+Gateway of last resort:
+ B E      0.0.0.0/0 [200/0] via VTEP 139.178.78.197 VNI 300012 router-mac d4:af:f7:da:e7:db
+                            via VTEP 139.178.78.196 VNI 300012 router-mac d4:af:f7:db:12:23
+
+ B E      169.254.254.0/30 [200/0] via VTEP 139.178.78.196 VNI 300012 router-mac d4:af:f7:db:12:23
+ B E      169.254.254.4/30 [200/0] via VTEP 139.178.78.197 VNI 300012 router-mac d4:af:f7:da:e7:db
+ C        169.254.255.1/32 is directly connected, Loopback11
+ B I      169.254.255.2/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.3/32 is directly connected, Loopback11
+ B I      169.254.255.4/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.5/32 is directly connected, Loopback11
+ B I      169.254.255.6/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.7/32 is directly connected, Loopback11
+ B I      169.254.255.8/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.9/32 is directly connected, Loopback11
+ B I      169.254.255.10/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.11/32 is directly connected, Loopback11
+ B I      169.254.255.12/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.13/32 is directly connected, Loopback11
+ B I      169.254.255.14/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.15/32 is directly connected, Loopback11
+ B I      169.254.255.16/32 [200/0] via 169.254.255.255, Vlan2022
+ C        169.254.255.254/31 is directly connected, Vlan2022
+ B E      198.143.44.100/32 [200/0] via VTEP 139.178.78.43 VNI 300012 router-mac 96:8e:d3:fd:71:ff
+ B E      198.143.44.103/32 [200/0] via VTEP 139.178.78.54 VNI 300012 router-mac c6:ca:2b:b5:90:b9
+ B E      198.143.44.105/32 [200/0] via VTEP 139.178.78.23 VNI 300012 router-mac d6:af:f7:f9:8b:e3
+ B E      198.143.44.106/32 [200/0] via VTEP 139.178.78.28 VNI 300012 router-mac d6:af:f7:f9:77:63
+ B E      198.143.44.107/32 [200/0] via VTEP 139.178.78.23 VNI 300012 router-mac d6:af:f7:f9:8b:e3
+ C        198.143.44.96/28 is directly connected, Vlan2021
+ B E      198.143.44.128/32 [200/0] via VTEP 139.178.78.23 VNI 300012 router-mac d6:af:f7:f9:8b:e3
+                                    via VTEP 139.178.78.43 VNI 300012 router-mac 96:8e:d3:fd:71:ff
+ B E      198.143.44.129/32 [200/27779] via 198.143.44.108, Vlan2021
+
+
+VRF: MGMT
+Codes: C - connected, S - static, K - kernel, 
+       O - OSPF, IA - OSPF inter area, E1 - OSPF external type 1,
+       E2 - OSPF external type 2, N1 - OSPF NSSA external type 1,
+       N2 - OSPF NSSA external type2, B - Other BGP Routes,
+       B I - iBGP, B E - eBGP, R - RIP, I L1 - IS-IS level 1,
+       I L2 - IS-IS level 2, O3 - OSPFv3, A B - BGP Aggregate,
+       A O - OSPF Summary, NG - Nexthop Group Static Route,
+       V - VXLAN Control Service, M - Martian,
+       DH - DHCP client installed default route,
+       DP - Dynamic Policy Route, L - VRF Leaked,
+       G  - gRIBI, RC - Route Cache Route,
+       CL - CBF Leaked Route
+
+Gateway of last resort:
+ S        0.0.0.0/0 [1/0] via 10.205.139.1, Management1
+
+ C        10.205.139.0/25 is directly connected, Management1
+
+
+

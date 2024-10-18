@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 270d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 2h:29 | unica | 15]   |
+|       | 84    |       |       |       | d     | m:55s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 270d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 2h:16 | unica | 15]   |
+|       | 112   |       |       |       | d     | m:18s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 270d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 2h:29 | unica | 15]   |
+|       | 140   |       |       |       | d     | m:44s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 270d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 2h:15 | unica | 15]   |
+|       | 168   |       |       |       | d     | m:47s | st    |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 265d: | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 23h:2 | unica | 4]    |
+|       | 197   |       |       |       | d     | 0m:34 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 265d: | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 23h:2 | unica | 4]    |
+|       | 199   |       |       |       | d     | 0m:34 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 239d: | evpn  | [143/ |
+| lt    | 8.222 |       |       |       | lishe | 2h:16 |       | 136/3 |
+|       | .4    |       |       |       | d     | m:32s |       | 6]    |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 239d: | evpn  | [143/ |
+| lt    | 8.222 |       |       |       | lishe | 0h:24 |       | 0/172 |
+|       | .5    |       |       |       | d     | m:29s |       | ]     |
+| defau | 147.2 | TOR-  | SB    | 65530 | estab | 265d: | evpn  | [227/ |
+| lt    | 8.222 | PEER- |       |       | lishe | 23h:2 |       | 91/26 |
+|       | .41   | EVPN  |       |       | d     | 0m:32 |       | 3]    |
+|       |       |       |       |       |       | s     |       |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 270d: | ipv6- | [1/1/ |
+| lt    | da::5 | LINK  |       |       | lishe | 2h:29 | unica | 2]    |
+|       | 4     |       |       |       | d     | m:9s  | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 270d: | ipv6- | [1/1/ |
+| lt    | da::7 | LINK  |       |       | lishe | 2h:15 | unica | 2]    |
+|       | 0     |       |       |       | d     | m:46s | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 270d: | ipv6- | [1/1/ |
+| lt    | da::8 | LINK  |       |       | lishe | 2h:29 | unica | 2]    |
+|       | c     |       |       |       | d     | m:46s | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 270d: | ipv6- | [1/1/ |
+| lt    | da::a | LINK  |       |       | lishe | 2h:15 | unica | 2]    |
+|       | 8     |       |       |       | d     | m:23s | st    |       |
+| defau | fc00: | V6-TO | S     | 65530 | estab | 265d: | ipv6- | [3/2/ |
+| lt    | da::c | R-    |       |       | lishe | 23h:2 | unica | 3]    |
+|       | 5     | PEER  |       |       | d     | 0m:26 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | fc00: | V6-TO | S     | 65530 | estab | 265d: | ipv6- | [3/2/ |
+| lt    | da::c | R-    |       |       | lishe | 23h:2 | unica | 3]    |
+|       | 7     | PEER  |       |       | d     | 0m:26 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+15 configured neighbors, 15 configured sessions are established,0 disabled peers
+0 dynamic peers
+
+

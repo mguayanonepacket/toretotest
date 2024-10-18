@@ -1,0 +1,88 @@
+<ssp3.mx2> show interface
+================================================================================
+ethernet-1/1 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/1.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.7/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::7/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3a8/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/2 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/2.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.19/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::13/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3a9/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/5 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/5.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.41/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::29/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3ac/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/6 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/6.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.43/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::2b/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3ad/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/7 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/7.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.45/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::2d/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3ae/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/8 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/8.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.47/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::2f/127 (static, preferred, primary)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3af/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+lo0 is up, speed None, type None
+  lo0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.7/32 (static, preferred, primary)
+    IPv6 addr    : 2604:1380:4060:ffff::7/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+mgmt0 is up, speed 1G, type None
+  mgmt0.0 is up
+    Network-instances:
+      * Name: mgmt
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.55.128.7/25 (static, preferred)
+    IPv6 addr    : fe80::9e54:67ff:fe4f:a3a7/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+================================================================================
+Summary
+  1 loopback interfaces configured
+  6 ethernet interfaces are up
+  1 management interfaces are up
+  8 subinterfaces are up
+================================================================================
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory

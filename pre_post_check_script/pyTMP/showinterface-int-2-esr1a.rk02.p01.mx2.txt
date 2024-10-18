@@ -1,0 +1,106 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+================================================================================
+ethernet-1/49 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/49.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.69/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::45/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:9745/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/50 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/50.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.97/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::61/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:9746/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/51 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/51.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.125/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::7d/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:9747/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/52 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/52.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.153/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::99/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:9748/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/53 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/53.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.184/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::b8/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:9749/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/54 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/54.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.186/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::ba/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:974a/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+lo0 is up, speed None, type None
+  lo0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.18/32 (static, preferred, primary)
+    IPv6 addr    : 2604:1380:4060:ffff::12/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+lo1 is up, speed None, type None
+  lo1.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 169.254.255.1/32 (static, preferred, primary)
+    IPv6 addr    : fc00::e/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+mgmt0 is up, speed 1G, type None
+  mgmt0.0 is up
+    Network-instances:
+      * Name: mgmt
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.55.129.130/25 (static, preferred)
+    IPv6 addr    : fe80::1298:26ff:feb0:9714/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+system0 is up, speed None, type None
+  system0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.34/32 (static, preferred)
+--------------------------------------------------------------------------------
+================================================================================
+Summary
+  2 loopback interfaces configured
+  7 ethernet interfaces are up
+  1 management interfaces are up
+  10 subinterfaces are up
+================================================================================
+
+

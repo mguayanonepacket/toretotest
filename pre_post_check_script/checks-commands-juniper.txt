@@ -1,0 +1,21 @@
+show chassis environment | no-more
+show bgp summary | no-more
+show bgp neighbor | match "^Peer:|Description:|prefixes:|Table" | no-more
+show route summary | no-more
+show interfaces terse | no-more
+show interfaces descriptions | no-more
+show lldp neighbors | no-more
+show isis adjacency | no-more
+show version | no-more
+show chassis routing-engine | no-more
+show system core-dumps | no-more
+show system alarms | no-more
+show chassis alarms | no-more
+show chassis hardware | no-more
+show lacp interfaces | no-more
+show mpls interface | no-more
+show mpls lsp brief | no-more
+show vmhost version | no-more
+show vmhost status | no-more
+show interfaces descriptions | match down | no-more
+show bgp summary | match "idle|connect" | no-more

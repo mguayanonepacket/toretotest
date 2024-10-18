@@ -1,0 +1,18 @@
+                                                                   local/remote
+mlag desc                                    state  local  remote        status
+---- ------------------------------ --------------- ------ ------- ------------
+  17 HARDWARE: ID: a534dfb2-506e-46 active-partial   Po17    Po17       up/down
+  21 CUST: Owner: Hiroshi Nakayama,    active-full   Po21    Po21         up/up
+  25 HARDWARE: ID: ff069db4-94d9-4b active-partial   Po25    Po25       up/down
+  29 HARDWARE: ID: 1a25943d-718c-4c active-partial   Po29    Po29       up/down
+  33 CUST: Owner: Joe McLaughlin, H    active-full   Po33    Po33         up/up
+ 121 CUST: Owner: Chris Turra, Host    active-full  Po121   Po121         up/up
+ 125 CUST: Owner: James Malachowski    active-full  Po125   Po125         up/up
+ 129 HARDWARE: ID: 855ecb97-d721-46 active-partial  Po129   Po129       up/down
+ 133 HARDWARE: ID: bad07304-8384-4f active-partial  Po133   Po133       up/down
+ 137 HARDWARE: ID: 7a51eed9-ce67-42 active-partial  Po137   Po137       up/down
+ 141 CUST: Owner: Kevin Jones, Host    active-full  Po141   Po141         up/up
+ 145 CUST: Owner: Aaron Klink, Host    active-full  Po145   Po145         up/up
+ 149 HARDWARE: ID: 37582c20-888b-41 active-partial  Po149   Po149       up/down
+
+

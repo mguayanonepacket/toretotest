@@ -1,0 +1,2 @@
+bsr1.ny5 juniper
+bsr2.ny5 juniper

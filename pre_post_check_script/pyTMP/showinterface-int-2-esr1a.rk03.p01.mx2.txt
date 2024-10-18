@@ -1,0 +1,542 @@
+================================================================================
+ethernet-1/1 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/1.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/7 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/8 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/9 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/10 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/23 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/23.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/24 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/24.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/25 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/25.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/26 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/26.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/27 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/28 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/29 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/30 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/31 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/32 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/33 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/33.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/34 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/34.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/35 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/35.140 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-501634
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/36 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/37 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/37.140 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-501634
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/38 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/38.140 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-501634
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/39 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/39.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/40 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/40.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/42 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/42.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/43 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/43.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/44 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/44.0 is up
+    Network-instances:
+      * Name: PRE-PROVISIONING
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/45 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/45.158 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-502042
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/46 is up, speed 25G, type 25GBASE-CR CA-S
+--------------------------------------------------------------------------------
+ethernet-1/47 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/47.150 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-500939
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/48 is up, speed 25G, type 25GBASE-CR CA-S
+  ethernet-1/48.150 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-500939
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+ethernet-1/49 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/49.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.77/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::4d/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:3545/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/50 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/50.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.105/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::69/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:3546/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/51 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/51.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.133/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::85/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:3547/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/52 is up, speed 100G, type 100G CWDM4 MSA with FEC
+  ethernet-1/52.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.161/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::a1/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:3548/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/53 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/53.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.188/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::bc/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:3549/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+ethernet-1/54 is up, speed 100G, type 100GBASE-CR4 CA-L
+  ethernet-1/54.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : routed
+    IPv4 addr    : 10.253.20.190/31 (static, preferred, primary)
+    IPv6 addr    : fc00:da::be/127 (static, preferred, primary)
+    IPv6 addr    : fe80::1298:26ff:feb0:354a/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb7 is up, speed None, type None
+  irb7.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-7
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.68/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:355c/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb8 is up, speed None, type None
+  irb8.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-8
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.70/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:355d/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb9 is up, speed None, type None
+  irb9.0 is up
+    Network-instances:
+      * Name: default
+      * Name: CUST-L3-MAC-VRF-9
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.72/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:355e/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb10 is up, speed None, type None
+  irb10.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-10
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.74/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:355f/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb11 is up, speed None, type None
+  irb11.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-11
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.76/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3560/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb28 is up, speed None, type None
+  irb28.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-28
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.52.5.2/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.223.10/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4061:a00::2/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3571/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb29 is up, speed None, type None
+  irb29.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-29
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.38/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3572/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb30 is up, speed None, type None
+  irb30.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-30
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.52.5.0/31 (static, preferred, primary, anycast)
+    IPv4 addr    : 147.28.223.0/31 (static, preferred, anycast)
+    IPv6 addr    : 2604:1380:4061:a00::/127 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3573/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb31 is up, speed None, type None
+  irb31.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-31
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.36/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3574/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb32 is up, speed None, type None
+  irb32.0 is up
+    Network-instances:
+      * Name: default
+      * Name: CUST-L3-MAC-VRF-32
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.34/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3575/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb35 is up, speed None, type None
+  irb35.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-35
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3578/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb36 is up, speed None, type None
+  irb36.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-36
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 172.21.32.64/31 (static, preferred, primary, anycast)
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3579/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb37 is up, speed None, type None
+  irb37.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-37
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:357a/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb38 is up, speed None, type None
+  irb38.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-38
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:357b/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb45 is up, speed None, type None
+  irb45.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-45
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3582/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb46 is up, speed None, type None
+  irb46.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-46
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3583/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb47 is up, speed None, type None
+  irb47.0 is up
+    Network-instances:
+      * Name: default
+      * Name: CUST-L3-MAC-VRF-47
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3584/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb48 is up, speed None, type None
+  irb48.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-48
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv6 addr    : fe80::200:5eff:fe00:101/64 (link-layer, preferred, anycast)
+    IPv6 addr    : fe80::1298:26ff:feb0:3585/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+irb255 is up, speed None, type None
+--------------------------------------------------------------------------------
+lag7 is up, speed None, type None
+  lag7.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-7
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag8 is up, speed None, type None
+  lag8.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-8
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag9 is up, speed None, type None
+  lag9.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-9
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag10 is up, speed None, type None
+  lag10.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-10
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag27 is up, speed None, type None
+  lag27.1000 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-500237
+    Encapsulation   : vlan-id 1000
+    Type            : bridged
+  lag27.1001 is up
+    Network-instances:
+      * Name: CUST-VXLAN-MAC-VRF-500067
+    Encapsulation   : vlan-id 1001
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag28 is up, speed None, type None
+  lag28.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-28
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag29 is up, speed None, type None
+  lag29.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-29
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag30 is up, speed None, type None
+  lag30.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-30
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag31 is up, speed None, type None
+  lag31.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-31
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag32 is up, speed None, type None
+  lag32.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-32
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag36 is up, speed None, type None
+  lag36.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-36
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lag46 is up, speed None, type None
+  lag46.0 is up
+    Network-instances:
+      * Name: CUST-L3-MAC-VRF-46
+    Encapsulation   : null
+    Type            : bridged
+--------------------------------------------------------------------------------
+lo0 is up, speed None, type None
+  lo0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.20/32 (static, preferred, primary)
+    IPv6 addr    : 2604:1380:4060:ffff::14/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+lo1 is up, speed None, type None
+  lo1.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 169.254.255.1/32 (static, preferred, primary)
+    IPv6 addr    : fc00::e/128 (static, preferred, primary)
+--------------------------------------------------------------------------------
+mgmt0 is up, speed 1G, type None
+  mgmt0.0 is up
+    Network-instances:
+      * Name: mgmt
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 10.55.130.2/25 (static, preferred)
+    IPv6 addr    : fe80::1298:26ff:feb0:3514/64 (link-layer, preferred)
+--------------------------------------------------------------------------------
+system0 is up, speed None, type None
+  system0.0 is up
+    Network-instances:
+      * Name: default
+    Encapsulation   : null
+    Type            : None
+    IPv4 addr    : 147.28.222.36/32 (static, preferred)
+--------------------------------------------------------------------------------
+================================================================================
+Summary
+  2 loopback interfaces configured
+  68 ethernet interfaces are up
+  1 management interfaces are up
+  59 subinterfaces are up
+================================================================================
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+
+

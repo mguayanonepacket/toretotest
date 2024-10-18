@@ -1,0 +1,1823 @@
+<csr1.mx2> show bgp evpn summary
+BGP summary information for VRF default
+Router identifier 147.28.222.2, local AS number 65521
+Neighbor Status Codes: m - Under maintenance
+  Description              Neighbor     V AS           MsgRcvd   MsgSent  InQ OutQ  Up/Down State   PfxRcd PfxAcc
+  mrr1.mx2                 147.28.222.4 4 54825            446        39    0    0 00:03:03 Estab   43     43
+  mrr2.mx2                 147.28.222.5 4 54825            446        46    0    0 00:03:03 Estab   43     43
+<csr1.mx2> show interfaces
+Ethernet1/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdda (bia cc1a.a390.bdda)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet1/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bddb (bia cc1a.a390.bddb)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet1/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bddc (bia cc1a.a390.bddc)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet1/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bddd (bia cc1a.a390.bddd)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet2/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdde (bia cc1a.a390.bdde)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet2/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bddf (bia cc1a.a390.bddf)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet2/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde0 (bia cc1a.a390.bde0)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet2/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde1 (bia cc1a.a390.bde1)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet3/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde2 (bia cc1a.a390.bde2)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet3/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde3 (bia cc1a.a390.bde3)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet3/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde4 (bia cc1a.a390.bde4)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet3/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde5 (bia cc1a.a390.bde5)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet4/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde6 (bia cc1a.a390.bde6)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet4/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde7 (bia cc1a.a390.bde7)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet4/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde8 (bia cc1a.a390.bde8)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet4/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bde9 (bia cc1a.a390.bde9)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet5/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdea (bia cc1a.a390.bdea)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet5/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdeb (bia cc1a.a390.bdeb)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet5/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdec (bia cc1a.a390.bdec)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet5/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bded (bia cc1a.a390.bded)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet6/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdee (bia cc1a.a390.bdee)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet6/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdef (bia cc1a.a390.bdef)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet6/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf0 (bia cc1a.a390.bdf0)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet6/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf1 (bia cc1a.a390.bdf1)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet7/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf2 (bia cc1a.a390.bdf2)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet7/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf3 (bia cc1a.a390.bdf3)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet7/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf4 (bia cc1a.a390.bdf4)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet7/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf5 (bia cc1a.a390.bdf5)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet8/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf6 (bia cc1a.a390.bdf6)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet8/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf7 (bia cc1a.a390.bdf7)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet8/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf8 (bia cc1a.a390.bdf8)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet8/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdf9 (bia cc1a.a390.bdf9)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet9/1 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdfa (bia cc1a.a390.bdfa)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 12 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet9/2 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdfb (bia cc1a.a390.bdfb)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet9/3 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdfc (bia cc1a.a390.bdfc)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet9/4 is down, line protocol is down (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdfd (bia cc1a.a390.bdfd)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 13 seconds
+  Loopback Mode : None
+  3 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet10/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.bdfe (bia cc1a.a390.bdfe)
+  Description: ENROLLED: 10G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet11/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be02 (bia cc1a.a390.be02)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet12/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be06 (bia cc1a.a390.be06)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet13/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be0a (bia cc1a.a390.be0a)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet14/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be0e (bia cc1a.a390.be0e)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet15/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be12 (bia cc1a.a390.be12)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet16/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be16 (bia cc1a.a390.be16)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet17/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be1a (bia cc1a.a390.be1a)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet18/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be1e (bia cc1a.a390.be1e)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet19/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be22 (bia cc1a.a390.be22)
+  Description: ENROLLED: 100G
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet20/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be26 (bia cc1a.a390.be26)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet21/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be2a (bia cc1a.a390.be2a)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet22/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be2e (bia cc1a.a390.be2e)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet23/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be32 (bia cc1a.a390.be32)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet24/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be36 (bia cc1a.a390.be36)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet25/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be3a (bia cc1a.a390.be3a)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet26/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be3e (bia cc1a.a390.be3e)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet27/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is cc1a.a390.be42 (bia cc1a.a390.be42)
+  Description: FABRIC: ECX {EQUINIX:627768-MX2-CX-PRI-02} (EQSC:22652891) (PP:0000:1332164:3-4) [100G-LR]
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 3 minutes, 9 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 337 kbps (0.0% with framing overhead), 82 packets/sec
+  30 seconds output rate 46.7 kbps (0.0% with framing overhead), 31 packets/sec
+     25797 packets input, 22747319 bytes
+     Received 120 broadcasts, 4239 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     10321 packets output, 2084964 bytes
+     Sent 362 broadcasts, 23 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet28/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be46 (bia cc1a.a390.be46)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet29/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be4a (bia cc1a.a390.be4a)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet30/1 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be4e (bia cc1a.a390.be4e)
+  Ethernet MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet31/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is cc1a.a390.bdd9
+  Description: BB: bbr1.mx2:et-0/1/8 [local wire]
+  Internet address is 10.253.20.5/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::ce1a:a3ff:fe90:bdd9/64
+  IPv6 global unicast address(es):
+    fc00:da::5, subnet is fc00:da::4/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 3 minutes, 9 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 69.1 kbps (0.0% with framing overhead), 39 packets/sec
+  30 seconds output rate 384 kbps (0.0% with framing overhead), 128 packets/sec
+     10791 packets input, 2695560 bytes
+     Received 0 broadcasts, 18 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     29715 packets output, 20301870 bytes
+     Sent 7 broadcasts, 23 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet32/1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is cc1a.a390.bdd9
+  Description: BB: bbr2.mx2:et-0/1/8 [local wire]
+  Internet address is 10.253.20.17/31
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::ce1a:a3ff:fe90:bdd9/64
+  IPv6 global unicast address(es):
+    fc00:da::11, subnet is fc00:da::10/127
+  IP MTU 9214 bytes, BW 100000000 kbit
+  Full-duplex, 100Gb/s, auto negotiation: off, uni-link: n/a
+  Up 3 minutes, 9 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 11.9 kbps (0.0% with framing overhead), 10 packets/sec
+  30 seconds output rate 157 kbps (0.0% with framing overhead), 27 packets/sec
+     2058 packets input, 708106 bytes
+     Received 0 broadcasts, 18 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     7570 packets output, 7287881 bytes
+     Sent 8 broadcasts, 28 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet33 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be5a (bia cc1a.a390.be5a)
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Ethernet34 is down, line protocol is notpresent (notconnect)
+  Hardware is Ethernet, address is cc1a.a390.be5b (bia cc1a.a390.be5b)
+  Ethernet MTU 9214 bytes, BW 10000000 kbit
+  Full-duplex, 10Gb/s, auto negotiation: off, uni-link: n/a
+  Down 3 minutes, 29 seconds
+  Loopback Mode : None
+  1 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 0 bps (0.0% with framing overhead), 0 packets/sec
+  30 seconds output rate 0 bps (0.0% with framing overhead), 0 packets/sec
+     0 packets input, 0 bytes
+     Received 0 broadcasts, 0 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     0 packets output, 0 bytes
+     Sent 0 broadcasts, 0 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Loopback0 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: BB: Primary peering/management IP
+  Internet address is 147.28.222.2/32
+  Broadcast address is 255.255.255.255
+  IPv6 link-local address is fe80::ff:fe00:0/64
+  IPv6 global unicast address(es):
+    2604:1380:4060:ffff::2, subnet is 2604:1380:4060:ffff::2/128
+  IP MTU 65535 bytes (default)
+  Up 4 minutes, 30 seconds
+Loopback2 is up, line protocol is up (connected)
+  Hardware is Loopback
+  Description: BB: VXLAN Anycast IP
+  Internet address is 147.28.222.28/32
+  Broadcast address is 255.255.255.255
+  IP MTU 65535 bytes (default)
+  Up 4 minutes, 30 seconds
+Management1 is up, line protocol is up (connected)
+  Hardware is Ethernet, address is cc1a.a390.bdd8 (bia cc1a.a390.bdd8)
+  Internet address is 10.55.128.4/25
+  Broadcast address is 255.255.255.255
+  IP MTU 1500 bytes (default), BW 1000000 kbit
+  Full-duplex, 1Gb/s, auto negotiation: on, uni-link: n/a
+  Up 4 minutes, 21 seconds
+  Loopback Mode : None
+  4 link status changes since last clear
+  Last clearing of "show interface" counters 0:09:12 ago
+  30 seconds input rate 4.68 kbps (0.0% with framing overhead), 5 packets/sec
+  30 seconds output rate 18.5 kbps (0.0% with framing overhead), 4 packets/sec
+     1380 packets input, 160143 bytes
+     Received 22 broadcasts, 297 multicast
+     0 runts, 0 giants
+     0 input errors, 0 CRC, 0 alignment, 0 symbol, 0 input discards
+     0 PAUSE input
+     1128 packets output, 632109 bytes
+     Sent 8 broadcasts, 12 multicast
+     0 output errors, 0 collisions
+     0 late collision, 0 deferred, 0 output discards
+     0 PAUSE output
+Vxlan1 is up, line protocol is up (connected)
+  Hardware is Vxlan
+  Source interface is Loopback2 and is active with 147.28.222.28
+  Listening on UDP port 4789
+  Replication/Flood Mode is headend with Flood List Source: EVPN
+  Remote MAC learning via EVPN
+  VNI mapping to VLANs
+  Static VLAN to VNI mapping is 
+    [2000, 100004]    [2001, 501634]    [2002, 500548]    [2003, 502042]   
+    [2004, 500939]    [2005, 500834]   
+  Note: All Dynamic VLANs used by VCS are internal VLANs.
+        Use 'show vxlan vni' for details.
+  Static VRF to VNI mapping is not configured
+  Headend replication flood vtep list is:
+  2000 147.28.222.43  
+  2001 147.28.222.37   147.28.222.39   147.28.222.41  
+  2002 147.28.222.39  
+  2003 147.28.222.37   147.28.222.39   147.28.222.41  
+  2004 147.28.222.37   147.28.222.39   147.28.222.41  
+  2005 147.28.222.39  
+  Shared Router MAC is 0000.0000.0000
+<csr1.mx2> show interfaces description
+Interface                      Status         Protocol           Description
+Et1/1                          down           down               ENROLLED: 10G
+Et1/2                          down           down               ENROLLED: 10G
+Et1/3                          down           down               ENROLLED: 10G
+Et1/4                          down           down               ENROLLED: 10G
+Et2/1                          down           down               ENROLLED: 10G
+Et2/2                          down           down               ENROLLED: 10G
+Et2/3                          down           down               ENROLLED: 10G
+Et2/4                          down           down               ENROLLED: 10G
+Et3/1                          down           down               ENROLLED: 10G
+Et3/2                          down           down               ENROLLED: 10G
+Et3/3                          down           down               ENROLLED: 10G
+Et3/4                          down           down               ENROLLED: 10G
+Et4/1                          down           down               ENROLLED: 10G
+Et4/2                          down           down               ENROLLED: 10G
+Et4/3                          down           down               ENROLLED: 10G
+Et4/4                          down           down               ENROLLED: 10G
+Et5/1                          down           down               ENROLLED: 10G
+Et5/2                          down           down               ENROLLED: 10G
+Et5/3                          down           down               ENROLLED: 10G
+Et5/4                          down           down               ENROLLED: 10G
+Et6/1                          down           down               ENROLLED: 10G
+Et6/2                          down           down               ENROLLED: 10G
+Et6/3                          down           down               ENROLLED: 10G
+Et6/4                          down           down               ENROLLED: 10G
+Et7/1                          down           down               ENROLLED: 10G
+Et7/2                          down           down               ENROLLED: 10G
+Et7/3                          down           down               ENROLLED: 10G
+Et7/4                          down           down               ENROLLED: 10G
+Et8/1                          down           down               ENROLLED: 10G
+Et8/2                          down           down               ENROLLED: 10G
+Et8/3                          down           down               ENROLLED: 10G
+Et8/4                          down           down               ENROLLED: 10G
+Et9/1                          down           down               ENROLLED: 10G
+Et9/2                          down           down               ENROLLED: 10G
+Et9/3                          down           down               ENROLLED: 10G
+Et9/4                          down           down               ENROLLED: 10G
+Et10/1                         down           notpresent         ENROLLED: 10G
+Et11/1                         down           notpresent         ENROLLED: 100G
+Et12/1                         down           notpresent         ENROLLED: 100G
+Et13/1                         down           notpresent         ENROLLED: 100G
+Et14/1                         down           notpresent         ENROLLED: 100G
+Et15/1                         down           notpresent         ENROLLED: 100G
+Et16/1                         down           notpresent         ENROLLED: 100G
+Et17/1                         down           notpresent         ENROLLED: 100G
+Et18/1                         down           notpresent         ENROLLED: 100G
+Et19/1                         down           notpresent         ENROLLED: 100G
+Et20/1                         down           notpresent         
+Et21/1                         down           notpresent         
+Et22/1                         down           notpresent         
+Et23/1                         down           notpresent         
+Et24/1                         down           notpresent         
+Et25/1                         down           notpresent         
+Et26/1                         down           notpresent         
+Et27/1                         up             up                 FABRIC: ECX {EQUINIX:627768-MX2-CX-PRI-02} (EQSC:22652891) (PP:0000:1332164:3-4) [100G-LR]
+Et28/1                         down           notpresent         
+Et29/1                         down           notpresent         
+Et30/1                         down           notpresent         
+Et31/1                         up             up                 BB: bbr1.mx2:et-0/1/8 [local wire]
+Et32/1                         up             up                 BB: bbr2.mx2:et-0/1/8 [local wire]
+Et33                           down           notpresent         
+Et34                           down           notpresent         
+Lo0                            up             up                 BB: Primary peering/management IP
+Lo2                            up             up                 BB: VXLAN Anycast IP
+Ma1                            up             up                 
+Vx1                            up             up                 
+<csr1.mx2> show interfaces status
+Port       Name                                                                                       Status       Vlan     Duplex Speed  Type           Flags Encapsulation
+Et1/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et1/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et2/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et3/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et4/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et5/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et6/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et7/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et8/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/1      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/2      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/3      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et9/4      ENROLLED: 10G                                                                              notconnect   trunk    full   10G    40GBASE-PLR4                     
+Et10/1     ENROLLED: 10G                                                                              notconnect   trunk    full   100G   Not Present                      
+Et11/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et12/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et13/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et14/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et15/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et16/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et17/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et18/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et19/1     ENROLLED: 100G                                                                             notconnect   trunk    full   100G   Not Present                      
+Et20/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et21/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et22/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et23/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et24/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et25/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et26/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et27/1     FABRIC: ECX {EQUINIX:627768-MX2-CX-PRI-02} (EQSC:22652891) (PP:0000:1332164:3-4) [100G-LR] connected    trunk    full   100G   100GBASE-LR4                     
+Et28/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et29/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et30/1                                                                                                notconnect   1        full   100G   Not Present                      
+Et31/1     BB: bbr1.mx2:et-0/1/8 [local wire]                                                         connected    routed   full   100G   100GBASE-CWDM4                   
+Et32/1     BB: bbr2.mx2:et-0/1/8 [local wire]                                                         connected    routed   full   100G   100GBASE-CWDM4                   
+Et33                                                                                                  notconnect   1        full   10G    Not Present                      
+Et34                                                                                                  notconnect   1        full   10G    Not Present                      
+Ma1                                                                                                   connected    routed   a-full a-1G   10/100/1000                      
+
+<csr1.mx2> show interfaces status errdisabled
+<csr1.mx2> show inventory
+System information
+  Model                    Description                                         
+  ------------------------ ----------------------------------------------------
+  DCS-7050CX3-32S          32x100GbE QSFP & 2 SFP+ switch                      
+
+  HW Version  Serial Number  Mfg Date   Epoch
+  ----------- -------------- ---------- -----
+  12.02       HBG232600WS    2023-07-04 01.00
+
+System has 2 power supply slots
+  Slot Model            Serial Number   
+  ---- ---------------- ----------------
+  1    PWR-500AC-F      DDQT35HDLGZ     
+  2    PWR-500AC-F      DDQT35HDLFX     
+
+System has 4 fan modules
+  Module  Number of Fans  Model            Serial Number   
+  ------- --------------- ---------------- ----------------
+  1       1               FAN-7000H-F      N/A             
+  2       1               FAN-7000H-F      N/A             
+  3       1               FAN-7000H-F      N/A             
+  4       1               FAN-7000H-F      N/A             
+
+System has 131 ports
+  Type               Count
+  ------------------ ----
+  Management         1   
+  Switched           128 
+  SwitchedBootstrap  2   
+
+System has 34 switched transceiver slots
+  Port Manufacturer     Model            Serial Number    Rev 
+  ---- ---------------- ---------------- ---------------- ----
+  1    Arista Networks  QSFP-PLRL4-L     USG1000000546255 1A  
+  2    Arista Networks  QSFP-PLRL4-L     USG1000000546263 1A  
+  3    Arista Networks  QSFP-PLRL4-L     USG1000000546264 1A  
+  4    Arista Networks  QSFP-PLRL4-L     USG1000000546261 1A  
+  5    Arista Networks  QSFP-PLRL4-L     USG1000000546257 1A  
+  6    Arista Networks  QSFP-PLRL4-L     USG1000000546260 1A  
+  7    Arista Networks  QSFP-PLRL4-L     USG1000000546262 1A  
+  8    Arista Networks  QSFP-PLRL4-L     USG1000000546256 1A  
+  9    Arista Networks  QSFP-PLRL4-L     USG1000000546119 1A  
+  10   Not Present                                            
+  11   Not Present                                            
+  12   Not Present                                            
+  13   Not Present                                            
+  14   Not Present                                            
+  15   Not Present                                            
+  16   Not Present                                            
+  17   Not Present                                            
+  18   Not Present                                            
+  19   Not Present                                            
+  20   Not Present                                            
+  21   Not Present                                            
+  22   Not Present                                            
+  23   Not Present                                            
+  24   Not Present                                            
+  25   Not Present                                            
+  26   Not Present                                            
+  27   Arista Networks  QSFP-100G-LR4-L  USS120006995     01  
+  28   Not Present                                            
+  29   Not Present                                            
+  30   Not Present                                            
+  31   Arista Networks  QSFP100G-CWDM4-L USH2000001112757 01  
+  32   Arista Networks  QSFP100G-CWDM4-L USH2000001112729 01  
+  33   Not Present                                            
+  34   Not Present                                            
+
+System has 1 storage device
+  Mount      Type Model                Serial Number Rev Size (GB)
+  ---------- ---- -------------------- ------------- --- ---------
+  /mnt/flash eMMC Smart Modular 16GP1A 801f4ba4      1.0 8        
+
+<csr1.mx2> show ip bgp summary vrf all
+BGP summary information for VRF default
+Router identifier 147.28.222.2, local AS number 65521
+Neighbor Status Codes: m - Under maintenance
+  Description              Neighbor     V AS           MsgRcvd   MsgSent  InQ OutQ  Up/Down State   PfxRcd PfxAcc
+  bbr1.mx2                 10.253.20.4  4 54825             10        13    0    0 00:03:06 Estab   1      1
+  bbr2.mx2                 10.253.20.16 4 54825             10        12    0    0 00:03:05 Estab   1      1
+<csr1.mx2> show ip route vrf all
+
+VRF: default
+Codes: C - connected, S - static, K - kernel, 
+       O - OSPF, IA - OSPF inter area, E1 - OSPF external type 1,
+       E2 - OSPF external type 2, N1 - OSPF NSSA external type 1,
+       N2 - OSPF NSSA external type2, B - Other BGP Routes,
+       B I - iBGP, B E - eBGP, R - RIP, I L1 - IS-IS level 1,
+       I L2 - IS-IS level 2, O3 - OSPFv3, A B - BGP Aggregate,
+       A O - OSPF Summary, NG - Nexthop Group Static Route,
+       V - VXLAN Control Service, M - Martian,
+       DH - DHCP client installed default route,
+       DP - Dynamic Policy Route, L - VRF Leaked,
+       G  - gRIBI, RC - Route Cache Route,
+       CL - CBF Leaked Route
+
+Gateway of last resort:
+ B E      0.0.0.0/0 [200/0] via 10.253.20.4, Ethernet31/1
+                            via 10.253.20.16, Ethernet32/1
+
+ C        10.253.20.4/31 is directly connected, Ethernet31/1
+ C        10.253.20.16/31 is directly connected, Ethernet32/1
+ C        147.28.222.2/32 is directly connected, Loopback0
+ C        147.28.222.28/32 is directly connected, Loopback2
+
+
+VRF: MGMT
+Codes: C - connected, S - static, K - kernel, 
+       O - OSPF, IA - OSPF inter area, E1 - OSPF external type 1,
+       E2 - OSPF external type 2, N1 - OSPF NSSA external type 1,
+       N2 - OSPF NSSA external type2, B - Other BGP Routes,
+       B I - iBGP, B E - eBGP, R - RIP, I L1 - IS-IS level 1,
+       I L2 - IS-IS level 2, O3 - OSPFv3, A B - BGP Aggregate,
+       A O - OSPF Summary, NG - Nexthop Group Static Route,
+       V - VXLAN Control Service, M - Martian,
+       DH - DHCP client installed default route,
+       DP - Dynamic Policy Route, L - VRF Leaked,
+       G  - gRIBI, RC - Route Cache Route,
+       CL - CBF Leaked Route
+
+Gateway of last resort:
+ S        0.0.0.0/0 [1/0] via 10.55.128.1, Management1
+
+ C        10.55.128.0/25 is directly connected, Management1
+
+<csr1.mx2> show mac address-table
+          Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports      Moves   Last Move
+----    -----------       ----        -----      -----   ---------
+2000    507c.6f22.8c90    DYNAMIC     Vx1        1       0:03:02 ago
+2000    fa16.3eb8.1729    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.2906.d711    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.290e.8724    DYNAMIC     Et27/1     1       0:03:07 ago
+2001    000c.291a.2448    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.2922.c696    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.292e.ddf8    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.2936.16a1    DYNAMIC     Et27/1     1       0:03:03 ago
+2001    000c.2938.89ee    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.2941.2bb2    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.294c.9bb7    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.2955.1004    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.296b.e1f7    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.296d.8902    DYNAMIC     Et27/1     1       0:01:51 ago
+2001    000c.297d.c928    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.2994.38de    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.2995.b758    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.29a4.3de9    DYNAMIC     Et27/1     1       0:03:08 ago
+2001    000c.29ba.974f    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.29c4.8dbf    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.29c5.a7b4    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000c.29d4.cacb    DYNAMIC     Vx1        1       0:03:04 ago
+2001    000c.29f6.1fd9    DYNAMIC     Vx1        1       0:03:02 ago
+2001    000e.c67c.a62d    DYNAMIC     Et27/1     1       0:03:06 ago
+2001    0015.5dc8.1300    DYNAMIC     Et27/1     1       0:02:02 ago
+2001    0050.5666.34fc    DYNAMIC     Vx1        1       0:03:02 ago
+2001    0050.566d.477f    DYNAMIC     Vx1        1       0:03:04 ago
+2001    507c.6f48.5320    DYNAMIC     Vx1        1       0:03:02 ago
+2001    507c.6f48.6d5c    DYNAMIC     Vx1        1       0:03:04 ago
+2001    507c.6f48.6d80    DYNAMIC     Vx1        1       0:03:02 ago
+2001    507c.6f48.6f82    DYNAMIC     Vx1        1       0:03:04 ago
+2001    88e9.a435.e1cc    DYNAMIC     Et27/1     1       0:02:21 ago
+2001    a4bf.017a.b2b4    DYNAMIC     Et27/1     1       0:03:05 ago
+2001    a4bf.017a.b359    DYNAMIC     Et27/1     1       0:00:59 ago
+2001    b8ce.f654.a1b4    DYNAMIC     Et27/1     1       0:02:58 ago
+2001    b8ce.f654.a2ac    DYNAMIC     Et27/1     1       0:02:37 ago
+2001    d4f5.ef4f.29dc    DYNAMIC     Et27/1     1       0:02:46 ago
+2001    d4f5.ef4f.29dd    DYNAMIC     Et27/1     1       0:02:46 ago
+2001    dc68.0c82.f0e1    DYNAMIC     Et27/1     1       0:03:04 ago
+2001    dc68.0c82.f10b    DYNAMIC     Et27/1     1       0:03:08 ago
+2002    6c6c.d333.7dd5    DYNAMIC     Et27/1     1       0:03:08 ago
+2003    0000.5e00.019e    DYNAMIC     Et27/1     1       0:03:07 ago
+2003    000c.292e.dd0c    DYNAMIC     Vx1        1       0:03:04 ago
+2003    000c.2938.8902    DYNAMIC     Vx1        1       0:03:04 ago
+2003    000c.2994.38f2    DYNAMIC     Vx1        1       0:03:04 ago
+2003    000c.2995.b76c    DYNAMIC     Vx1        1       0:03:04 ago
+2003    000c.29d4.cadf    DYNAMIC     Vx1        1       0:03:04 ago
+2003    000c.29f6.1fed    DYNAMIC     Vx1        1       0:03:04 ago
+2003    dc68.0c82.f0f3    DYNAMIC     Et27/1     1       0:00:59 ago
+2003    dc68.0c82.f10b    DYNAMIC     Et27/1     1       0:03:08 ago
+2004    0000.5e00.0196    DYNAMIC     Et27/1     1       0:03:07 ago
+2004    000c.290e.7964    DYNAMIC     Vx1        1       0:03:04 ago
+2004    000c.290e.872e    DYNAMIC     Et27/1     1       0:03:07 ago
+2004    000c.291f.c7e0    DYNAMIC     Vx1        1       0:03:04 ago
+2004    000c.2922.c6a0    DYNAMIC     Et27/1     1       0:03:08 ago
+2004    000c.2955.100e    DYNAMIC     Et27/1     1       0:03:08 ago
+2004    000c.297d.c932    DYNAMIC     Et27/1     1       0:03:08 ago
+2004    dc68.0c82.f0eb    DYNAMIC     Et27/1     1       0:02:26 ago
+2004    dc68.0c82.f10b    DYNAMIC     Et27/1     1       0:03:08 ago
+2005    000c.2908.4852    DYNAMIC     Et27/1     1       0:03:03 ago
+2005    000c.29c5.a7be    DYNAMIC     Vx1        1       0:03:04 ago
+2005    dc68.0c82.f10b    DYNAMIC     Et27/1     1       0:03:08 ago
+Total Mac Addresses for this criterion: 62
+
+          Multicast Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       ----        -----
+Total Mac Addresses for this criterion: 0
+<csr1.mx2> show maintenance
+
+> show maintenance
+! Maintenance Mode is disabled. at line 1
+<csr1.mx2> show mlag
+MLAG Configuration:              
+domain-id                          :                   
+local-interface                    :                   
+peer-address                       :             0.0.0.0
+peer-link                          :                   
+peer-config                        :                   
+                                                       
+MLAG Status:                     
+state                              :            Disabled
+negotiation status                 :                   
+peer-link status                   :                   
+local-int status                   :                   
+system-id                          :   00:00:00:00:00:00
+dual-primary detection             :            Disabled
+dual-primary interface errdisabled :               False
+                                                       
+MLAG Ports:                      
+Disabled                           :                   0
+Configured                         :                   0
+Inactive                           :                   0
+Active-partial                     :                   0
+Active-full                        :                   0
+
+<csr1.mx2> show mlag config-sanity
+Command not applicable for inactive MLAG state.
+
+<csr1.mx2> show mlag interfaces
+No MLAG ports configured
+<csr1.mx2> show port-channel summary
+
+> show port-channel summary
+% Unavailable command (This command is deprecated by 'show port-channel dense') at line 1
+<csr1.mx2> show system environment all
+System temperature status is: Ok
+Action on overheat: shutdown
+Recovery mode when power-cycle upon overheat: not applicable
+Restrict recovery when ambient temperature is at or above: not applicable
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Cpu temp sensor                        35.5   (60) 61.4     90        95
+2       Cpu board temp sensor                  31.0   (55) 56.4     75        80
+3       Back-panel temp sensor                 28.1   (50) 51.4     75        85
+4       Board temp sensor                      31.0   (65) 66.4     75        85
+5       Front-panel temp sensor                28.5   (50) 51.4     60        65
+6       SwitchAsic top left outer sensor       32.3   (80) 81.4    100       110
+7       SwitchAsic bottom left outer sensor    31.2   (80) 81.4    100       110
+8       SwitchAsic bottom right outer senso    30.1   (80) 81.4    100       110
+9       SwitchAsic top right outer sensor      32.8   (80) 81.4    100       110
+10      SwitchAsic top left center sensor      33.4   (80) 81.4    100       110
+11      SwitchAsic top right center sensor     31.7   (80) 81.4    100       110
+12      SwitchAsic top right inner sensor      31.2   (80) 81.4    100       110
+13      SwitchAsic top center sensor           32.8   (80) 81.4    100       110
+14      SwitchAsic bottom center sensor        30.7   (80) 81.4    100       110
+15      SwitchAsic bottom left center senso    31.7   (80) 81.4    100       110
+16      SwitchAsic bottom right center sens    32.8   (80) 81.4    100       110
+
+PowerSupply 1:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Hotspot                                38.0   (80) 81.4     95       100
+2       Inlet                                  24.0   (55) 56.4     70        75
+3       Secondary hotspot                      38.0   (80) 81.4    108       113
+
+PowerSupply 2:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Hotspot                                36.0   (80) 81.4     95       100
+2       Inlet                                  24.0   (55) 56.4     70        75
+3       Secondary hotspot                      39.0   (80) 81.4    108       113
+
+System cooling status is: Ok
+Ambient temperature: 28C
+Airflow: port-side intake
+Number of cooling zones is: 1
+                      Config Actual         Speed      Stable
+Fan            Status  Speed  Speed  Uptime Stability  Uptime
+-------------- ------ ------ ------ ------- --------- -------
+1/1            Ok        41%    40% 0:04:21 Stable    0:04:07
+2/1            Ok        41%    41% 0:04:21 Stable    0:04:07
+3/1            Ok        41%    41% 0:04:21 Stable    0:04:07
+4/1            Ok        41%    40% 0:04:21 Stable    0:04:07
+PowerSupply1/1 Ok        43%    43% 0:04:10 Stable    0:02:35
+PowerSupply2/1 Ok        43%    44% 0:04:10 Stable    0:02:36
+
+Power                        Input  Output  Output
+Supply Model       Capacity Current Current  Power Status  Uptime
+------ ----------- -------- ------- ------- ------ ------ -------
+1      PWR-500AC-F     500W   0.34A   4.30A  50.8W Ok     0:04:10
+2      PWR-500AC-F     500W   0.35A   5.06A  60.1W Ok     0:04:10
+Total  --             1000W      --      -- 110.9W --          --
+
+<csr1.mx2> show version
+Arista DCS-7050CX3-32S-F
+Hardware version: 12.02
+Serial number: HBG232600WS
+Hardware MAC address: cc1a.a390.bdd9
+System MAC address: cc1a.a390.bdd9
+
+Software image version: 4.30.5M
+Architecture: i686
+Internal build version: 4.30.5M-35156751.4305M
+Internal build ID: 86f4a17f-419c-4d3d-94a1-68b13cfb407a
+Image format version: 3.0
+Image optimization: Default
+
+Uptime: 9 minutes
+Total memory: 8059820 kB
+Free memory: 5965660 kB
+
+<csr1.mx2> show vxlan vni
+VNI to VLAN Mapping for Vxlan1
+VNI          VLAN       Source       Interface          802.1Q Tag
+------------ ---------- ------------ ------------------ ----------
+100004       2000       static       Ethernet27/1       2154      
+                                     Vxlan1             2000      
+500548       2002       static       Ethernet27/1       2458      
+                                     Vxlan1             2002      
+500834       2005       static       Ethernet27/1       427       
+                                     Vxlan1             2005      
+500939       2004       static       Ethernet27/1       3705      
+                                     Vxlan1             2004      
+501634       2001       static       Ethernet27/1       29        
+                                     Vxlan1             2001      
+502042       2003       static       Ethernet27/1       3411      
+                                     Vxlan1             2003      
+
+VNI to dynamic VLAN Mapping for Vxlan1
+VNI       VLAN       VRF       Source       
+--------- ---------- --------- ------------ 
+

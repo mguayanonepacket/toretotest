@@ -1,0 +1,26 @@
+2024-07-05 07:51:04  Script Start
+2024-07-05 07:51:05  {
+    "csr1.at1": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-07-05 07:51:05  Starting Status Checks
+2024-07-05 07:51:06  csr1.at1 Version is now EOS: 4.28.7M
+2024-07-05 07:51:06  csr1.at1 is now Up / Up
+2024-07-05 07:51:07  csr1.at1 is now NoMaint
+2024-07-05 07:51:07  csr1.at1 pstate is now 2/2
+2024-07-05 07:51:07  csr1.at1 SC pstate is now -
+2024-07-05 07:51:29  csr1.at1 Version is now EOS: 4.28.7M
+2024-07-05 07:51:29  csr1.at1 is now Up / Up
+2024-07-05 07:51:30  csr1.at1 is now NoMaint
+2024-07-05 07:51:30  csr1.at1 pstate is now 2/2
+2024-07-05 07:51:30  csr1.at1 SC pstate is now -
+2024-07-05 07:51:33  Status Checking Complete

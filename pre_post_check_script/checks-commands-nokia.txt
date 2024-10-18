@@ -1,0 +1,9 @@
+show version
+show platform environment
+show interfaces info
+show interface detail
+info from state interface ethernet-1/* | as table | filter fields admin-state oper-state ethernet/port-speed transceiver/form-factor description
+show network-instance * route-table
+show network-instance * protocols bgp neighbor
+show network-instance * bridge-table mac-table all
+show network-instance * tunnel-table

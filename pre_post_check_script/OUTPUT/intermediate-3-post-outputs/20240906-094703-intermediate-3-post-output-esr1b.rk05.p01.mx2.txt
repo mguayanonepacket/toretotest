@@ -1,0 +1,2508 @@
+<esr1b.rk05.p01.mx2> info from state interface ethernet-1/* | as table | filter fields admin-state oper-state ethernet/port-speed transceiver/form-factor description
++------------+------------+------------+------------+------------+------------+
+|    Name    |   Admin-   | Oper-state |  Ethernet  | Transceive | Descriptio |
+|            |   state    |            | port-speed |  r form-   |     n      |
+|            |            |            |            |   factor   |            |
++============+============+============+============+============+============+
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/1        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/2        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/3        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/4        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/5        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/6        |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/7        |            |            |            |            | ID: 49b173 |
+|            |            |            |            |            | 72-eb3d-   |
+|            |            |            |            |            | 4634-9fb4- |
+|            |            |            |            |            | 221e10b349 |
+|            |            |            |            |            | 30,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | b34930.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/8        |            |            |            |            | ID: 1e56e0 |
+|            |            |            |            |            | 3b-d3ee-   |
+|            |            |            |            |            | 4f5b-920f- |
+|            |            |            |            |            | c48cd7a447 |
+|            |            |            |            |            | 30,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | a44730.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/9        |            |            |            |            | ID: eaa768 |
+|            |            |            |            |            | ca-4599-   |
+|            |            |            |            |            | 409b-8d3e- |
+|            |            |            |            |            | 33142922ab |
+|            |            |            |            |            | b9,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 22abb9.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/10       |            |            |            |            | ID: 197f93 |
+|            |            |            |            |            | 42-eaa4-   |
+|            |            |            |            |            | 4b4a-b5f8- |
+|            |            |            |            |            | 14c9caef74 |
+|            |            |            |            |            | 8c,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-ef7 |
+|            |            |            |            |            | 48c.rk05.m |
+|            |            |            |            |            | x2.packet. |
+|            |            |            |            |            | net        |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/11       |            |            |            |            | ID: 9b417f |
+|            |            |            |            |            | 4e-a59b-   |
+|            |            |            |            |            | 47a7-bc6e- |
+|            |            |            |            |            | c1e2267326 |
+|            |            |            |            |            | 6c,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 73266c.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/12       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/13       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/14       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/15       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/16       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/17       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/18       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/19       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/20       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/21       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/22       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/23       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/24       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/25       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/26       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/27       |            |            |            |            | ID: 8170a7 |
+|            |            |            |            |            | 32-df95-   |
+|            |            |            |            |            | 49a8-8a7f- |
+|            |            |            |            |            | 221a8c1143 |
+|            |            |            |            |            | a4,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 1143a4.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/28       |            |            |            |            | Owner:     |
+|            |            |            |            |            | Oliver     |
+|            |            |            |            |            | Scholl,    |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | m3-small-  |
+|            |            |            |            |            | x86-01,    |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 564925 |
+|            |            |            |            |            | f7-c82f-   |
+|            |            |            |            |            | 4867-9855- |
+|            |            |            |            |            | 3d6c8475b2 |
+|            |            |            |            |            | 08         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/29       |            |            |            |            | ID: d8d94e |
+|            |            |            |            |            | 74-008a-   |
+|            |            |            |            |            | 480c-87b7- |
+|            |            |            |            |            | ceda986007 |
+|            |            |            |            |            | c5,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 6007c5.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/30       |            |            |            |            | ID: d82b76 |
+|            |            |            |            |            | b1-0fb2-   |
+|            |            |            |            |            | 4177-b2bf- |
+|            |            |            |            |            | b736a80345 |
+|            |            |            |            |            | e1,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 0345e1.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/31       |            |            |            |            | ID: f67eff |
+|            |            |            |            |            | 8b-d4a2-   |
+|            |            |            |            |            | 4090-9280- |
+|            |            |            |            |            | 94dc8eb632 |
+|            |            |            |            |            | de,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | b632de.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        | SFP28      | HARDWARE:  |
+| 1/32       |            |            |            |            | ID: a15ceb |
+|            |            |            |            |            | a7-e3bd-   |
+|            |            |            |            |            | 4069-9d40- |
+|            |            |            |            |            | 81498826cc |
+|            |            |            |            |            | 71,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 26cc71.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/33       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/34       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/35       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/36       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER2,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 294da8 |
+|            |            |            |            |            | 3d-6313-   |
+|            |            |            |            |            | 4952-b117- |
+|            |            |            |            |            | 4a8c7ce742 |
+|            |            |            |            |            | 55         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/37       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER4,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 7c1d7d |
+|            |            |            |            |            | b9-644c-   |
+|            |            |            |            |            | 4d54-b426- |
+|            |            |            |            |            | 68244e1a54 |
+|            |            |            |            |            | c9         |
+| ethernet-  | enable     | down       | 25G        |            | CUST:      |
+| 1/38       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER1,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 0edd97 |
+|            |            |            |            |            | 1b-7d7c-   |
+|            |            |            |            |            | 4d3c-acec- |
+|            |            |            |            |            | 40a6cae6a0 |
+|            |            |            |            |            | 7f         |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/39       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/40       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/41       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/42       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/43       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/44       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/45       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/46       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER2,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 294da8 |
+|            |            |            |            |            | 3d-6313-   |
+|            |            |            |            |            | 4952-b117- |
+|            |            |            |            |            | 4a8c7ce742 |
+|            |            |            |            |            | 55         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/47       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER4,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 7c1d7d |
+|            |            |            |            |            | b9-644c-   |
+|            |            |            |            |            | 4d54-b426- |
+|            |            |            |            |            | 68244e1a54 |
+|            |            |            |            |            | c9         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/48       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER1,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 0edd97 |
+|            |            |            |            |            | 1b-7d7c-   |
+|            |            |            |            |            | 4d3c-acec- |
+|            |            |            |            |            | 40a6cae6a0 |
+|            |            |            |            |            | 7f         |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr1.r |
+| 1/49       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr2.r |
+| 1/50       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr3.r |
+| 1/51       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr4.r |
+| 1/52       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/53       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/53     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/54       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/54     |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/55       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/56       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/57       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/58       |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+
+<esr1b.rk05.p01.mx2> show interfaces info
++------------+------------+------------+------------+------------+------------+
+|    Name    |   Admin-   | Oper-state |  Ethernet  | Transceive | Descriptio |
+|            |   state    |            | port-speed |  r form-   |     n      |
+|            |            |            |            |   factor   |            |
++============+============+============+============+============+============+
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/1        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/2        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/3        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/4        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/5        |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/6        |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/7        |            |            |            |            | ID: 49b173 |
+|            |            |            |            |            | 72-eb3d-   |
+|            |            |            |            |            | 4634-9fb4- |
+|            |            |            |            |            | 221e10b349 |
+|            |            |            |            |            | 30,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | b34930.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/8        |            |            |            |            | ID: 1e56e0 |
+|            |            |            |            |            | 3b-d3ee-   |
+|            |            |            |            |            | 4f5b-920f- |
+|            |            |            |            |            | c48cd7a447 |
+|            |            |            |            |            | 30,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | a44730.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/9        |            |            |            |            | ID: eaa768 |
+|            |            |            |            |            | ca-4599-   |
+|            |            |            |            |            | 409b-8d3e- |
+|            |            |            |            |            | 33142922ab |
+|            |            |            |            |            | b9,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 22abb9.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/10       |            |            |            |            | ID: 197f93 |
+|            |            |            |            |            | 42-eaa4-   |
+|            |            |            |            |            | 4b4a-b5f8- |
+|            |            |            |            |            | 14c9caef74 |
+|            |            |            |            |            | 8c,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-ef7 |
+|            |            |            |            |            | 48c.rk05.m |
+|            |            |            |            |            | x2.packet. |
+|            |            |            |            |            | net        |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/11       |            |            |            |            | ID: 9b417f |
+|            |            |            |            |            | 4e-a59b-   |
+|            |            |            |            |            | 47a7-bc6e- |
+|            |            |            |            |            | c1e2267326 |
+|            |            |            |            |            | 6c,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 73266c.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/12       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/13       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/14       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/15       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/16       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/17       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/18       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/19       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/20       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/21       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/22       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/23       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/24       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/25       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/26       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/27       |            |            |            |            | ID: 8170a7 |
+|            |            |            |            |            | 32-df95-   |
+|            |            |            |            |            | 49a8-8a7f- |
+|            |            |            |            |            | 221a8c1143 |
+|            |            |            |            |            | a4,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 1143a4.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/28       |            |            |            |            | Owner:     |
+|            |            |            |            |            | Oliver     |
+|            |            |            |            |            | Scholl,    |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | m3-small-  |
+|            |            |            |            |            | x86-01,    |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 564925 |
+|            |            |            |            |            | f7-c82f-   |
+|            |            |            |            |            | 4867-9855- |
+|            |            |            |            |            | 3d6c8475b2 |
+|            |            |            |            |            | 08         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/29       |            |            |            |            | ID: d8d94e |
+|            |            |            |            |            | 74-008a-   |
+|            |            |            |            |            | 480c-87b7- |
+|            |            |            |            |            | ceda986007 |
+|            |            |            |            |            | c5,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 6007c5.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/30       |            |            |            |            | ID: d82b76 |
+|            |            |            |            |            | b1-0fb2-   |
+|            |            |            |            |            | 4177-b2bf- |
+|            |            |            |            |            | b736a80345 |
+|            |            |            |            |            | e1,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 0345e1.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      | HARDWARE:  |
+| 1/31       |            |            |            |            | ID: f67eff |
+|            |            |            |            |            | 8b-d4a2-   |
+|            |            |            |            |            | 4090-9280- |
+|            |            |            |            |            | 94dc8eb632 |
+|            |            |            |            |            | de,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | b632de.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | down       | 25G        | SFP28      | HARDWARE:  |
+| 1/32       |            |            |            |            | ID: a15ceb |
+|            |            |            |            |            | a7-e3bd-   |
+|            |            |            |            |            | 4069-9d40- |
+|            |            |            |            |            | 81498826cc |
+|            |            |            |            |            | 71,        |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | server-    |
+|            |            |            |            |            | 26cc71.rk0 |
+|            |            |            |            |            | 5.mx2.pack |
+|            |            |            |            |            | et.net     |
+| ethernet-  | enable     | up         | 25G        | SFP28      |            |
+| 1/33       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/34       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/35       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/36       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER2,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 294da8 |
+|            |            |            |            |            | 3d-6313-   |
+|            |            |            |            |            | 4952-b117- |
+|            |            |            |            |            | 4a8c7ce742 |
+|            |            |            |            |            | 55         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/37       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER4,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 7c1d7d |
+|            |            |            |            |            | b9-644c-   |
+|            |            |            |            |            | 4d54-b426- |
+|            |            |            |            |            | 68244e1a54 |
+|            |            |            |            |            | c9         |
+| ethernet-  | enable     | down       | 25G        |            | CUST:      |
+| 1/38       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER1,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 0edd97 |
+|            |            |            |            |            | 1b-7d7c-   |
+|            |            |            |            |            | 4d3c-acec- |
+|            |            |            |            |            | 40a6cae6a0 |
+|            |            |            |            |            | 7f         |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/39       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/40       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/41       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/42       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/43       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/44       |            |            |            |            |            |
+| ethernet-  | enable     | down       | 25G        |            |            |
+| 1/45       |            |            |            |            |            |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/46       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER2,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 294da8 |
+|            |            |            |            |            | 3d-6313-   |
+|            |            |            |            |            | 4952-b117- |
+|            |            |            |            |            | 4a8c7ce742 |
+|            |            |            |            |            | 55         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/47       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | IMS-SER4,  |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 7c1d7d |
+|            |            |            |            |            | b9-644c-   |
+|            |            |            |            |            | 4d54-b426- |
+|            |            |            |            |            | 68244e1a54 |
+|            |            |            |            |            | c9         |
+| ethernet-  | enable     | up         | 25G        | SFP28      | CUST:      |
+| 1/48       |            |            |            |            | Owner: GCS |
+|            |            |            |            |            | Systems-   |
+|            |            |            |            |            | network,   |
+|            |            |            |            |            | Hostname:  |
+|            |            |            |            |            | ATTMSPMX2- |
+|            |            |            |            |            | SER1,      |
+|            |            |            |            |            | Instance   |
+|            |            |            |            |            | ID: 0edd97 |
+|            |            |            |            |            | 1b-7d7c-   |
+|            |            |            |            |            | 4d3c-acec- |
+|            |            |            |            |            | 40a6cae6a0 |
+|            |            |            |            |            | 7f         |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr1.r |
+| 1/49       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr2.r |
+| 1/50       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr3.r |
+| 1/51       |            |            |            |            | k01.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: dsr4.r |
+| 1/52       |            |            |            |            | k02.p01.mx |
+|            |            |            |            |            | 2:ethernet |
+|            |            |            |            |            | -1/16      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/53       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/53     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/54       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/54     |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/55       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/56       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/57       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/58       |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+
+<esr1b.rk05.p01.mx2> show network-instance * bridge-table mac-table all
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-10
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973302  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:5 | terface: |          | static   |          |          | 06T09:35 |
+| F        | vxlan1.1 |          |          |          |          | :46.000Z |
+|          | 0 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:10   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:5 | rface    |          | rface    |          |          | 06T09:29 |
+| F        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-11
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973289  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:6 | terface: |          | static   |          |          | 06T09:35 |
+| 0        | vxlan1.1 |          |          |          |          | :46.000Z |
+|          | 1 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:11   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:6 | rface    |          | rface    |          |          | 06T09:29 |
+| 0        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-27
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973288  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 0        | vxlan1.2 |          |          |          |          | :46.000Z |
+|          | 7 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:27   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 0        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-28
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973301  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 1        | vxlan1.2 |          |          |          |          | :46.000Z |
+|          | 8 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:28   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 1        |          |          |          |          |          | :58.000Z |
+| 50:7C:6F | lag28.0  | 66       | learnt   | true     | 267      | 2024-09- |
+| :22:7E:C |          |          |          |          |          | 06T09:39 |
+| E        |          |          |          |          |          | :56.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-29
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973300  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 2        | vxlan1.2 |          |          |          |          | :46.000Z |
+|          | 9 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:29   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 2        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-30
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973299  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 3        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 0 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:30   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 3        |          |          |          |          |          | :58.000Z |
+| 50:7C:6F | vxlan-in | 5973307  | evpn     | true     | N/A      | 2024-09- |
+| :22:92:1 | terface: |          |          |          |          | 06T09:35 |
+| C        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 0 esi:39 |          |          |          |          |          |
+|          | :90:F4:D |          |          |          |          |          |
+|          | 6:B5:76: |          |          |          |          |          |
+|          | CA:0A:5D |          |          |          |          |          |
+|          | :47      |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-31
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973298  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 4        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 1 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:31   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 4        |          |          |          |          |          | :58.000Z |
+| 50:7C:6F | vxlan-in | 5973306  | evpn     | true     | N/A      | 2024-09- |
+| :22:8A:6 | terface: |          |          |          |          | 06T09:35 |
+| 4        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 1 esi:26 |          |          |          |          |          |
+|          | :A0:B2:D |          |          |          |          |          |
+|          | E:AB:88: |          |          |          |          |          |
+|          | AA:98:E8 |          |          |          |          |          |
+|          | :D0      |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-32
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973297  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 5        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 2 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:32   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 5        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-36
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973296  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| 9        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 6 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:36   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| 9        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-37
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973295  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| A        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 7 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:37   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| A        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-38
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973294  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:7 | terface: |          | static   |          |          | 06T09:35 |
+| B        | vxlan1.3 |          |          |          |          | :46.000Z |
+|          | 8 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:38   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:7 | rface    |          | rface    |          |          | 06T09:29 |
+| B        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-46
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973293  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:8 | terface: |          | static   |          |          | 06T09:35 |
+| 3        | vxlan1.4 |          |          |          |          | :46.000Z |
+|          | 6 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:46   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:8 | rface    |          | rface    |          |          | 06T09:29 |
+| 3        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-47
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973292  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:8 | terface: |          | static   |          |          | 06T09:35 |
+| 4        | vxlan1.4 |          |          |          |          | :46.000Z |
+|          | 7 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:47   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:8 | rface    |          | rface    |          |          | 06T09:29 |
+| 4        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-48
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973291  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:8 | terface: |          | static   |          |          | 06T09:35 |
+| 5        | vxlan1.4 |          |          |          |          | :46.000Z |
+|          | 8 vtep:1 |          |          |          |          |          |
+|          | 47.28.22 |          |          |          |          |          |
+|          | 2.40     |          |          |          |          |          |
+|          | vni:48   |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:8 | rface    |          | rface    |          |          | 06T09:29 |
+| 5        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-7
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973290  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:5 | terface: |          | static   |          |          | 06T09:35 |
+| C        | vxlan1.7 |          |          |          |          | :46.000Z |
+|          | vtep:147 |          |          |          |          |          |
+|          | .28.222. |          |          |          |          |          |
+|          | 40 vni:7 |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:5 | rface    |          | rface    |          |          | 06T09:29 |
+| C        |          |          |          |          |          | :58.000Z |
+| B4:83:51 | vxlan-in | 5973303  | evpn     | true     | N/A      | 2024-09- |
+| :0E:F6:4 | terface: |          |          |          |          | 06T09:35 |
+| A        | vxlan1.7 |          |          |          |          | :46.000Z |
+|          | esi:B8:F |          |          |          |          |          |
+|          | 2:B3:82: |          |          |          |          |          |
+|          | 04:5E:0D |          |          |          |          |          |
+|          | :81:92:7 |          |          |          |          |          |
+|          | 9        |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-8
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973287  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:5 | terface: |          | static   |          |          | 06T09:35 |
+| D        | vxlan1.8 |          |          |          |          | :46.000Z |
+|          | vtep:147 |          |          |          |          |          |
+|          | .28.222. |          |          |          |          |          |
+|          | 40 vni:8 |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:5 | rface    |          | rface    |          |          | 06T09:29 |
+| D        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-L3-MAC-VRF-9
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :00:01:0 | rface    |          | rface-   |          |          | 06T09:29 |
+| 1        |          |          | anycast  |          |          | :58.000Z |
+| 10:98:26 | vxlan-in | 5973286  | evpn-    | true     | N/A      | 2024-09- |
+| :AF:F1:5 | terface: |          | static   |          |          | 06T09:35 |
+| E        | vxlan1.9 |          |          |          |          | :46.000Z |
+|          | vtep:147 |          |          |          |          |          |
+|          | .28.222. |          |          |          |          |          |
+|          | 40 vni:9 |          |          |          |          |          |
+| 10:98:26 | irb-inte | 0        | irb-inte | true     | N/A      | 2024-09- |
+| :B0:11:5 | rface    |          | rface    |          |          | 06T09:29 |
+| E        |          |          |          |          |          | :58.000Z |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-VXLAN-MAC-VRF-500939
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :00:01:9 | terface: |          |          |          |          | 06T09:35 |
+| 6        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973352  | evpn     | true     | N/A      | 2024-09- |
+| :0E:79:6 | terface: |          |          |          |          | 06T09:39 |
+| 4        | vxlan1.5 |          |          |          |          | :41.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.39 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :0E:87:2 | terface: |          |          |          |          | 06T09:35 |
+| E        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973349  | evpn     | true     | N/A      | 2024-09- |
+| :1F:C7:E | terface: |          |          |          |          | 06T09:39 |
+| 0        | vxlan1.5 |          |          |          |          | :41.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :22:C6:A | terface: |          |          |          |          | 06T09:35 |
+| 0        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :55:10:0 | terface: |          |          |          |          | 06T09:35 |
+| E        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :7D:C9:3 | terface: |          |          |          |          | 06T09:35 |
+| 2        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :8C:5F:E | terface: |          |          |          |          | 06T09:42 |
+| F        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| 04:3F:72 | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :51:68:C | terface: |          |          |          |          | 06T09:38 |
+| 8        | vxlan1.5 |          |          |          |          | :45.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :82:F0:E | terface: |          |          |          |          | 06T09:35 |
+| B        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973312  | evpn     | true     | N/A      | 2024-09- |
+| :82:F1:0 | terface: |          |          |          |          | 06T09:35 |
+| B        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 00939 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5009 |          |          |          |          |          |
+|          | 39       |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-VXLAN-MAC-VRF-501634
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :01:7F:4 | terface: |          |          |          |          | 06T09:35 |
+| 7        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :06:D7:1 | terface: |          |          |          |          | 06T09:38 |
+| 1        | vxlan1.5 |          |          |          |          | :57.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :0E:87:2 | terface: |          |          |          |          | 06T09:35 |
+| 4        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :12:C5:5 | terface: |          |          |          |          | 06T09:39 |
+| D        | vxlan1.5 |          |          |          |          | :08.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | ethernet | 26       | learnt   | true     | 238      | 2024-09- |
+| :1A:24:4 | -1/37.14 |          |          |          |          | 06T09:39 |
+| 8        | 0        |          |          |          |          | :25.000Z |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :22:C6:9 | terface: |          |          |          |          | 06T09:35 |
+| 6        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :2D:97:8 | terface: |          |          |          |          | 06T09:39 |
+| 8        | vxlan1.5 |          |          |          |          | :35.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :2E:DD:F | terface: |          |          |          |          | 06T09:39 |
+| 8        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :32:82:5 | terface: |          |          |          |          | 06T09:35 |
+| C        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :36:16:A | terface: |          |          |          |          | 06T09:35 |
+| 1        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :36:DB:9 | terface: |          |          |          |          | 06T09:39 |
+| 5        | vxlan1.5 |          |          |          |          | :35.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :38:89:E | terface: |          |          |          |          | 06T09:38 |
+| E        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :3F:AF:7 | terface: |          |          |          |          | 06T09:39 |
+| C        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :41:2B:B | terface: |          |          |          |          | 06T09:39 |
+| 2        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :4C:9B:B | terface: |          |          |          |          | 06T09:38 |
+| 7        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :50:E0:3 | terface: |          |          |          |          | 06T09:41 |
+| 6        | vxlan1.5 |          |          |          |          | :40.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :55:10:0 | terface: |          |          |          |          | 06T09:35 |
+| 4        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :59:54:2 | terface: |          |          |          |          | 06T09:35 |
+| 3        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :6B:E1:F | terface: |          |          |          |          | 06T09:35 |
+| 7        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :7D:C9:2 | terface: |          |          |          |          | 06T09:35 |
+| 8        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :8D:85:0 | terface: |          |          |          |          | 06T09:35 |
+| A        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :94:38:D | terface: |          |          |          |          | 06T09:38 |
+| E        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :95:B7:5 | terface: |          |          |          |          | 06T09:38 |
+| 8        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :A4:3D:E | terface: |          |          |          |          | 06T09:35 |
+| 9        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :A4:47:D | terface: |          |          |          |          | 06T09:39 |
+| F        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :BA:97:4 | terface: |          |          |          |          | 06T09:38 |
+| F        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :C1:5A:B | terface: |          |          |          |          | 06T09:38 |
+| E        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | ethernet | 26       | learnt   | true     | 286      | 2024-09- |
+| :C4:8D:B | -1/37.14 |          |          |          |          | 06T09:39 |
+| F        | 0        |          |          |          |          | :25.000Z |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :C5:A7:B | terface: |          |          |          |          | 06T09:39 |
+| 4        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :CC:3D:C | terface: |          |          |          |          | 06T09:35 |
+| 1        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :D2:3A:6 | terface: |          |          |          |          | 06T09:43 |
+| 3        | vxlan1.5 |          |          |          |          | :23.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :D4:CA:C | terface: |          |          |          |          | 06T09:38 |
+| B        | vxlan1.5 |          |          |          |          | :29.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :E6:65:8 | terface: |          |          |          |          | 06T09:39 |
+| 3        | vxlan1.5 |          |          |          |          | :35.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973353  | evpn     | true     | N/A      | 2024-09- |
+| :F6:1F:D | terface: |          |          |          |          | 06T09:39 |
+| 9        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.39 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:0E:C6 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :7C:A6:2 | terface: |          |          |          |          | 06T09:35 |
+| D        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:15:5D | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :C8:13:0 | terface: |          |          |          |          | 06T09:39 |
+| 0        | vxlan1.5 |          |          |          |          | :16.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:50:56 | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :66:34:F | terface: |          |          |          |          | 06T09:39 |
+| C        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:50:56 | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :67:42:E | terface: |          |          |          |          | 06T09:39 |
+| 9        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:50:56 | ethernet | 26       | learnt   | true     | 238      | 2024-09- |
+| :6D:47:7 | -1/37.14 |          |          |          |          | 06T09:39 |
+| F        | 0        |          |          |          |          | :25.000Z |
+| 00:50:56 | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :6D:FA:D | terface: |          |          |          |          | 06T09:39 |
+| 4        | vxlan1.5 |          |          |          |          | :35.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 00:50:56 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :98:08:5 | terface: |          |          |          |          | 06T09:41 |
+| 1        | vxlan1.5 |          |          |          |          | :39.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :48:53:2 | terface: |          |          |          |          | 06T09:39 |
+| 0        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :48:6D:5 | terface: |          |          |          |          | 06T09:39 |
+| C        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :48:6D:8 | terface: |          |          |          |          | 06T09:39 |
+| 0        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | ethernet | 26       | learnt   | true     | 238      | 2024-09- |
+| :48:6F:8 | -1/37.14 |          |          |          |          | 06T09:39 |
+| 2        | 0        |          |          |          |          | :25.000Z |
+| 50:7C:6F | vxlan-in | 5973354  | evpn     | true     | N/A      | 2024-09- |
+| :48:6F:C | terface: |          |          |          |          | 06T09:39 |
+| C        | vxlan1.5 |          |          |          |          | :35.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.36 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | vxlan-in | 5973285  | evpn     | true     | N/A      | 2024-09- |
+| :48:71:5 | terface: |          |          |          |          | 06T09:35 |
+| 0        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.40 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 50:7C:6F | vxlan-in | 5973346  | evpn     | true     | N/A      | 2024-09- |
+| :48:72:A | terface: |          |          |          |          | 06T09:40 |
+| 0        | vxlan1.5 |          |          |          |          | :30.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| 88:E9:A4 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :35:E1:C | terface: |          |          |          |          | 06T09:35 |
+| C        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| A4:BF:01 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :7A:B2:B | terface: |          |          |          |          | 06T09:35 |
+| 4        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| A4:BF:01 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :7A:B3:5 | terface: |          |          |          |          | 06T09:35 |
+| 9        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| B8:CE:F6 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :54:A1:B | terface: |          |          |          |          | 06T09:38 |
+| 4        | vxlan1.5 |          |          |          |          | :45.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| B8:CE:F6 | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :54:A2:A | terface: |          |          |          |          | 06T09:38 |
+| C        | vxlan1.5 |          |          |          |          | :45.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| D4:F5:EF | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :4F:29:D | terface: |          |          |          |          | 06T09:35 |
+| C        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| D4:F5:EF | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :4F:29:D | terface: |          |          |          |          | 06T09:35 |
+| D        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :82:F0:E | terface: |          |          |          |          | 06T09:35 |
+| 1        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973311  | evpn     | true     | N/A      | 2024-09- |
+| :82:F1:0 | terface: |          |          |          |          | 06T09:35 |
+| B        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 01634 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5016 |          |          |          |          |          |
+|          | 34       |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance CUST-VXLAN-MAC-VRF-502042
+--------------------------------------------------------------------------------
++----------+----------+----------+----------+----------+----------+----------+
+| Address  | Destinat |   Dest   |   Type   |  Active  |  Aging   |   Last   |
+|          |   ion    |  Index   |          |          |          |  Update  |
++==========+==========+==========+==========+==========+==========+==========+
+| 00:00:5E | vxlan-in | 5973310  | evpn     | true     | N/A      | 2024-09- |
+| :00:01:9 | terface: |          |          |          |          | 06T09:35 |
+| E        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| 00:0C:29 | ethernet | 35       | learnt   | true     | 238      | 2024-09- |
+| :01:7F:5 | -1/46.15 |          |          |          |          | 06T09:39 |
+| B        | 8        |          |          |          |          | :25.000Z |
+| 00:0C:29 | ethernet | 35       | learnt   | true     | 238      | 2024-09- |
+| :32:82:7 | -1/46.15 |          |          |          |          | 06T09:39 |
+| 0        | 8        |          |          |          |          | :25.000Z |
+| 00:0C:29 | vxlan-in | 5973357  | evpn     | true     | N/A      | 2024-09- |
+| :94:38:F | terface: |          |          |          |          | 06T09:39 |
+| 2        | vxlan1.5 |          |          |          |          | :28.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.37 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973357  | evpn     | true     | N/A      | 2024-09- |
+| :95:B7:6 | terface: |          |          |          |          | 06T09:39 |
+| C        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.37 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| 00:0C:29 | ethernet | 35       | learnt   | true     | 238      | 2024-09- |
+| :CC:3D:D | -1/46.15 |          |          |          |          | 06T09:39 |
+| 5        | 8        |          |          |          |          | :25.000Z |
+| 00:0C:29 | vxlan-in | 5973357  | evpn     | true     | N/A      | 2024-09- |
+| :D4:CA:D | terface: |          |          |          |          | 06T09:39 |
+| F        | vxlan1.5 |          |          |          |          | :25.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.37 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| 00:0C:29 | vxlan-in | 5973345  | evpn     | true     | N/A      | 2024-09- |
+| :F6:1F:E | terface: |          |          |          |          | 06T09:43 |
+| D        | vxlan1.5 |          |          |          |          | :56.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.38 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973310  | evpn     | true     | N/A      | 2024-09- |
+| :82:F0:F | terface: |          |          |          |          | 06T09:38 |
+| 3        | vxlan1.5 |          |          |          |          | :16.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
+| DC:68:0C | vxlan-in | 5973310  | evpn     | true     | N/A      | 2024-09- |
+| :82:F1:0 | terface: |          |          |          |          | 06T09:35 |
+| B        | vxlan1.5 |          |          |          |          | :46.000Z |
+|          | 02042 vt |          |          |          |          |          |
+|          | ep:147.2 |          |          |          |          |          |
+|          | 8.222.28 |          |          |          |          |          |
+|          | vni:5020 |          |          |          |          |          |
+|          | 42       |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+
+--------------------------------------------------------------------------------
+Mac-table of network instance PRE-PROVISIONING
+--------------------------------------------------------------------------------
+Total Irb Macs                 :   17 Total   17 Active
+Total Static Macs              :    0 Total    0 Active
+Total Duplicate Macs           :    0 Total    0 Active
+Total Learnt Macs              :    8 Total    8 Active
+Total Evpn Macs                :   74 Total   74 Active
+Total Evpn static Macs         :   17 Total   17 Active
+Total Irb anycast Macs         :   17 Total   17 Active
+Total Proxy Antispoof Macs     :    0 Total    0 Active
+Total Reserved Macs            :    0 Total    0 Active
+Total Eth-cfm Macs             :    0 Total    0 Active
+<esr1b.rk05.p01.mx2> show network-instance * protocols bgp neighbor
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :5m:2 | unica | 14]   |
+|       | 86    |       |       |       | d     | 2s    | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :5m:2 | unica | 14]   |
+|       | 114   |       |       |       | d     | 2s    | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :5m:2 | unica | 14]   |
+|       | 142   |       |       |       | d     | 4s    | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :5m:2 | unica | 14]   |
+|       | 170   |       |       |       | d     | 4s    | st    |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 0d:0h | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | :8m:7 | unica | 4]    |
+|       | 196   |       |       |       | d     | s     | st    |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 0d:0h | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | :8m:8 | unica | 4]    |
+|       | 198   |       |       |       | d     | s     | st    |       |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 0d:0h | evpn  | [189/ |
+| lt    | 8.222 |       |       |       | lishe | :5m:2 |       | 150/4 |
+|       | .4    |       |       |       | d     | 2s    |       | 8]    |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 0d:0h | evpn  | [189/ |
+| lt    | 8.222 |       |       |       | lishe | :5m:2 |       | 0/197 |
+|       | .5    |       |       |       | d     | 3s    |       | ]     |
+| defau | 147.2 | TOR-  | SB    | 65530 | estab | 0d:0h | evpn  | [284/ |
+| lt    | 8.222 | PEER- |       |       | lishe | :8m:8 |       | 132/2 |
+|       | .40   | EVPN  |       |       | d     | s     |       | 48]   |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::5 | UPLIN |       |       | lishe | :5m:3 | unica | 2]    |
+|       | 6     | K     |       |       | d     | 4s    | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::7 | UPLIN |       |       | lishe | :5m:3 | unica | 2]    |
+|       | 2     | K     |       |       | d     | 5s    | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::8 | UPLIN |       |       | lishe | :5m:3 | unica | 2]    |
+|       | e     | K     |       |       | d     | 5s    | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::a | UPLIN |       |       | lishe | :5m:3 | unica | 2]    |
+|       | a     | K     |       |       | d     | 5s    | st    |       |
+| defau | fc00: | V6-   | S     | 65530 | estab | 0d:0h | ipv6- | [3/2/ |
+| lt    | da::c | TOR-  |       |       | lishe | :7m:4 | unica | 3]    |
+|       | 4     | PEER  |       |       | d     | 8s    | st    |       |
+| defau | fc00: | V6-   | S     | 65530 | estab | 0d:0h | ipv6- | [3/2/ |
+| lt    | da::c | TOR-  |       |       | lishe | :7m:4 | unica | 3]    |
+|       | 6     | PEER  |       |       | d     | 8s    | st    |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+15 configured neighbors, 15 configured sessions are established,0 disabled peers
+0 dynamic peers
+<esr1b.rk05.p01.mx2> show network-instance * route-table
+--------------------------------------------------------------------------------
+IPv4 unicast route table of network instance default
+--------------------------------------------------------------------------------
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Pre | ID  | Rou | Rou | Act | Ori | Met | Pre | Nex | Nex | Bac | Bac |
+| fix |     | te  | te  | ive | gin | ric |  f  | t-  | t-  | kup | kup |
+|     |     | Typ | Own |     | Net |     |     | hop | hop | Nex | Nex |
+|     |     |  e  | er  |     | wor |     |     | (Ty | Int | t-  | t-  |
+|     |     |     |     |     | k I |     |     | pe) | erf | hop | hop |
+|     |     |     |     |     | nst |     |     |     | ace | (Ty | Int |
+|     |     |     |     |     | anc |     |     |     |     | pe) | erf |
+|     |     |     |     |     |  e  |     |     |     |     |     | ace |
++=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+
+| 0.0 | 0   | bgp | bgp | Tru | def | 0   | 170 | 10. | eth |     |     |
+| .0. |     |     | _mg | e   | aul |     |     | 253 | ern |     |     |
+| 0/0 |     |     | r   |     | t   |     |     | .20 | et- |     |     |
+|     |     |     |     |     |     |     |     | .86 | 1/4 |     |     |
+|     |     |     |     |     |     |     |     | /31 | 9.0 |     |     |
+|     |     |     |     |     |     |     |     | (in | eth |     |     |
+|     |     |     |     |     |     |     |     | dir | ern |     |     |
+|     |     |     |     |     |     |     |     | ect | et- |     |     |
+|     |     |     |     |     |     |     |     | /lo | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | cal | 1.0 |     |     |
+|     |     |     |     |     |     |     |     | )   | eth |     |     |
+|     |     |     |     |     |     |     |     | 10. | ern |     |     |
+|     |     |     |     |     |     |     |     | 253 | et- |     |     |
+|     |     |     |     |     |     |     |     | .20 | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | .14 | 0.0 |     |     |
+|     |     |     |     |     |     |     |     | 2/3 | eth |     |     |
+|     |     |     |     |     |     |     |     | 1 ( | ern |     |     |
+|     |     |     |     |     |     |     |     | ind | et- |     |     |
+|     |     |     |     |     |     |     |     | ire | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | ct/ | 2.0 |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+|     |     |     |     |     |     |     |     | 10. |     |     |     |
+|     |     |     |     |     |     |     |     | 253 |     |     |     |
+|     |     |     |     |     |     |     |     | .20 |     |     |     |
+|     |     |     |     |     |     |     |     | .11 |     |     |     |
+|     |     |     |     |     |     |     |     | 4/3 |     |     |     |
+|     |     |     |     |     |     |     |     | 1 ( |     |     |     |
+|     |     |     |     |     |     |     |     | ind |     |     |     |
+|     |     |     |     |     |     |     |     | ire |     |     |     |
+|     |     |     |     |     |     |     |     | ct/ |     |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+|     |     |     |     |     |     |     |     | 10. |     |     |     |
+|     |     |     |     |     |     |     |     | 253 |     |     |     |
+|     |     |     |     |     |     |     |     | .20 |     |     |     |
+|     |     |     |     |     |     |     |     | .17 |     |     |     |
+|     |     |     |     |     |     |     |     | 0/3 |     |     |     |
+|     |     |     |     |     |     |     |     | 1 ( |     |     |     |
+|     |     |     |     |     |     |     |     | ind |     |     |     |
+|     |     |     |     |     |     |     |     | ire |     |     |     |
+|     |     |     |     |     |     |     |     | ct/ |     |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+| 10. | 49  | loc | net | Tru | def | 0   | 0   | 10. | irb |     |     |
+| 52. |     | al  | _in | e   | aul |     |     | 52. | 28. |     |     |
+| 14. |     |     | st_ |     | t   |     |     | 14. | 0   |     |     |
+| 128 |     |     | mgr |     |     |     |     | 128 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 49  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 52. |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| 14. |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 128 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 37  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .86 |     |     | mgr |     |     |     |     | .87 | 1/4 |     |     |
+| /31 |     |     |     |     |     |     |     | (di | 9.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 37  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .87 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 38  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .11 |     |     | mgr |     |     |     |     | .11 | 1/5 |     |     |
+| 4/3 |     |     |     |     |     |     |     | 5 ( | 0.0 |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 38  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .11 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 5/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 10. | 39  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .14 |     |     | mgr |     |     |     |     | .14 | 1/5 |     |     |
+| 2/3 |     |     |     |     |     |     |     | 3 ( | 1.0 |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 39  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .14 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 3/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 10. | 40  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .17 |     |     | mgr |     |     |     |     | .17 | 1/5 |     |     |
+| 0/3 |     |     |     |     |     |     |     | 1 ( | 2.0 |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 40  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .17 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 1/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 10. | 41  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .19 |     |     | mgr |     |     |     |     | .19 | 1/5 |     |     |
+| 6/3 |     |     |     |     |     |     |     | 7 ( | 3.0 |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 41  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .19 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 7/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 10. | 42  | loc | net | Tru | def | 0   | 0   | 10. | eth |     |     |
+| 253 |     | al  | _in | e   | aul |     |     | 253 | ern |     |     |
+| .20 |     |     | st_ |     | t   |     |     | .20 | et- |     |     |
+| .19 |     |     | mgr |     |     |     |     | .19 | 1/5 |     |     |
+| 8/3 |     |     |     |     |     |     |     | 9 ( | 4.0 |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 42  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 253 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .20 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .19 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 9/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 147 | 0   | bgp | bgp | Tru | def | 0   | 170 | 10. | eth |     |     |
+| .28 |     |     | _mg | e   | aul |     |     | 253 | ern |     |     |
+| .22 |     |     | r   |     | t   |     |     | .20 | et- |     |     |
+| 2.2 |     |     |     |     |     |     |     | .19 | 1/5 |     |     |
+| 4/3 |     |     |     |     |     |     |     | 6/3 | 3.0 |     |     |
+| 2   |     |     |     |     |     |     |     | 1 ( | eth |     |     |
+|     |     |     |     |     |     |     |     | ind | ern |     |     |
+|     |     |     |     |     |     |     |     | ire | et- |     |     |
+|     |     |     |     |     |     |     |     | ct/ | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | loc | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+|     |     |     |     |     |     |     |     | 10. |     |     |     |
+|     |     |     |     |     |     |     |     | 253 |     |     |     |
+|     |     |     |     |     |     |     |     | .20 |     |     |     |
+|     |     |     |     |     |     |     |     | .19 |     |     |     |
+|     |     |     |     |     |     |     |     | 8/3 |     |     |     |
+|     |     |     |     |     |     |     |     | 1 ( |     |     |     |
+|     |     |     |     |     |     |     |     | ind |     |     |     |
+|     |     |     |     |     |     |     |     | ire |     |     |     |
+|     |     |     |     |     |     |     |     | ct/ |     |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+| 147 | 71  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .28 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .22 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 2.2 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 5/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 147 | 0   | bgp | bgp | Tru | def | 0   | 170 | 10. | eth |     |     |
+| .28 |     |     | _mg | e   | aul |     |     | 253 | ern |     |     |
+| .22 |     |     | r   |     | t   |     |     | .20 | et- |     |     |
+| 2.4 |     |     |     |     |     |     |     | .19 | 1/5 |     |     |
+| 0/3 |     |     |     |     |     |     |     | 6/3 | 3.0 |     |     |
+| 2   |     |     |     |     |     |     |     | 1 ( | eth |     |     |
+|     |     |     |     |     |     |     |     | ind | ern |     |     |
+|     |     |     |     |     |     |     |     | ire | et- |     |     |
+|     |     |     |     |     |     |     |     | ct/ | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | loc | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+|     |     |     |     |     |     |     |     | 10. |     |     |     |
+|     |     |     |     |     |     |     |     | 253 |     |     |     |
+|     |     |     |     |     |     |     |     | .20 |     |     |     |
+|     |     |     |     |     |     |     |     | .19 |     |     |     |
+|     |     |     |     |     |     |     |     | 8/3 |     |     |     |
+|     |     |     |     |     |     |     |     | 1 ( |     |     |     |
+|     |     |     |     |     |     |     |     | ind |     |     |     |
+|     |     |     |     |     |     |     |     | ire |     |     |     |
+|     |     |     |     |     |     |     |     | ct/ |     |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+| 147 | 73  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .28 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .22 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 2.4 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 1/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 147 | 49  | loc | net | Tru | def | 0   | 0   | 147 | irb |     |     |
+| .28 |     | al  | _in | e   | aul |     |     | .28 | 28. |     |     |
+| .22 |     |     | st_ |     | t   |     |     | .22 | 0   |     |     |
+| 3.1 |     |     | mgr |     |     |     |     | 3.1 |     |     |     |
+| 2/3 |     |     |     |     |     |     |     | 2 ( |     |     |     |
+| 1   |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 147 | 49  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .28 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .22 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 3.1 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 2/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 169 | 0   | bgp | bgp | Tru | def | 0   | 170 | 10. | eth |     |     |
+| .25 |     |     | _mg | e   | aul |     |     | 253 | ern |     |     |
+| 4.2 |     |     | r   |     | t   |     |     | .20 | et- |     |     |
+| 55. |     |     |     |     |     |     |     | .19 | 1/5 |     |     |
+| 1/3 |     |     |     |     |     |     |     | 6/3 | 3.0 |     |     |
+| 2   |     |     |     |     |     |     |     | 1 ( | eth |     |     |
+|     |     |     |     |     |     |     |     | ind | ern |     |     |
+|     |     |     |     |     |     |     |     | ire | et- |     |     |
+|     |     |     |     |     |     |     |     | ct/ | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | loc | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+|     |     |     |     |     |     |     |     | 10. |     |     |     |
+|     |     |     |     |     |     |     |     | 253 |     |     |     |
+|     |     |     |     |     |     |     |     | .20 |     |     |     |
+|     |     |     |     |     |     |     |     | .19 |     |     |     |
+|     |     |     |     |     |     |     |     | 8/3 |     |     |     |
+|     |     |     |     |     |     |     |     | 1 ( |     |     |     |
+|     |     |     |     |     |     |     |     | ind |     |     |     |
+|     |     |     |     |     |     |     |     | ire |     |     |     |
+|     |     |     |     |     |     |     |     | ct/ |     |     |     |
+|     |     |     |     |     |     |     |     | loc |     |     |     |
+|     |     |     |     |     |     |     |     | al) |     |     |     |
+| 169 | 72  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .25 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| 4.2 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 55. |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 2/3 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 2   |     |     |     |     |     |     |     |     |     |     |     |
+| 172 | 53  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 32. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .10 |     |     | mgr |     |     |     |     | .10 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 53  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .10 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 50  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 29. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .12 |     |     | mgr |     |     |     |     | .12 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 50  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .12 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 48  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 27. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .14 |     |     | mgr |     |     |     |     | .14 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 48  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .14 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 52  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 31. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .16 |     |     | mgr |     |     |     |     | .16 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 52  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .16 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 51  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 30. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .20 |     |     | mgr |     |     |     |     | .20 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 51  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .20 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 43  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 7.0 |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 |     |     |     |
+| .78 |     |     | mgr |     |     |     |     | .78 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 43  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .78 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 44  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 8.0 |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 |     |     |     |
+| .80 |     |     | mgr |     |     |     |     | .80 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 44  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .80 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 45  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 9.0 |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 |     |     |     |
+| .82 |     |     | mgr |     |     |     |     | .82 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 45  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .82 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 46  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 10. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .84 |     |     | mgr |     |     |     |     | .84 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 46  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .84 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 47  | loc | net | Tru | def | 0   | 0   | 172 | irb |     |     |
+| .21 |     | al  | _in | e   | aul |     |     | .21 | 11. |     |     |
+| .32 |     |     | st_ |     | t   |     |     | .32 | 0   |     |     |
+| .86 |     |     | mgr |     |     |     |     | .86 |     |     |     |
+| /31 |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 172 | 47  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| .21 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| .32 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| .86 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| /32 |     |     |     |     |     |     |     | t)  |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+--------------------------------------------------------------------------------
+IPv4 routes total                    : 43
+IPv4 prefixes with active routes     : 43
+IPv4 prefixes with active ECMP routes: 4
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv4 unicast route table of network instance mgmt
+--------------------------------------------------------------------------------
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Pre | ID  | Rou | Rou | Act | Ori | Met | Pre | Nex | Nex | Bac | Bac |
+| fix |     | te  | te  | ive | gin | ric |  f  | t-  | t-  | kup | kup |
+|     |     | Typ | Own |     | Net |     |     | hop | hop | Nex | Nex |
+|     |     |  e  | er  |     | wor |     |     | (Ty | Int | t-  | t-  |
+|     |     |     |     |     | k I |     |     | pe) | erf | hop | hop |
+|     |     |     |     |     | nst |     |     |     | ace | (Ty | Int |
+|     |     |     |     |     | anc |     |     |     |     | pe) | erf |
+|     |     |     |     |     |  e  |     |     |     |     |     | ace |
++=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+
+| 0.0 | 0   | sta | sta | Tru | mgm | 1   | 5   | 10. | mgm |     |     |
+| .0. |     | tic | tic | e   | t   |     |     | 55. | t0. |     |     |
+| 0/0 |     |     | _ro |     |     |     |     | 131 | 0   |     |     |
+|     |     |     | ute |     |     |     |     | .0/ |     |     |     |
+|     |     |     | _mg |     |     |     |     | 25  |     |     |     |
+|     |     |     | r   |     |     |     |     | (in |     |     |     |
+|     |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | /lo |     |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 10. | 0   | lin | lin | Fal | mgm | 0   | 5   | 10. | mgm |     |     |
+| 55. |     | ux  | ux_ | se  | t   |     |     | 55. | t0. |     |     |
+| 131 |     |     | mgr |     |     |     |     | 131 | 0   |     |     |
+| .0/ |     |     |     |     |     |     |     | .0  |     |     |     |
+| 25  |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 94  | loc | net | Tru | mgm | 0   | 0   | 10. | mgm |     |     |
+| 55. |     | al  | _in | e   | t   |     |     | 55. | t0. |     |     |
+| 131 |     |     | st_ |     |     |     |     | 131 | 0   |     |     |
+| .0/ |     |     | mgr |     |     |     |     | .3  |     |     |     |
+| 25  |     |     |     |     |     |     |     | (di |     |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 94  | hos | net | Tru | mgm | 0   | 0   | Non | Non |     |     |
+| 55. |     | t   | _in | e   | t   |     |     | e ( | e   |     |     |
+| 131 |     |     | st_ |     |     |     |     | ext |     |     |     |
+| .3/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 32  |     |     |     |     |     |     |     | t)  |     |     |     |
+| 10. | 94  | hos | net | Tru | mgm | 0   | 0   | Non |     |     |     |
+| 55. |     | t   | _in | e   | t   |     |     | e ( |     |     |     |
+| 131 |     |     | st_ |     |     |     |     | bro |     |     |     |
+| .12 |     |     | mgr |     |     |     |     | adc |     |     |     |
+| 7/3 |     |     |     |     |     |     |     | ast |     |     |     |
+| 2   |     |     |     |     |     |     |     | )   |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+--------------------------------------------------------------------------------
+IPv4 routes total                    : 5
+IPv4 prefixes with active routes     : 4
+IPv4 prefixes with active ECMP routes: 0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 unicast route table of network instance default
+--------------------------------------------------------------------------------
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Pre | ID  | Rou | Rou | Act | Ori | Met | Pre | Nex | Nex | Bac | Bac |
+| fix |     | te  | te  | ive | gin | ric |  f  | t-  | t-  | kup | kup |
+|     |     | Typ | Own |     | Net |     |     | hop | hop | Nex | Nex |
+|     |     |  e  | er  |     | wor |     |     | (Ty | Int | t-  | t-  |
+|     |     |     |     |     | k I |     |     | pe) | erf | hop | hop |
+|     |     |     |     |     | nst |     |     |     | ace | (Ty | Int |
+|     |     |     |     |     | anc |     |     |     |     | pe) | erf |
+|     |     |     |     |     |  e  |     |     |     |     |     | ace |
++=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+
+| ::/ | 0   | bgp | bgp | Tru | def | 0   | 170 | fc0 | eth |     |     |
+| 0   |     |     | _mg | e   | aul |     |     | 0:d | ern |     |     |
+|     |     |     | r   |     | t   |     |     | a:: | et- |     |     |
+|     |     |     |     |     |     |     |     | 56/ | 1/4 |     |     |
+|     |     |     |     |     |     |     |     | 127 | 9.0 |     |     |
+|     |     |     |     |     |     |     |     | (in | eth |     |     |
+|     |     |     |     |     |     |     |     | dir | ern |     |     |
+|     |     |     |     |     |     |     |     | ect | et- |     |     |
+|     |     |     |     |     |     |     |     | /lo | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | cal | 1.0 |     |     |
+|     |     |     |     |     |     |     |     | )   | eth |     |     |
+|     |     |     |     |     |     |     |     | fc0 | ern |     |     |
+|     |     |     |     |     |     |     |     | 0:d | et- |     |     |
+|     |     |     |     |     |     |     |     | a:: | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | 8e/ | 0.0 |     |     |
+|     |     |     |     |     |     |     |     | 127 | eth |     |     |
+|     |     |     |     |     |     |     |     | (in | ern |     |     |
+|     |     |     |     |     |     |     |     | dir | et- |     |     |
+|     |     |     |     |     |     |     |     | ect | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | /lo | 2.0 |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+|     |     |     |     |     |     |     |     | fc0 |     |     |     |
+|     |     |     |     |     |     |     |     | 0:d |     |     |     |
+|     |     |     |     |     |     |     |     | a:: |     |     |     |
+|     |     |     |     |     |     |     |     | 72/ |     |     |     |
+|     |     |     |     |     |     |     |     | 127 |     |     |     |
+|     |     |     |     |     |     |     |     | (in |     |     |     |
+|     |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | /lo |     |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+|     |     |     |     |     |     |     |     | fc0 |     |     |     |
+|     |     |     |     |     |     |     |     | 0:d |     |     |     |
+|     |     |     |     |     |     |     |     | a:: |     |     |     |
+|     |     |     |     |     |     |     |     | aa/ |     |     |     |
+|     |     |     |     |     |     |     |     | 127 |     |     |     |
+|     |     |     |     |     |     |     |     | (in |     |     |     |
+|     |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | /lo |     |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 260 | 0   | bgp | bgp | Tru | def | 0   | 170 | fc0 | eth |     |     |
+| 4:1 |     |     | _mg | e   | aul |     |     | 0:d | ern |     |     |
+| 380 |     |     | r   |     | t   |     |     | a:: | et- |     |     |
+| :40 |     |     |     |     |     |     |     | c4/ | 1/5 |     |     |
+| 60: |     |     |     |     |     |     |     | 127 | 3.0 |     |     |
+| fff |     |     |     |     |     |     |     | (in | eth |     |     |
+| f:: |     |     |     |     |     |     |     | dir | ern |     |     |
+| 18/ |     |     |     |     |     |     |     | ect | et- |     |     |
+| 128 |     |     |     |     |     |     |     | /lo | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | cal | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+|     |     |     |     |     |     |     |     | fc0 |     |     |     |
+|     |     |     |     |     |     |     |     | 0:d |     |     |     |
+|     |     |     |     |     |     |     |     | a:: |     |     |     |
+|     |     |     |     |     |     |     |     | c6/ |     |     |     |
+|     |     |     |     |     |     |     |     | 127 |     |     |     |
+|     |     |     |     |     |     |     |     | (in |     |     |     |
+|     |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | /lo |     |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| 260 | 71  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 4:1 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| 380 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| :40 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 60: |     |     |     |     |     |     |     | t)  |     |     |     |
+| fff |     |     |     |     |     |     |     |     |     |     |     |
+| f:: |     |     |     |     |     |     |     |     |     |     |     |
+| 19/ |     |     |     |     |     |     |     |     |     |     |     |
+| 128 |     |     |     |     |     |     |     |     |     |     |     |
+| 260 | 49  | loc | net | Tru | def | 0   | 0   | 260 | irb |     |     |
+| 4:1 |     | al  | _in | e   | aul |     |     | 4:1 | 28. |     |     |
+| 380 |     |     | st_ |     | t   |     |     | 380 | 0   |     |     |
+| :40 |     |     | mgr |     |     |     |     | :40 |     |     |     |
+| 61: |     |     |     |     |     |     |     | 61: |     |     |     |
+| 1b0 |     |     |     |     |     |     |     | 1b0 |     |     |     |
+| 0:: |     |     |     |     |     |     |     | 0:: |     |     |     |
+| /12 |     |     |     |     |     |     |     | (di |     |     |     |
+| 7   |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| 260 | 49  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 4:1 |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| 380 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| :40 |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 61: |     |     |     |     |     |     |     | t)  |     |     |     |
+| 1b0 |     |     |     |     |     |     |     |     |     |     |     |
+| 0:: |     |     |     |     |     |     |     |     |     |     |     |
+| /12 |     |     |     |     |     |     |     |     |     |     |     |
+| 8   |     |     |     |     |     |     |     |     |     |     |     |
+| fc0 | 0   | bgp | bgp | Tru | def | 0   | 170 | fc0 | eth |     |     |
+| 0:: |     |     | _mg | e   | aul |     |     | 0:d | ern |     |     |
+| e/1 |     |     | r   |     | t   |     |     | a:: | et- |     |     |
+| 28  |     |     |     |     |     |     |     | c4/ | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | 127 | 3.0 |     |     |
+|     |     |     |     |     |     |     |     | (in | eth |     |     |
+|     |     |     |     |     |     |     |     | dir | ern |     |     |
+|     |     |     |     |     |     |     |     | ect | et- |     |     |
+|     |     |     |     |     |     |     |     | /lo | 1/5 |     |     |
+|     |     |     |     |     |     |     |     | cal | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+|     |     |     |     |     |     |     |     | fc0 |     |     |     |
+|     |     |     |     |     |     |     |     | 0:d |     |     |     |
+|     |     |     |     |     |     |     |     | a:: |     |     |     |
+|     |     |     |     |     |     |     |     | c6/ |     |     |     |
+|     |     |     |     |     |     |     |     | 127 |     |     |     |
+|     |     |     |     |     |     |     |     | (in |     |     |     |
+|     |     |     |     |     |     |     |     | dir |     |     |     |
+|     |     |     |     |     |     |     |     | ect |     |     |     |
+|     |     |     |     |     |     |     |     | /lo |     |     |     |
+|     |     |     |     |     |     |     |     | cal |     |     |     |
+|     |     |     |     |     |     |     |     | )   |     |     |     |
+| fc0 | 72  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:: |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| f/1 |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 28  |     |     | mgr |     |     |     |     | rac |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 37  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| 56/ |     |     | mgr |     |     |     |     | 57  | 1/4 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 9.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 37  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 57/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 38  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| 72/ |     |     | mgr |     |     |     |     | 73  | 1/5 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 0.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 38  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 73/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 39  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| 8e/ |     |     | mgr |     |     |     |     | 8f  | 1/5 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 1.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 39  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| 8f/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 40  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| aa/ |     |     | mgr |     |     |     |     | ab  | 1/5 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 2.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 40  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| ab/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 41  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| c4/ |     |     | mgr |     |     |     |     | c5  | 1/5 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 3.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 41  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| c5/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 42  | loc | net | Tru | def | 0   | 0   | fc0 | eth |     |     |
+| 0:d |     | al  | _in | e   | aul |     |     | 0:d | ern |     |     |
+| a:: |     |     | st_ |     | t   |     |     | a:: | et- |     |     |
+| c6/ |     |     | mgr |     |     |     |     | c7  | 1/5 |     |     |
+| 127 |     |     |     |     |     |     |     | (di | 4.0 |     |     |
+|     |     |     |     |     |     |     |     | rec |     |     |     |
+|     |     |     |     |     |     |     |     | t)  |     |     |     |
+| fc0 | 42  | hos | net | Tru | def | 0   | 0   | Non | Non |     |     |
+| 0:d |     | t   | _in | e   | aul |     |     | e ( | e   |     |     |
+| a:: |     |     | st_ |     | t   |     |     | ext |     |     |     |
+| c7/ |     |     | mgr |     |     |     |     | rac |     |     |     |
+| 128 |     |     |     |     |     |     |     | t)  |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+--------------------------------------------------------------------------------
+IPv6 routes total                    : 19
+IPv6 prefixes with active routes     : 19
+IPv6 prefixes with active ECMP routes: 3
+--------------------------------------------------------------------------------
+<esr1b.rk05.p01.mx2> show network-instance * tunnel-table
+--------------------------------------------------------------------------------
+IPv4 tunnel table of network-instance "*"
+--------------------------------------------------------------------------------
++------+------+------+------+------+------+------+------+------+------+
+| IPv4 | Enca | Tunn | Tunn | FIB  | Metr | Pref | Last | Next | Next |
+| Pref |  ps  |  el  |  el  |      |  ic  | eren | Upda | -hop | -hop |
+|  ix  | Type | Type |  ID  |      |      |  ce  |  te  | (Typ |      |
+|      |      |      |      |      |      |      |      |  e)  |      |
++======+======+======+======+======+======+======+======+======+======+
+| 147. | vxla | vxla | 2    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.2 |      |      |      |      |      |      | 06T0 | 0.86 | -1/4 |
+| 8/32 |      |      |      |      |      |      | 9:38 | (dir | 9.0  |
+|      |      |      |      |      |      |      | :30. | ect) |      |
+|      |      |      |      |      |      |      | 748Z |      |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.14 | -1/5 |
+|      |      |      |      |      |      |      |      | 2 (d | 1.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.11 | -1/5 |
+|      |      |      |      |      |      |      |      | 4 (d | 0.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.17 | -1/5 |
+|      |      |      |      |      |      |      |      | 0 (d | 2.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+| 147. | vxla | vxla | 3    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.3 |      |      |      |      |      |      | 06T0 | 0.86 | -1/4 |
+| 6/32 |      |      |      |      |      |      | 9:38 | (dir | 9.0  |
+|      |      |      |      |      |      |      | :30. | ect) |      |
+|      |      |      |      |      |      |      | 748Z |      |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.14 | -1/5 |
+|      |      |      |      |      |      |      |      | 2 (d | 1.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.11 | -1/5 |
+|      |      |      |      |      |      |      |      | 4 (d | 0.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.17 | -1/5 |
+|      |      |      |      |      |      |      |      | 0 (d | 2.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+| 147. | vxla | vxla | 5    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.3 |      |      |      |      |      |      | 06T0 | 0.86 | -1/4 |
+| 7/32 |      |      |      |      |      |      | 9:38 | (dir | 9.0  |
+|      |      |      |      |      |      |      | :30. | ect) |      |
+|      |      |      |      |      |      |      | 748Z |      |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.14 | -1/5 |
+|      |      |      |      |      |      |      |      | 2 (d | 1.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.11 | -1/5 |
+|      |      |      |      |      |      |      |      | 4 (d | 0.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.17 | -1/5 |
+|      |      |      |      |      |      |      |      | 0 (d | 2.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+| 147. | vxla | vxla | 4    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.3 |      |      |      |      |      |      | 06T0 | 0.86 | -1/4 |
+| 8/32 |      |      |      |      |      |      | 9:38 | (dir | 9.0  |
+|      |      |      |      |      |      |      | :30. | ect) |      |
+|      |      |      |      |      |      |      | 748Z |      |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.14 | -1/5 |
+|      |      |      |      |      |      |      |      | 2 (d | 1.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.11 | -1/5 |
+|      |      |      |      |      |      |      |      | 4 (d | 0.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.17 | -1/5 |
+|      |      |      |      |      |      |      |      | 0 (d | 2.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+| 147. | vxla | vxla | 6    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.3 |      |      |      |      |      |      | 06T0 | 0.86 | -1/4 |
+| 9/32 |      |      |      |      |      |      | 9:38 | (dir | 9.0  |
+|      |      |      |      |      |      |      | :30. | ect) |      |
+|      |      |      |      |      |      |      | 748Z |      |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.14 | -1/5 |
+|      |      |      |      |      |      |      |      | 2 (d | 1.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.11 | -1/5 |
+|      |      |      |      |      |      |      |      | 4 (d | 0.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.17 | -1/5 |
+|      |      |      |      |      |      |      |      | 0 (d | 2.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
+| 147. | vxla | vxla | 1    | Y    | 0    | 0    | 2024 | 10.2 | ethe |
+| 28.2 | n    | n    |      |      |      |      | -09- | 53.2 | rnet |
+| 22.4 |      |      |      |      |      |      | 06T0 | 0.19 | -1/5 |
+| 0/32 |      |      |      |      |      |      | 9:35 | 6 (d | 3.0  |
+|      |      |      |      |      |      |      | :46. | irec |      |
+|      |      |      |      |      |      |      | 058Z | t)   |      |
+|      |      |      |      |      |      |      |      | 10.2 | ethe |
+|      |      |      |      |      |      |      |      | 53.2 | rnet |
+|      |      |      |      |      |      |      |      | 0.19 | -1/5 |
+|      |      |      |      |      |      |      |      | 8 (d | 4.0  |
+|      |      |      |      |      |      |      |      | irec |      |
+|      |      |      |      |      |      |      |      | t)   |      |
++------+------+------+------+------+------+------+------+------+------+
+--------------------------------------------------------------------------------
+6 VXLAN tunnels, 6 active, 0 inactive
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+IPv6 tunnel table of network-instance "*"
+--------------------------------------------------------------------------------
+<no_entries>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<esr1b.rk05.p01.mx2> show platform environment
+  +--------------+----+-------------+--------------+-------------+-------------+
+  | Module Type  | ID | Admin State | Operational  |    Model    | Temperature |
+  |              |    |             |    State     |             |             |
+  +==============+====+=============+==============+=============+=============+
+  | control      | A  | N/A         | up           | imm48-25g-  | 41          |
+  |              |    |             |              | sfp28+8-    |             |
+  |              |    |             |              | 100g-       |             |
+  |              |    |             |              | qsfp28+2-   |             |
+  |              |    |             |              | 10g-sfpp    |             |
+  | linecard     | 1  | N/A         | up           | imm48-25g-  | N/A         |
+  |              |    |             |              | sfp28+8-    |             |
+  |              |    |             |              | 100g-       |             |
+  |              |    |             |              | qsfp28+2-   |             |
+  |              |    |             |              | 10g-sfpp    |             |
+  | fan-tray     | 1  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | fan-tray     | 2  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | fan-tray     | 3  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | fan-tray     | 4  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | fan-tray     | 5  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | fan-tray     | 6  | N/A         | up           | fan-        | N/A         |
+  |              |    |             |              | ixr-d2l-b   |             |
+  | power-supply | 1  | N/A         | up           | psu-ixr-    | 36          |
+  |              |    |             |              | d2l-ac-650- |             |
+  |              |    |             |              | b           |             |
+  | power-supply | 2  | N/A         | up           | psu-ixr-    | 38          |
+  |              |    |             |              | d2l-ac-650- |             |
+  |              |    |             |              | b           |             |
+  +--------------+----+-------------+--------------+-------------+-------------+
+<esr1b.rk05.p01.mx2> show version
+--------------------------------------------------------------------------------
+Hostname             : esr1b.rk05.p01.mx2
+Chassis Type         : 7220 IXR-D2L
+Part Number          : 3HE17645AARA01
+Serial Number        : NK223638287
+System HW MAC Address: 10:98:26:B0:11:14
+Software Version     : v23.10.4
+Build Number         : 89-g68bbba5a50
+Architecture         : x86_64
+Last Booted          : 2024-09-06T09:28:32.918Z
+Total Memory         : 15986113 kB
+Free Memory          : 12927125 kB
+--------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+<esr1a.rk01.p01.mx2> show interface
+
+
+WARNING: The command 'show interface' failed for the device esr1a.rk01.p01.mx2. Check the command syntax or run it manually on the device
+

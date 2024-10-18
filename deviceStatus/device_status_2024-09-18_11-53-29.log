@@ -1,0 +1,18 @@
+2024-09-18 11:53:29 - Script Start
+2024-09-18 11:53:30 - {
+    "esr1a.rk20.p01.ty11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-09-18 11:53:30 - Starting Status Checks
+2024-09-18 11:53:33 - esr1a.rk20.p01.ty11 Version is now EOS: 4.30.5M
+2024-09-18 11:53:33 - esr1a.rk20.p01.ty11 is now Up / Up
+2024-09-18 11:53:35 - esr1a.rk20.p01.ty11 is now NoMaint
+2024-09-18 11:53:36 - Status Checking Complete

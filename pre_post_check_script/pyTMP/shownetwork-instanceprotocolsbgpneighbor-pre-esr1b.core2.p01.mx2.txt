@@ -1,0 +1,114 @@
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "PACKET-INTERNAL-IP-VRF"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 184d: | ipv4- | [11/1 |
+| T-INT | 6.97  | CONTR |       |       | lishe | 13h:3 | unica | 1/1]  |
+| ERNAL |       | OLLER |       |       | d     | 6m:58 | st    |       |
+| -IP-  |       |       |       |       |       | s     |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 175d: | ipv4- | [9/9/ |
+| T-INT | 6.99  | CONTR |       |       | lishe | 15h:2 | unica | 1]    |
+| ERNAL |       | OLLER |       |       | d     | 5m:35 | st    |       |
+| -IP-  |       |       |       |       |       | s     |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 177d: | ipv4- | [14/1 |
+| T-INT | 6.101 | CONTR |       |       | lishe | 13h:4 | unica | 4/1]  |
+| ERNAL |       | OLLER |       |       | d     | 5m:31 | st    |       |
+| -IP-  |       |       |       |       |       | s     |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 174d: | ipv4- | [12/1 |
+| T-INT | 6.103 | CONTR |       |       | lishe | 15h:2 | unica | 2/1]  |
+| ERNAL |       | OLLER |       |       | d     | 7m:4s | st    |       |
+| -IP-  |       |       |       |       |       |       |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 184d: | ipv4- | [12/1 |
+| T-INT | 6.105 | CONTR |       |       | lishe | 14h:2 | unica | 2/1]  |
+| ERNAL |       | OLLER |       |       | d     | 1m:23 | st    |       |
+| -IP-  |       |       |       |       |       | s     |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
+| PACKE | 10.0. | SITE- | S     | 65000 | estab | 181d: | ipv4- | [5/5/ |
+| T-INT | 6.107 | CONTR |       |       | lishe | 13h:4 | unica | 1]    |
+| ERNAL |       | OLLER |       |       | d     | 4m:44 | st    |       |
+| -IP-  |       |       |       |       |       | s     |       |       |
+| VRF   |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+6 configured neighbors, 6 configured sessions are established,0 disabled peers
+0 dynamic peers
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 269d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 15h:2 | unica | 2]    |
+|       | 74    |       |       |       | d     | 1m:8s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 269d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 15h:2 | unica | 2]    |
+|       | 102   |       |       |       | d     | 1m:11 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 269d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 15h:2 | unica | 2]    |
+|       | 130   |       |       |       | d     | 1m:6s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 269d: | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 15h:2 | unica | 2]    |
+|       | 158   |       |       |       | d     | 1m:11 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 269d: | ipv4- | [3/2/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 15h:1 | unica | 3]    |
+|       | 176   |       |       |       | d     | 6m:49 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 269d: | ipv4- | [3/2/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 15h:1 | unica | 3]    |
+|       | 178   |       |       |       | d     | 6m:49 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 239d: | evpn  | [166/ |
+| lt    | 8.222 |       |       |       | lishe | 3h:14 |       | 166/2 |
+|       | .4    |       |       |       | d     | m:45s |       | 35]   |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 239d: | evpn  | [166/ |
+| lt    | 8.222 |       |       |       | lishe | 0h:24 |       | 0/401 |
+|       | .5    |       |       |       | d     | m:33s |       | ]     |
+| defau | 147.2 | TOR-  | SB    | 65530 | estab | 269d: | evpn  | [298/ |
+| lt    | 8.222 | PEER- |       |       | lishe | 15h:1 |       | 131/2 |
+|       | .30   | EVPN  |       |       | d     | 6m:48 |       | 86]   |
+|       |       |       |       |       |       | s     |       |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 269d: | ipv6- | [1/1/ |
+| lt    | da::4 | LINK  |       |       | lishe | 15h:2 | unica | 1]    |
+|       | a     |       |       |       | d     | 1m:8s | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 269d: | ipv6- | [1/1/ |
+| lt    | da::6 | LINK  |       |       | lishe | 15h:2 | unica | 1]    |
+|       | 6     |       |       |       | d     | 1m:8s | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 269d: | ipv6- | [1/1/ |
+| lt    | da::8 | LINK  |       |       | lishe | 15h:2 | unica | 1]    |
+|       | 2     |       |       |       | d     | 1m:8s | st    |       |
+| defau | fc00: | V6-UP | S     | 65520 | estab | 269d: | ipv6- | [1/1/ |
+| lt    | da::9 | LINK  |       |       | lishe | 15h:2 | unica | 1]    |
+|       | e     |       |       |       | d     | 1m:5s | st    |       |
+| defau | fc00: | V6-TO | S     | 65530 | estab | 269d: | ipv6- | [2/1/ |
+| lt    | da::b | R-    |       |       | lishe | 15h:1 | unica | 2]    |
+|       | 0     | PEER  |       |       | d     | 6m:45 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
+| defau | fc00: | V6-TO | S     | 65530 | estab | 269d: | ipv6- | [2/1/ |
+| lt    | da::b | R-    |       |       | lishe | 15h:1 | unica | 2]    |
+|       | 2     | PEER  |       |       | d     | 6m:45 | st    |       |
+|       |       |       |       |       |       | s     |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+15 configured neighbors, 15 configured sessions are established,0 disabled peers
+0 dynamic peers
+
+

@@ -1,0 +1,6 @@
+show ip route vrf PACKET-INTERNAL 0.0.0.0/0
+show ip bgp 0.0.0.0/0 vrf PACKET-INTERNAL
+show ipv6 route vrf PACKET-INTERNAL ::/0
+show ipv6 bgp  ::/0 vrf PACKET-INTERNAL
+show bgp evpn summ
+show bgp evpn

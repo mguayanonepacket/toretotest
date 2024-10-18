@@ -1,0 +1,291 @@
+2024-08-29 12:04:48 - Script Start
+2024-08-29 12:04:49 - {
+    "csr2.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.core2.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk01.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk02.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk03.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk04.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk05.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk06.p01.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-08-29 12:04:49 - Starting Status Checks
+2024-08-29 12:04:51 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:04:51 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:04:51 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:04:51 - csr2.mx2 is now Up / Up
+2024-08-29 12:04:52 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:04:52 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:04:52 - csr2.mx2 is now Disabled
+2024-08-29 12:04:53 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:04:53 - csr2.mx2 SC pstate is now -
+2024-08-29 12:05:25 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:05:25 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:05:25 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:25 - csr2.mx2 is now Up / Up
+2024-08-29 12:05:26 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:26 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:05:26 - csr2.mx2 is now Disabled
+2024-08-29 12:05:27 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:05:27 - csr2.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:05:59 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - csr2.mx2 is now Up / Up
+2024-08-29 12:05:59 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:05:59 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:05:59 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:05:59 - csr2.mx2 is now Disabled
+2024-08-29 12:05:59 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:05:59 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:06:00 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:06:00 - csr2.mx2 SC pstate is now -
+2024-08-29 12:06:32 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:06:32 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:06:32 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:06:32 - csr2.mx2 is now Up / Up
+2024-08-29 12:06:33 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:06:33 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:06:33 - csr2.mx2 is now Disabled
+2024-08-29 12:06:34 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:06:34 - csr2.mx2 SC pstate is now -
+2024-08-29 12:07:06 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:07:06 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:07:06 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:06 - csr2.mx2 is now Up / Up
+2024-08-29 12:07:07 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:07 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:07:07 - csr2.mx2 is now Disabled
+2024-08-29 12:07:08 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:07:08 - csr2.mx2 SC pstate is now -
+2024-08-29 12:07:40 - msw1.core2.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.core2.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk01.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk01.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk05.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk05.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk04.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk04.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk06.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk06.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk03.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk03.p01.mx2 is now Up
+2024-08-29 12:07:40 - msw1.rk02.p01.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - msw1.rk02.p01.mx2 is now Up
+2024-08-29 12:07:40 - csr2.mx2 Version is now EOS: 4.28.7M
+2024-08-29 12:07:40 - csr2.mx2 is now Up / Up
+2024-08-29 12:07:41 - msw1.core2.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.core2.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - msw1.rk01.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk01.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - msw1.rk06.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk06.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - msw1.rk04.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk04.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - msw1.rk03.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk03.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - csr2.mx2 is now Disabled
+2024-08-29 12:07:41 - msw1.rk02.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk02.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - msw1.rk05.p01.mx2 pstate is now 2/2
+2024-08-29 12:07:41 - msw1.rk05.p01.mx2 SC pstate is now -
+2024-08-29 12:07:41 - csr2.mx2 pstate is now 6/6
+2024-08-29 12:07:41 - csr2.mx2 SC pstate is now -
+2024-08-29 12:08:07 - Status Checking Complete

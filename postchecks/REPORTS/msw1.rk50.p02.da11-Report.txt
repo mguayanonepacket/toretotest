@@ -1,0 +1,36 @@
+ISSUE FOUND: Test 5 failed for msw1.rk50.p02.da11 - Found one or more interfaces with rx power or tx power levels outside the power threshold levels: 
+
+
+ISSUE DETAIL: {'TX': '', 'RX': 'Rx Power issue for msw1.rk50.p02.da11 interface Ethernet52 - Lane 0 - Current RX power value: -6.300423926539473 dbm \n Thresholds: Low RX power warning: -5 dbm - High RX power warning: 4 dbm', 'Lane': 0}
+
+# Detailed information #
+msw1.rk50.p02.da11#[{'command': 'show interfaces Ethernet52 transceiver detail', 'result': {'output': 'mA: milliamperes, dBm: decibels (milliwatts), NA or N/A: not applicable.\nA2D readouts (if they differ), are reported in parentheses.\nThe threshold values are calibrated.\n                         High Alarm  High Warn   Low Alarm   Low Warn    \n           Temperature   Threshold   Threshold   Threshold   Threshold   \nPort       (Celsius)     (Celsius)   (Celsius)   (Celsius)   (Celsius)   \n-------    ------------  ----------  ----------  ----------  ----------  \nEt52       27.19         90.00       85.00       -45.00      -40.00    \n                         High Alarm  High Warn   Low Alarm   Low Warn    \n           Voltage       Threshold   Threshold   Threshold   Threshold   \nPort       (Volts)       (Volts)     (Volts)     (Volts)     (Volts)     \n-------    ------------  ----------  ----------  ----------  ----------  \nEt52       3.20          3.63        3.47        2.97        3.14      \n                         High Alarm  High Warn   Low Alarm   Low Warn    \n           Current       Threshold   Threshold   Threshold   Threshold   \nPort       (mA)          (mA)        (mA)        (mA)        (mA)        \n-------    ------------  ----------  ----------  ----------  ----------  \nEt52       30.77         100.00      90.00       5.00        10.00     \n                         High Alarm  High Warn   Low Alarm   Low Warn    \n           Tx Power      Threshold   Threshold   Threshold   Threshold   \nPort       (dBm)         (dBm)       (dBm)       (dBm)       (dBm)       \n-------    ------------  ----------  ----------  ----------  ----------  \nEt52       -4.11         0.00        -0.50       -7.50       -7.00     \n                         High Alarm  High Warn   Low Alarm   Low Warn    \n           Rx Power      Threshold   Threshold   Threshold   Threshold   \nPort       (dBm)         (dBm)       (dBm)       (dBm)       (dBm)       \n-------    ------------  ----------  ----------  ----------  ----------  \nEt52       -6.30         0.00        -1.00       -16.99      -16.00    \n'}, 'encoding': 'text'}]
+mA: milliamperes, dBm: decibels (milliwatts), NA or N/A: not applicable.
+A2D readouts (if they differ), are reported in parentheses.
+The threshold values are calibrated.
+                         High Alarm  High Warn   Low Alarm   Low Warn    
+           Temperature   Threshold   Threshold   Threshold   Threshold   
+Port       (Celsius)     (Celsius)   (Celsius)   (Celsius)   (Celsius)   
+-------    ------------  ----------  ----------  ----------  ----------  
+Et52       27.19         90.00       85.00       -45.00      -40.00    
+                         High Alarm  High Warn   Low Alarm   Low Warn    
+           Voltage       Threshold   Threshold   Threshold   Threshold   
+Port       (Volts)       (Volts)     (Volts)     (Volts)     (Volts)     
+-------    ------------  ----------  ----------  ----------  ----------  
+Et52       3.20          3.63        3.47        2.97        3.14      
+                         High Alarm  High Warn   Low Alarm   Low Warn    
+           Current       Threshold   Threshold   Threshold   Threshold   
+Port       (mA)          (mA)        (mA)        (mA)        (mA)        
+-------    ------------  ----------  ----------  ----------  ----------  
+Et52       30.77         100.00      90.00       5.00        10.00     
+                         High Alarm  High Warn   Low Alarm   Low Warn    
+           Tx Power      Threshold   Threshold   Threshold   Threshold   
+Port       (dBm)         (dBm)       (dBm)       (dBm)       (dBm)       
+-------    ------------  ----------  ----------  ----------  ----------  
+Et52       -4.11         0.00        -0.50       -7.50       -7.00     
+                         High Alarm  High Warn   Low Alarm   Low Warn    
+           Rx Power      Threshold   Threshold   Threshold   Threshold   
+Port       (dBm)         (dBm)       (dBm)       (dBm)       (dBm)       
+-------    ------------  ----------  ----------  ----------  ----------  
+Et52       -6.30         0.00        -1.00       -16.99      -16.00    
+

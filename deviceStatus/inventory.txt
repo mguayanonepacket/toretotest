@@ -1,0 +1,12 @@
+esr1a.rk05.p02.mgmt.sv16 
+esr1b.rk05.p02.mgmt.sv16 
+esr1a.rk06.p02.mgmt.sv16 
+esr1b.rk06.p02.mgmt.sv16 
+esr1a.rk07.p02.mgmt.sv16 
+esr1b.rk07.p02.mgmt.sv16 
+esr1a.rk09.p02.mgmt.sv16  
+esr1b.rk09.p02.mgmt.sv16  
+esr1a.rk12.p01.mgmt.ch3 
+esr1b.rk12.p01.mgmt.ch3 
+esr1a.rk13.p01.mgmt.ch3 
+esr1b.rk13.p01.mgmt.ch3 

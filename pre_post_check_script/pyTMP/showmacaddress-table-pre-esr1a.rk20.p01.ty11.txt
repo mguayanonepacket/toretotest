@@ -1,0 +1,114 @@
+          Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports      Moves   Last Move
+----    -----------       ----        -----      -----   ---------
+  17    b496.91ec.cbbc    DYNAMIC     Po17       1       124 days, 19:25:01 ago
+  17    c4ca.2bb5.f1c7    STATIC      Po2000
+  21    b496.91ec.7eaa    DYNAMIC     Po21       1       6 days, 5:07:47 ago
+  21    c4ca.2bb5.f1c7    STATIC      Po2000
+  25    c4ca.2bb5.f1c7    STATIC      Po2000
+  29    b496.91ec.c9c8    DYNAMIC     Po29       1       61 days, 17:44:20 ago
+  29    c4ca.2bb5.f1c7    STATIC      Po2000
+  33    b496.91ec.ca80    DYNAMIC     Po33       1       89 days, 14:05:09 ago
+  33    c4ca.2bb5.f1c7    STATIC      Po2000
+ 121    bece.d161.dd48    DYNAMIC     Po121      1       83 days, 16:52:48 ago
+ 121    c4ca.2bb5.f1c7    STATIC      Po2000
+ 125    1070.fdcf.7a34    DYNAMIC     Po125      1       125 days, 17:53:33 ago
+ 125    c4ca.2bb5.f1c7    STATIC      Po2000
+ 129    c4ca.2bb5.f1c7    STATIC      Po2000
+ 133    c4ca.2bb5.f1c7    STATIC      Po2000
+ 137    c4ca.2bb5.f1c7    STATIC      Po2000
+ 141    1070.fd28.2602    DYNAMIC     Po141      1       16:07:17 ago
+ 141    c4ca.2bb5.f1c7    STATIC      Po2000
+ 149    c4ca.2bb5.f1c7    STATIC      Po2000
+2000    0200.5e00.0175    DYNAMIC     Vx1        1       64 days, 9:54:35 ago
+2002    0200.5e00.0040    DYNAMIC     Vx1        1       89 days, 14:21:12 ago
+2003    5ac3.b046.7650    DYNAMIC     Vx1        1       83 days, 16:42:09 ago
+2003    bece.d161.dd48    DYNAMIC     Po121      1       83 days, 16:52:48 ago
+2003    debd.ecc1.8a85    DYNAMIC     Vx1        1       83 days, 17:01:54 ago
+2004    0200.5e00.003a    DYNAMIC     Vx1        1       89 days, 14:21:12 ago
+2005    0200.5e00.003e    DYNAMIC     Vx1        1       89 days, 14:21:12 ago
+2006    0200.5e00.003d    DYNAMIC     Vx1        1       89 days, 14:19:49 ago
+2007    0200.5e00.003b    DYNAMIC     Vx1        1       89 days, 14:19:49 ago
+2007    023f.e9e1.fda7    DYNAMIC     Vx1        1       57 days, 20:20:51 ago
+2007    861d.81bd.0a88    DYNAMIC     Po33       1       83 days, 8:41:50 ago
+2007    d234.55db.8167    DYNAMIC     Vx1        2       8 days, 18:52:28 ago
+2008    0200.5e00.003f    DYNAMIC     Vx1        1       89 days, 14:18:20 ago
+2009    0200.5e00.0013    DYNAMIC     Vx1        1       89 days, 14:18:20 ago
+2009    72a5.3b51.a330    DYNAMIC     Vx1        1       8 days, 18:45:02 ago
+2010    0200.5e00.0015    DYNAMIC     Vx1        1       89 days, 14:18:20 ago
+2011    0200.5e00.003c    DYNAMIC     Vx1        1       89 days, 14:16:48 ago
+2012    0200.5e00.0041    DYNAMIC     Vx1        1       89 days, 14:16:48 ago
+2013    0200.5e00.0014    DYNAMIC     Vx1        1       89 days, 14:15:17 ago
+2013    0669.aac5.6ea5    DYNAMIC     Po33       1       6:15:04 ago
+2013    162a.916e.920c    DYNAMIC     Po33       1       89 days, 13:46:51 ago
+2013    1af5.575a.8418    DYNAMIC     Vx1        1       89 days, 13:46:51 ago
+2013    1ed5.f615.e35b    DYNAMIC     Vx1        1       0:05:02 ago
+2013    2ed8.43e7.433a    DYNAMIC     Vx1        1       8 days, 18:59:43 ago
+2013    623e.1933.b0a3    DYNAMIC     Vx1        1       8 days, 18:59:32 ago
+2013    8207.3169.373f    DYNAMIC     Vx1        1       0:05:02 ago
+2013    be96.f93c.3a39    DYNAMIC     Vx1        1       0:05:02 ago
+2013    ca19.583f.2d14    DYNAMIC     Po33       1       89 days, 13:46:51 ago
+2013    da7f.e70f.5dbe    DYNAMIC     Vx1        1       89 days, 13:54:44 ago
+2014    0200.5e00.00c9    DYNAMIC     Vx1        1       89 days, 14:15:17 ago
+2014    0ebb.24a2.1877    DYNAMIC     Po33       2       8 days, 18:59:00 ago
+2015    0200.5e00.0012    DYNAMIC     Vx1        1       89 days, 14:15:17 ago
+2015    1ad5.5e5d.fc29    DYNAMIC     Po33       2       89 days, 13:50:37 ago
+2016    0200.5e00.00de    DYNAMIC     Vx1        1       89 days, 14:15:17 ago
+2017    0200.5e00.0144    DYNAMIC     Vx1        1       89 days, 14:13:47 ago
+2018    0200.5e00.00bc    DYNAMIC     Vx1        1       89 days, 14:13:47 ago
+2019    0200.5e00.0153    DYNAMIC     Vx1        1       89 days, 14:13:47 ago
+2020    0200.5e00.0039    DYNAMIC     Vx1        1       89 days, 14:12:23 ago
+2021    0600.dead.beef    STATIC      Router
+2021    122c.e5ab.ef38    DYNAMIC     Po145      1       71 days, 8:44:54 ago
+2021    1ad9.a5c5.2243    DYNAMIC     Vx1        1       71 days, 8:45:06 ago
+2021    7e46.3b1f.6dd4    DYNAMIC     Vx1        1       71 days, 8:45:06 ago
+2021    a227.4aad.b1c8    DYNAMIC     Vx1        1       71 days, 8:45:06 ago
+2021    b26b.ab00.e5fd    DYNAMIC     Vx1        1       71 days, 8:45:06 ago
+2021    b607.0849.8d71    DYNAMIC     Vx1        1       71 days, 8:44:45 ago
+2021    c4ca.2bb5.f1c7    STATIC      Po2000
+2022    c4ca.2bb5.f1c7    STATIC      Po2000
+2023    0200.5e00.0034    DYNAMIC     Vx1        1       70 days, 17:11:27 ago
+2023    aaf1.05f3.2c29    DYNAMIC     Po33       1       68 days, 18:05:56 ago
+2024    0200.5e00.0148    DYNAMIC     Vx1        1       70 days, 17:11:25 ago
+2024    46bd.fe6f.1160    DYNAMIC     Vx1        2       8 days, 18:44:29 ago
+2025    0200.5e00.0166    DYNAMIC     Vx1        1       70 days, 17:09:36 ago
+2025    2e35.1777.457c    DYNAMIC     Vx1        1       68 days, 17:32:25 ago
+2026    0200.5e00.014a    DYNAMIC     Vx1        1       70 days, 17:09:36 ago
+2026    4666.0d0e.a67d    DYNAMIC     Vx1        1       68 days, 17:41:19 ago
+2027    0200.5e00.0168    DYNAMIC     Vx1        1       69 days, 10:25:02 ago
+2027    0ec2.2645.fe22    DYNAMIC     Po33       1       68 days, 18:38:13 ago
+2028    0200.5e00.016c    DYNAMIC     Vx1        1       69 days, 9:59:17 ago
+2028    bede.b4ec.507d    DYNAMIC     Vx1        1       57 days, 17:37:08 ago
+2029    0200.5e00.0172    DYNAMIC     Vx1        1       69 days, 9:57:01 ago
+2029    ceec.e68b.fb5b    DYNAMIC     Po33       2       8 days, 18:59:02 ago
+2030    0200.5e00.016e    DYNAMIC     Vx1        1       69 days, 9:57:01 ago
+2030    e236.302e.91b0    DYNAMIC     Po33       2       8 days, 18:58:58 ago
+2031    0c42.a142.be0e    DYNAMIC     Vx1        1       0:02:00 ago
+2031    506b.8db2.6fe4    DYNAMIC     Vx1        1       0:09:47 ago
+2031    506b.8dc2.973e    DYNAMIC     Vx1        1       0:00:02 ago
+2031    506b.8dff.9003    DYNAMIC     Po21       1       0:05:03 ago
+2032    0200.5e00.017e    DYNAMIC     Vx1        1       57 days, 16:35:31 ago
+2032    3ecb.2e1d.327f    DYNAMIC     Vx1        1       57 days, 16:35:32 ago
+2033    1070.fd28.2602    DYNAMIC     Po141      1       16:07:11 ago
+2033    6a03.3e74.5072    DYNAMIC     Vx1        1       14:50:16 ago
+3996    0600.dead.beef    STATIC      Router
+3996    968e.d3fd.71ff    DYNAMIC     Vx1        0       71 days, 8:45:06 ago
+3996    c4ca.2bb5.f1c7    STATIC      Po2000
+3996    c6ca.2bb5.90b9    DYNAMIC     Vx1        0       71 days, 8:44:46 ago
+3996    d4af.f7da.e7db    DYNAMIC     Vx1        0       71 days, 8:45:06 ago
+3996    d4af.f7db.1223    DYNAMIC     Vx1        0       71 days, 8:45:05 ago
+3996    d6af.f7f9.7763    DYNAMIC     Vx1        0       71 days, 8:45:06 ago
+3996    d6af.f7f9.8be3    DYNAMIC     Vx1        0       71 days, 8:45:06 ago
+4094    c4ca.2bb5.f1c7    STATIC      Po2000
+Total Mac Addresses for this criterion: 99
+
+          Multicast Mac Address Table
+------------------------------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       ----        -----
+Total Mac Addresses for this criterion: 0
+
+

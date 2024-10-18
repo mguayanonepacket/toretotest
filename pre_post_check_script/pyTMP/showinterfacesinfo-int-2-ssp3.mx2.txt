@@ -1,0 +1,4 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+Parsing error: Unknown token 'interfaces'. Options are ['#', '/', '>', '>>', 'acl', 'arpnd', 'interface', 'lag', 'network-instance', 'platform', 'system', 'tunnel', 'tunnel-interface', 'version', '|']
+
+

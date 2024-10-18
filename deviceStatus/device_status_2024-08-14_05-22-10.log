@@ -1,0 +1,1133 @@
+2024-08-14 05:22:16  Script Start
+2024-08-14 05:22:23  {
+    "esr1a.rk17.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk18.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk19.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk20.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk21.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk22.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk23.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk24.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk25.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk26.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk27.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk28.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk29.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk30.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk31.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk32.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk17.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk18.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk19.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk20.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk21.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk22.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk23.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk24.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk25.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk26.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk27.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk28.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk29.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk30.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk31.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk32.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk17.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk18.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk19.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk20.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk21.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk22.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk23.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk24.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk25.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk26.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk27.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk28.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk29.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk30.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk31.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw1.rk32.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk25.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk26.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk27.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk28.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk29.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk30.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk31.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "msw2.rk32.p01.ny7": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-08-14 05:22:23  Starting Status Checks
+2024-08-14 05:22:24  esr1a.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk24.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk22.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk21.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk19.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk19.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk22.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk18.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk18.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk17.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk17.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk23.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk23.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk20.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk21.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk24.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk20.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  msw1.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk27.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk25.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw2.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1b.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  msw1.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:24  esr1a.rk28.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk30.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk26.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk25.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk31.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk30.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1b.rk26.p01.ny7 is now Up / Up
+2024-08-14 05:22:24  esr1a.rk27.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1a.rk31.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1a.rk32.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1b.rk32.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1a.rk23.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk29.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1b.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:25  esr1b.rk19.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk28.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1b.rk29.p01.ny7 is now Up / Up
+2024-08-14 05:22:25  esr1a.rk19.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk23.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk22.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk18.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk22.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk18.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk24.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk20.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk20.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk17.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk21.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk24.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk17.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk21.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk30.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk30.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk26.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk26.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk22.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk22.p01.ny7 is now Up
+2024-08-14 05:22:25  msw2.rk26.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk26.p01.ny7 is now Up
+2024-08-14 05:22:25  msw2.rk30.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk30.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk18.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk18.p01.ny7 is now Up
+2024-08-14 05:22:25  msw2.rk31.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk31.p01.ny7 is now Up
+2024-08-14 05:22:25  msw2.rk32.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk32.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk28.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk20.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk28.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk20.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1a.rk30.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw2.rk28.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk28.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1b.rk30.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw2.rk25.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk25.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk24.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk24.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk21.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk21.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1a.rk26.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk32.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk32.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk29.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk29.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1a.rk25.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk28.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk32.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk29.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk25.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk26.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk27.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk31.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw2.rk29.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk25.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  esr1b.rk29.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk17.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk25.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw2.rk29.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk17.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk27.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1b.rk28.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk31.p01.ny7 is now Up
+2024-08-14 05:22:25  msw2.rk27.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  esr1b.rk31.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1b.rk27.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw2.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk32.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw2.rk27.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk19.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  esr1a.rk27.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  esr1a.rk31.p01.ny7 is now NoMaint
+2024-08-14 05:22:25  msw1.rk23.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:25  msw1.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk19.p01.ny7 is now Up
+2024-08-14 05:22:25  msw1.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  msw1.rk23.p01.ny7 is now Up
+2024-08-14 05:22:25  esr1b.rk19.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk23.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk22.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk23.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk19.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk18.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk22.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk18.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk20.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk24.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk24.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk20.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk17.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk17.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1b.rk21.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1b.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:25  esr1a.rk21.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:25  esr1a.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk30.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk26.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk30.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk25.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk29.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk26.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk25.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk29.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk28.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk31.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk27.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk32.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk28.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk32.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1b.rk27.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1a.rk31.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:26  esr1b.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:26  esr1a.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  esr1a.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk18.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk22.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk22.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk19.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk18.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk23.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk24.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk20.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk19.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk23.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk23.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk21.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  msw1.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk17.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  msw1.rk21.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk17.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk18.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk30.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk22.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk26.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk24.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  msw2.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw2.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk32.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk17.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk25.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk29.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk21.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk29.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk25.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk25.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk29.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  msw1.rk19.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk27.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk31.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk20.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  msw1.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk31.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk27.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk31.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk32.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk20.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1b.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk24.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  msw1.rk28.p01.ny7 Version is now EOS: 4.28.7M
+2024-08-14 05:22:58  esr1a.rk27.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk28.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk28.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk30.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk26.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk30.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1b.rk32.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk26.p01.ny7 is now Up / Up
+2024-08-14 05:22:58  esr1a.rk22.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk18.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk18.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk22.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk17.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk21.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk17.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk21.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk19.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk23.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk20.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk24.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk24.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk19.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  msw2.rk29.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw2.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  msw2.rk29.p01.ny7 is now Up
+2024-08-14 05:22:58  msw2.rk25.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw2.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  msw2.rk25.p01.ny7 is now Up
+2024-08-14 05:22:58  msw1.rk25.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw1.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  esr1b.rk20.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  msw1.rk25.p01.ny7 is now Up
+2024-08-14 05:22:58  msw1.rk17.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw1.rk21.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw1.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  msw1.rk17.p01.ny7 is now Up
+2024-08-14 05:22:58  msw1.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  msw1.rk21.p01.ny7 is now Up
+2024-08-14 05:22:58  msw1.rk29.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:58  msw1.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:58  msw1.rk29.p01.ny7 is now Up
+2024-08-14 05:22:58  esr1a.rk23.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk29.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1b.rk29.p01.ny7 is now NoMaint
+2024-08-14 05:22:58  esr1a.rk25.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk25.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  msw2.rk27.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk27.p01.ny7 is now Up
+2024-08-14 05:22:59  msw2.rk31.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk31.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk32.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk32.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk27.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk27.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk19.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk19.p01.ny7 is now Up
+2024-08-14 05:22:59  msw2.rk28.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk28.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk28.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk28.p01.ny7 is now Up
+2024-08-14 05:22:59  esr1a.rk32.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  msw1.rk20.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk24.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk24.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk20.p01.ny7 is now Up
+2024-08-14 05:22:59  msw2.rk32.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk32.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk23.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk23.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk31.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk31.p01.ny7 is now Up
+2024-08-14 05:22:59  esr1b.rk27.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk32.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1a.rk31.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1a.rk28.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk31.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk28.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1a.rk27.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  msw1.rk22.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk22.p01.ny7 is now Up
+2024-08-14 05:22:59  msw2.rk30.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk30.p01.ny7 is now Up
+2024-08-14 05:22:59  msw2.rk26.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw2.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw2.rk26.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk26.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk18.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk30.p01.ny7 pstate is now 2/2
+2024-08-14 05:22:59  msw1.rk26.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk18.p01.ny7 is now Up
+2024-08-14 05:22:59  msw1.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  msw1.rk30.p01.ny7 is now Up
+2024-08-14 05:22:59  esr1a.rk30.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk26.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1a.rk26.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1b.rk30.p01.ny7 is now NoMaint
+2024-08-14 05:22:59  esr1a.rk22.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk18.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk22.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk18.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk18.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk22.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk19.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk17.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk17.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk17.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk23.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk21.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk19.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk19.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk21.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk21.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk23.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk23.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk24.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk24.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk20.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk24.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk20.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk20.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk29.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk25.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1a.rk25.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1a.rk25.p01.ny7 SC pstate is now -
+2024-08-14 05:22:59  esr1b.rk29.p01.ny7 pstate is now 12/12
+2024-08-14 05:22:59  esr1b.rk29.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk27.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk27.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk27.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk31.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk31.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk31.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk32.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk32.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk32.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk28.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk28.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk28.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk26.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk30.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1a.rk26.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1a.rk26.p01.ny7 SC pstate is now -
+2024-08-14 05:23:00  esr1b.rk30.p01.ny7 pstate is now 12/12
+2024-08-14 05:23:00  esr1b.rk30.p01.ny7 SC pstate is now -
+2024-08-14 05:23:17  Status Checking Complete

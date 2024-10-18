@@ -1,0 +1,6 @@
+delete protocols bgp group V6-AS6453 export DENY
+delete protocols bgp group V6-AS6453 import DENY
+delete protocols bgp group V6-AS6453 graceful-shutdown
+delete protocols bgp group AS6453 export DENY
+delete protocols bgp group AS6453 import DENY
+delete protocols bgp group AS6453 graceful-shutdown

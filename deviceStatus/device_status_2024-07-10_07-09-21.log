@@ -1,0 +1,367 @@
+2024-07-10 07:09:21  Script Start
+2024-07-10 07:09:21  {
+    "csr1.sv5": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "csr2.sv5": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-07-10 07:09:21  Starting Status Checks
+2024-07-10 07:09:23  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:09:23  csr2.sv5 is now Up / Up
+2024-07-10 07:09:24  csr2.sv5 is now Disabled
+2024-07-10 07:09:24  csr1.sv5 Version is now Unreachable
+2024-07-10 07:09:24  csr2.sv5 pstate is now 2/2
+2024-07-10 07:09:24  csr2.sv5 SC pstate is now -
+2024-07-10 07:09:25  csr1.sv5 is now Down / Down
+2024-07-10 07:09:48  csr1.sv5 Version is now Unreachable
+2024-07-10 07:09:49  csr1.sv5 is now Down / Down
+2024-07-10 07:09:55  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:09:55  csr2.sv5 is now Up / Up
+2024-07-10 07:09:57  csr2.sv5 is now Disabled
+2024-07-10 07:09:58  csr2.sv5 pstate is now 2/2
+2024-07-10 07:09:58  csr2.sv5 SC pstate is now -
+2024-07-10 07:10:20  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:10:20  csr2.sv5 is now Up / Up
+2024-07-10 07:10:21  csr2.sv5 is now Disabled
+2024-07-10 07:10:21  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:10:21  csr1.sv5 is now Down / Up
+2024-07-10 07:10:22  csr2.sv5 pstate is now 2/2
+2024-07-10 07:10:22  csr2.sv5 SC pstate is now -
+2024-07-10 07:10:37  csr1.sv5 is now Disabled
+2024-07-10 07:10:44  csr1.sv5 pstate is now 2/2
+2024-07-10 07:10:44  csr1.sv5 SC pstate is now -
+2024-07-10 07:11:07  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:11:07  csr1.sv5 is now Up / Up
+2024-07-10 07:11:13  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:11:13  csr2.sv5 is now Up / Up
+2024-07-10 07:11:13  csr1.sv5 is now Disabled
+2024-07-10 07:11:13  csr2.sv5 is now Disabled
+2024-07-10 07:11:14  csr1.sv5 pstate is now 2/2
+2024-07-10 07:11:14  csr1.sv5 SC pstate is now -
+2024-07-10 07:11:14  csr2.sv5 pstate is now 2/2
+2024-07-10 07:11:14  csr2.sv5 SC pstate is now -
+2024-07-10 07:11:38  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:11:38  csr2.sv5 is now Up / Up
+2024-07-10 07:11:39  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:11:39  csr1.sv5 is now Up / Up
+2024-07-10 07:11:39  csr2.sv5 is now Disabled
+2024-07-10 07:11:40  csr1.sv5 is now Disabled
+2024-07-10 07:11:40  csr2.sv5 pstate is now 2/2
+2024-07-10 07:11:40  csr2.sv5 SC pstate is now -
+2024-07-10 07:11:41  csr1.sv5 pstate is now 2/2
+2024-07-10 07:11:41  csr1.sv5 SC pstate is now -
+2024-07-10 07:12:04  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:12:04  csr1.sv5 is now Up / Up
+2024-07-10 07:12:07  csr1.sv5 is now Disabled
+2024-07-10 07:12:11  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:12:11  csr2.sv5 is now Up / Up
+2024-07-10 07:12:12  csr2.sv5 is now Disabled
+2024-07-10 07:12:12  csr2.sv5 pstate is now 2/2
+2024-07-10 07:12:12  csr2.sv5 SC pstate is now -
+2024-07-10 07:12:13  csr1.sv5 pstate is now 2/2
+2024-07-10 07:12:13  csr1.sv5 SC pstate is now -
+2024-07-10 07:12:37  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:12:37  csr2.sv5 is now Up / Up
+2024-07-10 07:12:37  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:12:37  csr1.sv5 is now Up / Up
+2024-07-10 07:12:38  csr2.sv5 is now Disabled
+2024-07-10 07:12:38  csr1.sv5 is now Disabled
+2024-07-10 07:12:38  csr2.sv5 pstate is now 2/2
+2024-07-10 07:12:38  csr2.sv5 SC pstate is now -
+2024-07-10 07:12:40  csr1.sv5 pstate is now 2/2
+2024-07-10 07:12:40  csr1.sv5 SC pstate is now -
+2024-07-10 07:13:03  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:13:03  csr2.sv5 is now Up / Up
+2024-07-10 07:13:03  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:13:03  csr1.sv5 is now Up / Up
+2024-07-10 07:13:04  csr2.sv5 is now Disabled
+2024-07-10 07:13:04  csr1.sv5 is now Disabled
+2024-07-10 07:13:05  csr1.sv5 pstate is now 2/2
+2024-07-10 07:13:05  csr1.sv5 SC pstate is now -
+2024-07-10 07:13:05  csr2.sv5 pstate is now 2/2
+2024-07-10 07:13:05  csr2.sv5 SC pstate is now -
+2024-07-10 07:13:28  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:13:28  csr2.sv5 is now Up / Up
+2024-07-10 07:13:29  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:13:29  csr1.sv5 is now Up / Up
+2024-07-10 07:13:30  csr1.sv5 is now Disabled
+2024-07-10 07:13:31  csr1.sv5 pstate is now 2/2
+2024-07-10 07:13:31  csr1.sv5 SC pstate is now -
+2024-07-10 07:13:40  csr2.sv5 is now Disabled
+2024-07-10 07:13:41  csr2.sv5 pstate is now 2/2
+2024-07-10 07:13:41  csr2.sv5 SC pstate is now -
+2024-07-10 07:14:06  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:14:06  csr2.sv5 is now Up / Up
+2024-07-10 07:14:06  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:14:06  csr1.sv5 is now Up / Up
+2024-07-10 07:14:06  csr2.sv5 is now Disabled
+2024-07-10 07:14:07  csr1.sv5 is now Disabled
+2024-07-10 07:14:08  csr1.sv5 pstate is now 2/2
+2024-07-10 07:14:08  csr1.sv5 SC pstate is now -
+2024-07-10 07:14:11  csr2.sv5 pstate is now 2/2
+2024-07-10 07:14:11  csr2.sv5 SC pstate is now -
+2024-07-10 07:14:35  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:14:35  csr1.sv5 is now Up / Up
+2024-07-10 07:14:36  csr1.sv5 is now Disabled
+2024-07-10 07:14:37  csr1.sv5 pstate is now 2/2
+2024-07-10 07:14:37  csr1.sv5 SC pstate is now -
+2024-07-10 07:14:39  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:14:39  csr2.sv5 is now Up / Up
+2024-07-10 07:14:40  csr2.sv5 is now Disabled
+2024-07-10 07:14:41  csr2.sv5 pstate is now 2/2
+2024-07-10 07:14:41  csr2.sv5 SC pstate is now -
+2024-07-10 07:15:03  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:15:03  csr2.sv5 is now Up / Up
+2024-07-10 07:15:04  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:15:04  csr1.sv5 is now Up / Up
+2024-07-10 07:15:04  csr2.sv5 is now Disabled
+2024-07-10 07:15:05  csr1.sv5 is now Disabled
+2024-07-10 07:15:05  csr2.sv5 pstate is now 2/2
+2024-07-10 07:15:05  csr2.sv5 SC pstate is now -
+2024-07-10 07:15:06  csr1.sv5 pstate is now 2/2
+2024-07-10 07:15:06  csr1.sv5 SC pstate is now -
+2024-07-10 07:15:38  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:15:39  csr1.sv5 is now Up / Up
+2024-07-10 07:15:39  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:15:39  csr2.sv5 is now Up / Up
+2024-07-10 07:15:40  csr1.sv5 is now Disabled
+2024-07-10 07:15:41  csr1.sv5 pstate is now 2/2
+2024-07-10 07:15:41  csr1.sv5 SC pstate is now -
+2024-07-10 07:15:41  csr2.sv5 is now Disabled
+2024-07-10 07:15:42  csr2.sv5 pstate is now 2/2
+2024-07-10 07:15:42  csr2.sv5 SC pstate is now -
+2024-07-10 07:16:04  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:16:04  csr1.sv5 is now Up / Up
+2024-07-10 07:16:05  csr2.sv5 Version is now EOS: 4.28.7M
+2024-07-10 07:16:05  csr2.sv5 is now Up / Up
+2024-07-10 07:16:05  csr1.sv5 is now Disabled
+2024-07-10 07:16:06  csr2.sv5 is now Disabled
+2024-07-10 07:16:07  csr2.sv5 pstate is now 2/2
+2024-07-10 07:16:07  csr2.sv5 SC pstate is now -
+2024-07-10 07:16:08  csr1.sv5 pstate is now 2/2
+2024-07-10 07:16:08  csr1.sv5 SC pstate is now -
+2024-07-10 07:16:31  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:16:31  csr1.sv5 is now Up / Up
+2024-07-10 07:16:32  csr2.sv5 Version is now Unreachable
+2024-07-10 07:16:32  csr1.sv5 is now Disabled
+2024-07-10 07:16:33  csr1.sv5 pstate is now 2/2
+2024-07-10 07:16:33  csr1.sv5 SC pstate is now -
+2024-07-10 07:16:33  csr2.sv5 is now Down / Down
+2024-07-10 07:16:56  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:16:56  csr1.sv5 is now Up / Up
+2024-07-10 07:16:57  csr2.sv5 Version is now Unreachable
+2024-07-10 07:16:58  csr1.sv5 is now Disabled
+2024-07-10 07:16:58  csr2.sv5 is now Down / Down
+2024-07-10 07:16:58  csr1.sv5 pstate is now 2/2
+2024-07-10 07:16:58  csr1.sv5 SC pstate is now -
+2024-07-10 07:17:21  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:17:21  csr1.sv5 is now Up / Up
+2024-07-10 07:17:22  csr1.sv5 is now Disabled
+2024-07-10 07:17:22  csr2.sv5 Version is now Unreachable
+2024-07-10 07:17:23  csr1.sv5 pstate is now 2/2
+2024-07-10 07:17:23  csr1.sv5 SC pstate is now -
+2024-07-10 07:17:23  csr2.sv5 is now Down / Down
+2024-07-10 07:17:46  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:17:46  csr1.sv5 is now Up / Up
+2024-07-10 07:17:47  csr2.sv5 Version is now Unreachable
+2024-07-10 07:17:48  csr2.sv5 is now Down / Down
+2024-07-10 07:17:49  csr1.sv5 is now Disabled
+2024-07-10 07:17:50  csr1.sv5 pstate is now 2/2
+2024-07-10 07:17:50  csr1.sv5 SC pstate is now -
+2024-07-10 07:18:18  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:18:18  csr1.sv5 is now Up / Up
+2024-07-10 07:18:19  csr2.sv5 Version is now Unreachable
+2024-07-10 07:18:19  csr1.sv5 is now Disabled
+2024-07-10 07:18:20  csr1.sv5 pstate is now 2/2
+2024-07-10 07:18:20  csr1.sv5 SC pstate is now -
+2024-07-10 07:18:20  csr2.sv5 is now Down / Down
+2024-07-10 07:18:43  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:18:43  csr1.sv5 is now Up / Up
+2024-07-10 07:18:44  csr2.sv5 Version is now Unreachable
+2024-07-10 07:18:44  csr1.sv5 is now Disabled
+2024-07-10 07:18:45  csr1.sv5 pstate is now 2/2
+2024-07-10 07:18:45  csr1.sv5 SC pstate is now -
+2024-07-10 07:18:45  csr2.sv5 is now Down / Down
+2024-07-10 07:19:09  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:19:09  csr1.sv5 is now Up / Up
+2024-07-10 07:19:10  csr2.sv5 Version is now Unreachable
+2024-07-10 07:19:10  csr1.sv5 is now Disabled
+2024-07-10 07:19:11  csr2.sv5 is now Down / Down
+2024-07-10 07:19:11  csr1.sv5 pstate is now 2/2
+2024-07-10 07:19:11  csr1.sv5 SC pstate is now -
+2024-07-10 07:19:34  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:19:34  csr1.sv5 is now Up / Up
+2024-07-10 07:19:35  csr2.sv5 Version is now Unreachable
+2024-07-10 07:19:35  csr1.sv5 is now Disabled
+2024-07-10 07:19:36  csr2.sv5 is now Down / Down
+2024-07-10 07:19:36  csr1.sv5 pstate is now 2/2
+2024-07-10 07:19:36  csr1.sv5 SC pstate is now -
+2024-07-10 07:19:59  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:19:59  csr1.sv5 is now Up / Up
+2024-07-10 07:20:00  csr1.sv5 is now Disabled
+2024-07-10 07:20:00  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:20:00  csr2.sv5 is now Down / Up
+2024-07-10 07:20:01  csr1.sv5 pstate is now 2/2
+2024-07-10 07:20:01  csr1.sv5 SC pstate is now -
+2024-07-10 07:20:17  csr2.sv5 is now Disabled
+2024-07-10 07:20:21  csr2.sv5 pstate is now 0/2
+2024-07-10 07:20:21  csr2.sv5 SC pstate is now -
+2024-07-10 07:20:45  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:20:45  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:20:45  csr1.sv5 is now Up / Up
+2024-07-10 07:20:45  csr2.sv5 is now Up / Up
+2024-07-10 07:20:48  csr1.sv5 is now Disabled
+2024-07-10 07:20:49  csr1.sv5 pstate is now 2/2
+2024-07-10 07:20:49  csr1.sv5 SC pstate is now -
+2024-07-10 07:20:51  csr2.sv5 is now Disabled
+2024-07-10 07:20:54  csr2.sv5 pstate is now 2/2
+2024-07-10 07:20:54  csr2.sv5 SC pstate is now -
+2024-07-10 07:21:19  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:21:19  csr2.sv5 is now Up / Up
+2024-07-10 07:21:19  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:21:19  csr1.sv5 is now Up / Up
+2024-07-10 07:21:20  csr2.sv5 is now Disabled
+2024-07-10 07:21:21  csr2.sv5 pstate is now 2/2
+2024-07-10 07:21:21  csr2.sv5 SC pstate is now -
+2024-07-10 07:21:25  csr1.sv5 is now Disabled
+2024-07-10 07:21:26  csr1.sv5 pstate is now 2/2
+2024-07-10 07:21:26  csr1.sv5 SC pstate is now -
+2024-07-10 07:21:49  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:21:50  csr1.sv5 is now Up / Up
+2024-07-10 07:21:50  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:21:50  csr2.sv5 is now Up / Up
+2024-07-10 07:21:51  csr1.sv5 is now Disabled
+2024-07-10 07:21:51  csr2.sv5 is now Disabled
+2024-07-10 07:21:51  csr1.sv5 pstate is now 2/2
+2024-07-10 07:21:51  csr1.sv5 SC pstate is now -
+2024-07-10 07:21:52  csr2.sv5 pstate is now 2/2
+2024-07-10 07:21:52  csr2.sv5 SC pstate is now -
+2024-07-10 07:22:20  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:22:20  csr2.sv5 is now Up / Up
+2024-07-10 07:22:21  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:22:21  csr1.sv5 is now Up / Up
+2024-07-10 07:22:22  csr2.sv5 is now Disabled
+2024-07-10 07:22:22  csr1.sv5 is now Disabled
+2024-07-10 07:22:23  csr2.sv5 pstate is now 2/2
+2024-07-10 07:22:23  csr2.sv5 SC pstate is now -
+2024-07-10 07:22:28  csr1.sv5 pstate is now 2/2
+2024-07-10 07:22:28  csr1.sv5 SC pstate is now -
+2024-07-10 07:22:52  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:22:52  csr1.sv5 is now Up / Up
+2024-07-10 07:22:53  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:22:53  csr2.sv5 is now Up / Up
+2024-07-10 07:22:58  csr1.sv5 is now Disabled
+2024-07-10 07:22:58  csr2.sv5 is now Disabled
+2024-07-10 07:22:59  csr1.sv5 pstate is now 2/2
+2024-07-10 07:22:59  csr1.sv5 SC pstate is now -
+2024-07-10 07:22:59  csr2.sv5 pstate is now 2/2
+2024-07-10 07:22:59  csr2.sv5 SC pstate is now -
+2024-07-10 07:23:22  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:23:22  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:23:22  csr1.sv5 is now Up / Up
+2024-07-10 07:23:22  csr2.sv5 is now Up / Up
+2024-07-10 07:23:23  csr1.sv5 is now Disabled
+2024-07-10 07:23:23  csr2.sv5 is now Disabled
+2024-07-10 07:23:24  csr1.sv5 pstate is now 2/2
+2024-07-10 07:23:24  csr1.sv5 SC pstate is now -
+2024-07-10 07:23:24  csr2.sv5 pstate is now 2/2
+2024-07-10 07:23:24  csr2.sv5 SC pstate is now -
+2024-07-10 07:23:47  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:23:47  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:23:47  csr1.sv5 is now Up / Up
+2024-07-10 07:23:47  csr2.sv5 is now Up / Up
+2024-07-10 07:23:48  csr1.sv5 is now Disabled
+2024-07-10 07:23:48  csr2.sv5 is now Disabled
+2024-07-10 07:23:49  csr1.sv5 pstate is now 2/2
+2024-07-10 07:23:49  csr1.sv5 SC pstate is now -
+2024-07-10 07:23:51  csr2.sv5 pstate is now 2/2
+2024-07-10 07:23:51  csr2.sv5 SC pstate is now -
+2024-07-10 07:24:20  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:24:20  csr2.sv5 is now Up / Up
+2024-07-10 07:24:20  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:24:20  csr1.sv5 is now Up / Up
+2024-07-10 07:24:22  csr1.sv5 is now Disabled
+2024-07-10 07:24:22  csr1.sv5 pstate is now 2/2
+2024-07-10 07:24:22  csr1.sv5 SC pstate is now -
+2024-07-10 07:24:23  csr2.sv5 is now Disabled
+2024-07-10 07:24:24  csr2.sv5 pstate is now 2/2
+2024-07-10 07:24:24  csr2.sv5 SC pstate is now -
+2024-07-10 07:24:55  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:24:55  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:24:55  csr2.sv5 is now Up / Up
+2024-07-10 07:24:55  csr1.sv5 is now Up / Up
+2024-07-10 07:24:56  csr1.sv5 is now Disabled
+2024-07-10 07:24:56  csr2.sv5 is now Disabled
+2024-07-10 07:24:57  csr1.sv5 pstate is now 2/2
+2024-07-10 07:24:57  csr1.sv5 SC pstate is now -
+2024-07-10 07:24:57  csr2.sv5 pstate is now 2/2
+2024-07-10 07:24:57  csr2.sv5 SC pstate is now -
+2024-07-10 07:25:20  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:25:20  csr2.sv5 is now Up / Up
+2024-07-10 07:25:21  csr2.sv5 is now Disabled
+2024-07-10 07:25:24  csr2.sv5 pstate is now 2/2
+2024-07-10 07:25:24  csr2.sv5 SC pstate is now -
+2024-07-10 07:25:25  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:25:25  csr1.sv5 is now Up / Up
+2024-07-10 07:25:26  csr1.sv5 is now Disabled
+2024-07-10 07:25:29  csr1.sv5 pstate is now 2/2
+2024-07-10 07:25:29  csr1.sv5 SC pstate is now -
+2024-07-10 07:25:53  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:25:53  csr1.sv5 is now Up / Up
+2024-07-10 07:25:53  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:25:53  csr2.sv5 is now Up / Up
+2024-07-10 07:25:54  csr1.sv5 is now Disabled
+2024-07-10 07:25:54  csr2.sv5 is now Disabled
+2024-07-10 07:25:55  csr2.sv5 pstate is now 2/2
+2024-07-10 07:25:55  csr2.sv5 SC pstate is now -
+2024-07-10 07:25:56  csr1.sv5 pstate is now 2/2
+2024-07-10 07:25:56  csr1.sv5 SC pstate is now -
+2024-07-10 07:26:19  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:26:19  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:26:19  csr1.sv5 is now Up / Up
+2024-07-10 07:26:19  csr2.sv5 is now Up / Up
+2024-07-10 07:26:20  csr1.sv5 is now Disabled
+2024-07-10 07:26:21  csr2.sv5 is now Disabled
+2024-07-10 07:26:22  csr2.sv5 pstate is now 2/2
+2024-07-10 07:26:22  csr2.sv5 SC pstate is now -
+2024-07-10 07:26:22  csr1.sv5 pstate is now 2/2
+2024-07-10 07:26:22  csr1.sv5 SC pstate is now -
+2024-07-10 07:26:45  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:26:45  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:26:45  csr1.sv5 is now Up / Up
+2024-07-10 07:26:45  csr2.sv5 is now Up / Up
+2024-07-10 07:26:46  csr1.sv5 is now Disabled
+2024-07-10 07:26:47  csr2.sv5 is now Disabled
+2024-07-10 07:26:47  csr1.sv5 pstate is now 2/2
+2024-07-10 07:26:47  csr1.sv5 SC pstate is now -
+2024-07-10 07:26:49  csr2.sv5 pstate is now 2/2
+2024-07-10 07:26:49  csr2.sv5 SC pstate is now -
+2024-07-10 07:27:12  csr1.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:27:12  csr1.sv5 is now Up / Up
+2024-07-10 07:27:13  csr2.sv5 Version is now EOS: 4.30.5M
+2024-07-10 07:27:13  csr1.sv5 is now Disabled
+2024-07-10 07:27:13  csr2.sv5 is now Up / Up
+2024-07-10 07:27:15  csr1.sv5 pstate is now 2/2
+2024-07-10 07:27:15  csr1.sv5 SC pstate is now -
+2024-07-10 07:27:19  csr2.sv5 is now Disabled
+2024-07-10 07:27:19  csr2.sv5 pstate is now 2/2
+2024-07-10 07:27:19  csr2.sv5 SC pstate is now -
+2024-07-10 07:27:21  Status Checking Complete

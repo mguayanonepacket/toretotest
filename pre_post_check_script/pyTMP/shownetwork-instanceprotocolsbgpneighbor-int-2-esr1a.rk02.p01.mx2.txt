@@ -1,0 +1,63 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+--------------------------------------------------------------------------------
+BGP neighbor summary for network-instance "default"
+Flags: S static, D dynamic, L discovered by LLDP, B BFD enabled, - disabled, * slow
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Net-  | Peer  | Group | Flags | Peer- | State | Uptim | AFI/S | [Rx/A |
+| Inst  |       |       |       |  AS   |       |   e   |  AFI  | ctive |
+|       |       |       |       |       |       |       |       | /Tx]  |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :20m: | unica | 2]    |
+|       | 68    |       |       |       | d     | 43s   | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 64d:1 | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 5h:45 | unica | 2]    |
+|       | 96    |       |       |       | d     | m:37s | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 0d:0h | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | :40m: | unica | 2]    |
+|       | 124   |       |       |       | d     | 6s    | st    |       |
+| defau | 10.25 | UPLIN | SB    | 65520 | estab | 64d:1 | ipv4- | [1/1/ |
+| lt    | 3.20. | K     |       |       | lishe | 5h:45 | unica | 2]    |
+|       | 152   |       |       |       | d     | m:36s | st    |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 64d:1 | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 5h:16 | unica | 4]    |
+|       | 185   |       |       |       | d     | m:54s | st    |       |
+| defau | 10.25 | TOR-  | SB    | 65530 | estab | 64d:1 | ipv4- | [4/3/ |
+| lt    | 3.20. | PEER  |       |       | lishe | 5h:16 | unica | 4]    |
+|       | 187   |       |       |       | d     | m:54s | st    |       |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 64d:1 | evpn  | [0/0/ |
+| lt    | 8.222 |       |       |       | lishe | 5h:45 |       | 0]    |
+|       | .4    |       |       |       | d     | m:32s |       |       |
+| defau | 147.2 | VXLAN | SB    | 54825 | estab | 64d:1 | evpn  | [0/0/ |
+| lt    | 8.222 |       |       |       | lishe | 5h:45 |       | 0]    |
+|       | .5    |       |       |       | d     | m:32s |       |       |
+| defau | 147.2 | TOR-  | SB    | 65530 | estab | 64d:1 | evpn  | [0/0/ |
+| lt    | 8.222 | PEER- |       |       | lishe | 5h:16 |       | 0]    |
+|       | .35   | EVPN  |       |       | d     | m:52s |       |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::4 | UPLIN |       |       | lishe | :20m: | unica | 1]    |
+|       | 4     | K     |       |       | d     | 50s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 64d:1 | ipv6- | [1/1/ |
+| lt    | da::6 | UPLIN |       |       | lishe | 5h:45 | unica | 1]    |
+|       | 0     | K     |       |       | d     | m:43s | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 0d:0h | ipv6- | [1/1/ |
+| lt    | da::7 | UPLIN |       |       | lishe | :40m: | unica | 1]    |
+|       | c     | K     |       |       | d     | 13s   | st    |       |
+| defau | fc00: | V6-   | S     | 65520 | estab | 64d:1 | ipv6- | [1/1/ |
+| lt    | da::9 | UPLIN |       |       | lishe | 5h:45 | unica | 1]    |
+|       | 8     | K     |       |       | d     | m:43s | st    |       |
+| defau | fc00: | V6-   | S     | 65530 | estab | 64d:1 | ipv6- | [3/2/ |
+| lt    | da::b | TOR-  |       |       | lishe | 5h:16 | unica | 3]    |
+|       | 9     | PEER  |       |       | d     | m:30s | st    |       |
+| defau | fc00: | V6-   | S     | 65530 | estab | 64d:1 | ipv6- | [3/2/ |
+| lt    | da::b | TOR-  |       |       | lishe | 5h:16 | unica | 3]    |
+|       | b     | PEER  |       |       | d     | m:31s | st    |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+--------------------------------------------------------------------------------
+Summary:
+15 configured neighbors, 15 configured sessions are established,0 disabled peers
+0 dynamic peers
+
+

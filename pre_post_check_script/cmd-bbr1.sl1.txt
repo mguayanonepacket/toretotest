@@ -1,0 +1,3 @@
+show bgp group VXLAN detail |no-more
+show bgp summary group VXLAN |no-more
+show bgp group INTERNAL-USE detail |no-more

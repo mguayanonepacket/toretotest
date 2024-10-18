@@ -1,0 +1,108 @@
++------------+------------+------------+------------+------------+------------+
+|    Name    |   Admin-   | Oper-state |  Ethernet  | Transceive | Descriptio |
+|            |   state    |            | port-speed |  r form-   |     n      |
+|            |            |            |            |   factor   |            |
++============+============+============+============+============+============+
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: ssp1.m |
+| 1/1        |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/8      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: ssp2.m |
+| 1/2        |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/8      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: ssp3.m |
+| 1/3        |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/8      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: ssp4.m |
+| 1/4        |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/8      |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/5        |            |            |            |            | rk01.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/6        |            |            |            |            | rk01.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/7        |            |            |            |            | rk02.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/8        |            |            |            |            | rk02.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/9        |            |            |            |            | core2.p01. |
+|            |            |            |            |            | mx2:ethern |
+|            |            |            |            |            | et-1/52    |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/10       |            |            |            |            | core2.p01. |
+|            |            |            |            |            | mx2:ethern |
+|            |            |            |            |            | et-1/52    |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/11       |            |            |            |            | rk03.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/12       |            |            |            |            | rk03.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/13       |            |            |            |            | rk04.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/14       |            |            |            |            | rk04.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/15       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/16       |            |            |            |            | rk05.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1a. |
+| 1/17       |            |            |            |            | rk06.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | enable     | up         | 100G       | QSFP28     | BB: esr1b. |
+| 1/18       |            |            |            |            | rk06.p01.m |
+|            |            |            |            |            | x2:etherne |
+|            |            |            |            |            | t-1/52     |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/19       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/20       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/21       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/22       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/23       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/24       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/25       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/26       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/27       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/28       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/29       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/30       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/31       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 100G       |            |            |
+| 1/32       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/33       |            |            |            |            |            |
+| ethernet-  | disable    | down       | 10G        |            |            |
+| 1/34       |            |            |            |            |            |
++------------+------------+------------+------------+------------+------------+
+
+

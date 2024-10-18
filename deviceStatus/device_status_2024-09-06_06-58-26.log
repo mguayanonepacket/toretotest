@@ -1,0 +1,373 @@
+2024-09-06 06:58:29 - Script Start
+2024-09-06 06:58:31 - {
+    "csr1.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr1.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr2.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr3.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr4.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.core2.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk03.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk04.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk05.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk06.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.core2.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk03.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk04.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk05.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk06.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp1.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp2.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp3.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp4.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-09-06 06:58:31 - Starting Status Checks
+2024-09-06 06:58:33 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - ssp2.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1a.rk03.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 06:58:33 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1a.core2.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - ssp1.mx2 is now Up / Up
+2024-09-06 06:58:33 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - ssp3.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 06:58:33 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 06:58:33 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 06:58:33 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - ssp4.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1a.rk05.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1a.rk06.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - esr1a.rk04.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 06:58:33 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 06:58:33 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 06:58:33 - csr1.mx2 is now Up / Up
+2024-09-06 06:58:34 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1a.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 06:58:34 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 06:58:34 - esr1a.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1a.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 06:58:34 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 06:58:34 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1a.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - esr1a.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 06:58:34 - csr1.mx2 is now Disabled
+2024-09-06 06:58:34 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - ssp2.mx2 pstate is now 2/2
+2024-09-06 06:58:34 - ssp2.mx2 SC pstate is now -
+2024-09-06 06:58:34 - ssp3.mx2 pstate is now 2/2
+2024-09-06 06:58:34 - esr1a.core2.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - ssp3.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 06:58:34 - esr1a.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 06:58:34 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - ssp4.mx2 pstate is now 2/2
+2024-09-06 06:58:34 - ssp4.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - ssp1.mx2 pstate is now 2/2
+2024-09-06 06:58:34 - ssp1.mx2 SC pstate is now -
+2024-09-06 06:58:34 - esr1a.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 06:58:34 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 06:58:34 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 06:58:34 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 06:58:35 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 06:58:35 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 06:58:35 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 06:58:35 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 06:58:35 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 06:58:35 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 06:58:35 - csr1.mx2 pstate is now 6/6
+2024-09-06 06:58:35 - csr1.mx2 SC pstate is now -
+2024-09-06 06:58:46 - Status Checking Complete

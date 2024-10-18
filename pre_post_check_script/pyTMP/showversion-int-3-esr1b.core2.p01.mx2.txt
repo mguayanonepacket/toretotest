@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+Hostname             : esr1b.core2.p01.mx2
+Chassis Type         : 7220 IXR-D2L
+Part Number          : 3HE17645AARA01
+Serial Number        : NK223638217
+System HW MAC Address: 10:98:26:AF:EF:14
+Software Version     : v23.10.4
+Build Number         : 89-g68bbba5a50
+Architecture         : x86_64
+Last Booted          : 2024-09-06T09:28:31.079Z
+Total Memory         : 15986113 kB
+Free Memory          : 12951089 kB
+--------------------------------------------------------------------------------
+
+

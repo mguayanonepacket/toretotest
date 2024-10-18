@@ -1,0 +1,2528 @@
+2024-09-06 08:04:21 - Script Start
+2024-09-06 08:04:24 - {
+    "csr1.mx2": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr1.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr2.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr3.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "dsr4.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.core2.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk03.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk04.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk05.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1a.rk06.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.core2.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk01.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk02.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk03.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk04.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk05.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "esr1b.rk06.p01.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp1.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp2.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp3.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    },
+    "ssp4.mx2": {
+        "dev_type": "Nokia",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-09-06 08:04:24 - Starting Status Checks
+2024-09-06 08:04:25 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - ssp2.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1a.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - ssp4.mx2 is now Up / Up
+2024-09-06 08:04:25 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1a.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:04:25 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:04:25 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1a.core2.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:04:25 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1a.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - ssp3.mx2 is now Up / Up
+2024-09-06 08:04:25 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - ssp1.mx2 is now Up / Up
+2024-09-06 08:04:25 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:04:25 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:04:25 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:04:25 - esr1a.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:04:26 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:04:26 - csr1.mx2 is now Up / Up
+2024-09-06 08:04:26 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:04:26 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:04:26 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:04:26 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:04:26 - esr1a.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:04:26 - csr1.mx2 is now Disabled
+2024-09-06 08:04:27 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:04:27 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:04:27 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:04:27 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:04:27 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:04:27 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:04:27 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:04:27 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - esr1a.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:04:27 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:04:27 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:04:27 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:04:27 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:04:27 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:04:27 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:04:27 - csr1.mx2 SC pstate is now -
+2024-09-06 08:05:01 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1a.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - ssp2.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1a.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:01 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - ssp4.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:01 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - ssp3.mx2 is now Up / Up
+2024-09-06 08:05:01 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - ssp1.mx2 is now Up / Up
+2024-09-06 08:05:01 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1a.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:01 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1a.core2.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:01 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:01 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:01 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:05:01 - csr1.mx2 is now Up / Up
+2024-09-06 08:05:02 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:05:02 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:05:02 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:05:02 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:05:02 - esr1a.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:02 - csr1.mx2 is now Disabled
+2024-09-06 08:05:03 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:05:03 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:05:03 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:05:03 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:05:03 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:05:03 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:03 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:03 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:05:03 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:05:03 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:03 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - esr1a.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:03 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:03 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:03 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:05:03 - csr1.mx2 SC pstate is now -
+2024-09-06 08:05:37 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1a.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - ssp2.mx2 is now Up / Up
+2024-09-06 08:05:37 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1a.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:37 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - ssp1.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:37 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1a.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - ssp4.mx2 is now Up / Up
+2024-09-06 08:05:37 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - ssp3.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1a.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:37 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:05:37 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - esr1a.core2.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:05:37 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:05:37 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:05:37 - csr1.mx2 is now Up / Up
+2024-09-06 08:05:38 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:05:38 - esr1a.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:05:38 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:05:38 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:05:38 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - esr1a.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:05:38 - csr1.mx2 is now Disabled
+2024-09-06 08:05:39 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:05:39 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:05:39 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:05:39 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:05:39 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:05:39 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:05:39 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:39 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:39 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - esr1a.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:05:39 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:05:39 - csr1.mx2 SC pstate is now -
+2024-09-06 08:05:39 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:39 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:05:39 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:05:39 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:14 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - ssp2.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:14 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:14 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - ssp3.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - ssp4.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:14 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:14 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:14 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:14 - ssp1.mx2 is now Up / Up
+2024-09-06 08:06:14 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:06:14 - csr1.mx2 is now Up / Up
+2024-09-06 08:06:15 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:06:15 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:06:15 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:06:15 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:15 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:06:15 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:15 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:06:15 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:15 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:06:15 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:15 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:06:15 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:15 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:06:15 - csr1.mx2 is now Disabled
+2024-09-06 08:06:15 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:15 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:06:16 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:06:16 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:06:16 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:06:16 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:06:16 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:06:16 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:16 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:16 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:16 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:06:16 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:06:16 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:06:16 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:16 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:06:16 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:16 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:16 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:06:16 - csr1.mx2 SC pstate is now -
+2024-09-06 08:06:16 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:06:16 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:06:17 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:17 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:06:17 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:17 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:06:17 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:17 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:06:17 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:17 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:06:17 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:17 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:06:51 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - ssp2.mx2 is now Up / Up
+2024-09-06 08:06:51 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - ssp3.mx2 is now Up / Up
+2024-09-06 08:06:51 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:51 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - ssp4.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:51 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - ssp1.mx2 is now Up / Up
+2024-09-06 08:06:51 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:51 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:51 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:06:51 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:06:51 - csr1.mx2 is now Up / Up
+2024-09-06 08:06:52 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:06:52 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:06:52 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:06:52 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:06:52 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:06:52 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:06:52 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:52 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:06:52 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:52 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:52 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:06:52 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:06:52 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:52 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:06:52 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:06:52 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:06:52 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:06:52 - csr1.mx2 is now Disabled
+2024-09-06 08:06:52 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:06:52 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:06:52 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:06:52 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:06:52 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:52 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:06:52 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:52 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:52 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:06:52 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:06:52 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:52 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:52 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:06:52 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:06:53 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:53 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:53 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:06:53 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:53 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:53 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:53 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:53 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:53 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:06:53 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:06:53 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:06:53 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:06:53 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:06:53 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:06:53 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:06:53 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:06:53 - csr1.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:53 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:53 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:53 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:06:53 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:53 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:06:53 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:06:53 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:07:29 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:07:29 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - ssp4.mx2 is now Up / Up
+2024-09-06 08:07:29 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:07:29 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:07:29 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:07:29 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - ssp2.mx2 is now Up / Up
+2024-09-06 08:07:29 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:29 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:07:30 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - ssp1.mx2 is now Up / Up
+2024-09-06 08:07:30 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:07:30 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:07:30 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - ssp3.mx2 is now Up / Up
+2024-09-06 08:07:30 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:07:30 - csr1.mx2 Version is now EOS: 4.28.7M
+2024-09-06 08:07:30 - csr1.mx2 is now Up / Up
+2024-09-06 08:07:30 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:07:30 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:07:30 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:07:30 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:07:30 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:30 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:07:30 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:07:30 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:07:30 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:07:30 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:30 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:07:30 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:07:31 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:07:31 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:07:31 - csr1.mx2 is now Disabled
+2024-09-06 08:07:31 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:07:31 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:07:31 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:07:31 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:07:31 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:07:31 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:07:31 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:07:31 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:07:31 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:07:31 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:07:31 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:07:31 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:07:31 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:07:31 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:07:31 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:07:31 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:07:31 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:07:31 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:07:31 - csr1.mx2 SC pstate is now -
+2024-09-06 08:07:32 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:07:32 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:07:32 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:07:32 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:07:32 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:07:32 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:07:32 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:07:32 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:07:32 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:07:32 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:08:06 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - ssp4.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:06 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:06 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - ssp2.mx2 is now Up / Up
+2024-09-06 08:08:06 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - ssp1.mx2 is now Up / Up
+2024-09-06 08:08:06 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - ssp3.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:06 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:06 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:06 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:06 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:08:07 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:08:07 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:08:07 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:08:07 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:08:07 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:07 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:07 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:08:07 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:07 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:08:07 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:07 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:08:07 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:07 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:08:07 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:07 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:08:08 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:08:08 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:08:08 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:08:08 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:08:08 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:08:08 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:08 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:08 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:08 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:08 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:08:08 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:08:08 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:08:08 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:08:08 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:08:08 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:08:08 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:08 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:08 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:08 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:08:08 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:08 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:08:09 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:09 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:08:09 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:09 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:08:10 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:08:10 - csr1.mx2 is now Down / Down
+2024-09-06 08:08:43 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - ssp2.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - ssp3.mx2 is now Up / Up
+2024-09-06 08:08:43 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - dsr1.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:43 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - ssp1.mx2 is now Up / Up
+2024-09-06 08:08:43 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - ssp4.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:43 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:43 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:43 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:08:43 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:08:43 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:08:43 - ssp1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - dsr3.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:08:43 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:08:43 - ssp3.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - dsr1.rk01.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:08:43 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:08:44 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:44 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:08:44 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:44 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:08:44 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:44 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:08:44 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:44 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:08:44 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:08:44 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:08:44 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:08:44 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:08:44 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:08:44 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:44 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:08:44 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:08:44 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:08:44 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:08:44 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:08:44 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:08:44 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:08:44 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:08:44 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:08:44 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:44 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:44 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:08:44 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:08:44 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:08:45 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:08:45 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:08:45 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:45 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:08:45 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:45 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:08:45 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:45 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:08:45 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:45 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:08:45 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:08:45 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:08:47 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:08:47 - csr1.mx2 is now Down / Down
+2024-09-06 08:09:19 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - ssp2.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:19 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:09:19 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - dsr3.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:19 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - ssp4.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:19 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:19 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:19 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:09:19 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:20 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:09:20 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:09:20 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:09:20 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:09:20 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:20 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:09:20 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:09:20 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:09:20 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:09:20 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:09:20 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - ssp1.mx2 is now Down / Up
+2024-09-06 08:09:20 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:09:20 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:20 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:09:21 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:21 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:21 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:09:21 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:21 - ssp3.mx2 is now Down / Up
+2024-09-06 08:09:21 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:21 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:09:21 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:21 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:09:21 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:09:21 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:09:21 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:21 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:21 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:21 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:09:21 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:09:21 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:09:21 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:09:21 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:21 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:09:21 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:09:21 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:09:21 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:09:21 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:21 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:09:22 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:22 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:09:22 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:22 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:09:22 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:09:22 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:09:22 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:22 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:09:22 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:09:22 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:09:22 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:22 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:09:22 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:22 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:09:24 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:09:24 - csr1.mx2 is now Down / Down
+2024-09-06 08:09:57 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:57 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:57 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - ssp2.mx2 is now Up / Up
+2024-09-06 08:09:57 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - ssp4.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:57 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:09:57 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:57 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:09:57 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:09:57 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:57 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:58 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:09:58 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:09:58 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:09:58 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:09:58 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - ssp1.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - ssp3.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:09:58 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:09:58 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:09:58 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:09:58 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:09:58 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:09:58 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:09:58 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:58 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:58 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:09:58 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:09:58 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:09:58 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:09:58 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:09:59 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:59 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:09:59 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:09:59 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:09:59 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:09:59 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:09:59 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:59 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:09:59 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:59 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:09:59 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:59 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:09:59 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:09:59 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:09:59 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:59 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:09:59 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:09:59 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:10:01 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:10:01 - csr1.mx2 is now Down / Down
+2024-09-06 08:10:34 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - ssp2.mx2 is now Up / Up
+2024-09-06 08:10:34 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - ssp4.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:10:34 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:10:34 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:10:34 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:10:34 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:10:34 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:10:34 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:10:34 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:10:34 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:10:34 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:10:34 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:34 - ssp1.mx2 is now Down / Up
+2024-09-06 08:10:35 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - ssp3.mx2 is now Down / Up
+2024-09-06 08:10:35 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:10:35 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:10:35 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:10:35 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:10:35 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:10:35 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:10:35 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:10:35 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:10:35 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:10:35 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:10:35 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:10:35 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:10:35 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:10:35 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:10:36 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:10:36 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:10:36 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:10:36 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:10:36 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:10:36 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:10:36 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:10:36 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:10:36 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:10:36 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:10:36 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:10:36 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:10:36 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:10:38 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:10:38 - csr1.mx2 is now Down / Down
+2024-09-06 08:11:11 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:11 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:11 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:11 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:11 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - ssp2.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:11 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:11 - ssp4.mx2 is now Up / Up
+2024-09-06 08:11:11 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:11 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:11 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:11:11 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:11:11 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:11 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:11 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:11 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:12 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:12 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:11:12 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:12 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:11:12 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:12 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - ssp3.mx2 is now Down / Up
+2024-09-06 08:11:12 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - ssp1.mx2 is now Down / Up
+2024-09-06 08:11:12 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:12 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:11:12 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:11:12 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:11:12 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:12 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:12 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:11:12 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:11:12 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:11:12 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:11:12 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:11:12 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:12 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:11:13 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:11:13 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:13 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:13 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:13 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:11:13 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:11:13 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:13 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:11:13 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:13 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:13 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:13 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:13 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:15 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:11:15 - csr1.mx2 is now Down / Down
+2024-09-06 08:11:47 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - ssp2.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:47 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:47 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:47 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - ssp4.mx2 is now Up / Up
+2024-09-06 08:11:47 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:47 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:11:47 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:11:47 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:11:48 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:11:48 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:11:48 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:11:48 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:11:48 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:11:48 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - ssp1.mx2 is now Down / Up
+2024-09-06 08:11:48 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:11:48 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - ssp3.mx2 is now Down / Up
+2024-09-06 08:11:48 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:11:48 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:11:49 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:11:49 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:11:49 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:11:49 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:11:49 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:49 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:49 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:11:49 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:11:49 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:11:49 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:11:49 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:11:49 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:11:50 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:11:50 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:11:50 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:50 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:11:50 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:50 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:11:50 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:50 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:11:50 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:50 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:11:50 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:50 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:50 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:11:50 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:11:50 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:11:50 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:11:50 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:11:50 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:11:51 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:11:51 - csr1.mx2 is now Down / Down
+2024-09-06 08:12:24 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:12:24 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:12:24 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - ssp2.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:12:24 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:12:24 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:12:24 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:24 - ssp4.mx2 is now Up / Up
+2024-09-06 08:12:24 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:12:24 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:12:24 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:24 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:12:24 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:25 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:12:25 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:12:25 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - ssp3.mx2 is now Down / Up
+2024-09-06 08:12:25 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - ssp1.mx2 is now Down / Up
+2024-09-06 08:12:25 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:12:25 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:12:25 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:12:25 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:12:25 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:12:25 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:12:25 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:12:25 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:12:25 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:12:25 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:12:25 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:12:25 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:12:25 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:12:26 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:12:26 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:12:26 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:12:26 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:12:26 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:12:26 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:12:26 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:12:26 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:12:26 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:12:26 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:12:26 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:12:26 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:12:26 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:12:26 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:12:26 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:12:26 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:12:26 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:12:26 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:12:28 - csr1.mgmt.mx2 GNMI port time out
+2024-09-06 08:12:28 - csr1.mx2 is now Down / Down
+2024-09-06 08:13:01 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:01 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:01 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - ssp4.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:01 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:01 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - ssp2.mx2 is now Up / Up
+2024-09-06 08:13:01 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:01 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:13:01 - csr1.mgmt.mx2 GNMI port Error [Errno 111] Connection refused
+2024-09-06 08:13:01 - csr1.mx2 is now Down / Up
+2024-09-06 08:13:01 - csr1.mgmt.mx2 GNMI port Error [Errno 111] Connection refused
+2024-09-06 08:13:01 - csr1.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:01 - csr1.mgmt.mx2 GNMI port Error [Errno 111] Connection refused
+2024-09-06 08:13:01 - csr1.mx2 pstate is now GNMI
+2024-09-06 08:13:01 - csr1.mx2 SC pstate is now DOWN
+2024-09-06 08:13:02 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:13:02 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:13:02 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:13:02 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:13:02 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:02 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - ssp1.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - ssp3.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:02 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:13:02 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.core2.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:13:02 - esr1b.rk03.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:13:02 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.rk06.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:13:02 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.rk04.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - esr1b.rk05.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:02 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:02 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:02 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:13:02 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:13:02 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:13:02 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:13:03 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:03 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - esr1a.rk05.p01.mx2 pstate is now 13/15
+2024-09-06 08:13:03 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:13:03 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:13:03 - esr1a.core2.p01.mx2 pstate is now 13/15
+2024-09-06 08:13:03 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:13:03 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:13:03 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:13:03 - esr1a.rk04.p01.mx2 pstate is now 13/15
+2024-09-06 08:13:03 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - esr1a.rk06.p01.mx2 pstate is now 13/15
+2024-09-06 08:13:03 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - esr1a.rk03.p01.mx2 pstate is now 13/15
+2024-09-06 08:13:03 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:03 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:03 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:03 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:38 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:38 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - ssp4.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:38 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - ssp2.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:38 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:13:38 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:13:38 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:38 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:13:39 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:13:39 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:13:39 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:13:39 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:13:39 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:13:39 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - ssp1.mx2 is now Down / Up
+2024-09-06 08:13:39 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - ssp3.mx2 is now Down / Up
+2024-09-06 08:13:39 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:13:39 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:13:39 - csr1.mx2 Version is now EOS: 4.30.5M
+2024-09-06 08:13:39 - csr1.mx2 is now Down / Up
+2024-09-06 08:13:40 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:40 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:40 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:40 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1b.rk03.p01.mx2 pstate is now 10/15
+2024-09-06 08:13:40 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1b.core2.p01.mx2 pstate is now 10/15
+2024-09-06 08:13:40 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:13:40 - esr1b.rk04.p01.mx2 pstate is now 10/15
+2024-09-06 08:13:40 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:13:40 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:13:40 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1b.rk06.p01.mx2 pstate is now 10/15
+2024-09-06 08:13:40 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:13:40 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:13:40 - esr1b.rk05.p01.mx2 pstate is now 10/15
+2024-09-06 08:13:40 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:40 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:13:40 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:40 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:13:40 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:13:40 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:13:40 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:13:40 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:13:41 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:13:41 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:13:41 - esr1a.rk03.p01.mx2 pstate is now 0/15
+2024-09-06 08:13:41 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:13:41 - esr1a.rk06.p01.mx2 pstate is now 0/15
+2024-09-06 08:13:41 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:13:41 - esr1a.rk05.p01.mx2 pstate is now 0/15
+2024-09-06 08:13:41 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:13:41 - esr1a.core2.p01.mx2 pstate is now 0/15
+2024-09-06 08:13:41 - esr1a.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:13:41 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:41 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:41 - csr1.mx2 is now Disabled
+2024-09-06 08:13:41 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:13:41 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:13:41 - esr1a.rk04.p01.mx2 pstate is now 0/15
+2024-09-06 08:13:41 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:13:42 - csr1.mx2 pstate is now 0/6
+2024-09-06 08:13:42 - csr1.mx2 SC pstate is now -
+2024-09-06 08:14:15 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - ssp2.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - ssp4.mx2 is now Up / Up
+2024-09-06 08:14:15 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:15 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:15 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:15 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:15 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:15 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:15 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:16 - csr1.mx2 Version is now EOS: 4.30.5M
+2024-09-06 08:14:16 - csr1.mx2 is now Up / Up
+2024-09-06 08:14:16 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:14:16 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:14:16 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:14:16 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:14:16 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:16 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:14:16 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:14:16 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - ssp3.mx2 is now Down / Up
+2024-09-06 08:14:16 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - ssp1.mx2 is now Down / Up
+2024-09-06 08:14:16 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:14:16 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:14:16 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:14:16 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:16 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:14:17 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:17 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:14:17 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:14:17 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:17 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:17 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:17 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.rk05.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:17 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.rk06.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:17 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:17 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.rk03.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:17 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:17 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:14:17 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:14:17 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:14:17 - esr1b.rk04.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:17 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:14:17 - esr1b.core2.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:17 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:14:17 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - csr1.mx2 is now Disabled
+2024-09-06 08:14:17 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:14:17 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:14:17 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:17 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - esr1a.rk06.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:18 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - esr1a.rk04.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:18 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:14:18 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:14:18 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:18 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:14:18 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:14:18 - esr1a.core2.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:18 - esr1a.core2.p01.mx2 SC pstate is now 5/6
+2024-09-06 08:14:18 - esr1a.rk05.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:18 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:18 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:18 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:14:19 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:14:19 - csr1.mx2 SC pstate is now -
+2024-09-06 08:14:19 - esr1a.rk03.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:19 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:14:54 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - ssp2.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:54 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:54 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:54 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:14:54 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:14:54 - csr1.mx2 Version is now EOS: 4.30.5M
+2024-09-06 08:14:54 - csr1.mx2 is now Up / Up
+2024-09-06 08:14:54 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:54 - ssp4.mx2 is now Up / Up
+2024-09-06 08:14:55 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:14:55 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:14:55 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:14:55 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:14:55 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:14:55 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - ssp1.mx2 is now Down / Up
+2024-09-06 08:14:55 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - ssp3.mx2 is now Down / Up
+2024-09-06 08:14:55 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:14:55 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:14:55 - csr1.mx2 is now Disabled
+2024-09-06 08:14:55 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:14:55 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:55 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1b.core2.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:55 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:14:55 - esr1b.rk05.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:55 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1b.rk03.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:55 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:55 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1b.rk04.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:55 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:14:55 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:55 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:14:55 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:55 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1b.rk06.p01.mx2 pstate is now 10/15
+2024-09-06 08:14:55 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:14:55 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:14:55 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:14:55 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:55 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:14:55 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:14:55 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:14:56 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:14:56 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:14:56 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:56 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:14:56 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:14:56 - csr1.mx2 SC pstate is now -
+2024-09-06 08:14:56 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:14:56 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.core2.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:56 - esr1a.core2.p01.mx2 SC pstate is now 0/6
+2024-09-06 08:14:56 - esr1a.rk04.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:56 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.rk06.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:56 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:14:56 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.rk05.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:56 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - esr1a.rk03.p01.mx2 pstate is now 0/15
+2024-09-06 08:14:56 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:56 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:14:56 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:14:56 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:15:31 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - ssp2.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:15:31 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:15:31 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - ssp4.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:15:31 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:31 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:15:31 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:15:31 - csr1.mx2 Version is now EOS: 4.30.5M
+2024-09-06 08:15:31 - csr1.mx2 is now Up / Up
+2024-09-06 08:15:32 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:15:32 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:15:32 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:15:32 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:15:32 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:15:32 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - esr1a.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - esr1a.core2.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - esr1a.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - esr1a.rk06.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:15:32 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - ssp1.mx2 is now Down / Up
+2024-09-06 08:15:32 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:32 - ssp3.mx2 is now Down / Up
+2024-09-06 08:15:32 - esr1b.rk06.p01.mx2 pstate is now 10/15
+2024-09-06 08:15:32 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1b.rk03.p01.mx2 pstate is now 10/15
+2024-09-06 08:15:32 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:15:32 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:15:32 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:15:32 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:15:32 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1b.rk05.p01.mx2 pstate is now 10/15
+2024-09-06 08:15:32 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:15:32 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:15:32 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:15:32 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:15:32 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:15:32 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:15:32 - esr1b.rk04.p01.mx2 pstate is now 10/15
+2024-09-06 08:15:32 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:15:32 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:15:32 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:15:32 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:15:33 - esr1a.rk06.p01.mx2 is now UnderMaint
+2024-09-06 08:15:33 - esr1a.core2.p01.mx2 is now UnderMaint
+2024-09-06 08:15:33 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:15:33 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:15:33 - esr1a.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:15:33 - esr1a.rk03.p01.mx2 is now Down / Up
+2024-09-06 08:15:33 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:15:33 - esr1b.core2.p01.mx2 pstate is now 10/15
+2024-09-06 08:15:33 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:15:33 - csr1.mx2 is now Disabled
+2024-09-06 08:15:33 - esr1a.rk05.p01.mx2 pstate is now 0/15
+2024-09-06 08:15:33 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:15:33 - esr1a.rk04.p01.mx2 pstate is now 0/15
+2024-09-06 08:15:33 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:15:33 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:15:33 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:15:33 - esr1a.rk06.p01.mx2 pstate is now 0/15
+2024-09-06 08:15:33 - esr1a.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:15:33 - esr1a.core2.p01.mx2 pstate is now 0/15
+2024-09-06 08:15:33 - esr1a.core2.p01.mx2 SC pstate is now 0/6
+2024-09-06 08:15:33 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:15:33 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:15:33 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:15:33 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:15:33 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:15:33 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:15:34 - esr1a.rk03.p01.mx2 is now UnderMaint
+2024-09-06 08:15:34 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:15:34 - csr1.mx2 SC pstate is now -
+2024-09-06 08:15:34 - esr1a.rk03.p01.mx2 pstate is now 0/15
+2024-09-06 08:15:34 - esr1a.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:16:10 - esr1b.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - esr1b.rk04.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.core2.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - ssp2.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - ssp2.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.core2.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - dsr4.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - dsr4.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.rk06.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - esr1b.rk06.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.rk03.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - esr1b.rk03.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - ssp4.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - ssp4.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1a.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:16:10 - esr1b.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:16:10 - esr1b.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1a.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.rk01.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:16:10 - esr1b.rk01.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - dsr2.rk02.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - dsr2.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1b.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:10 - esr1b.rk05.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - esr1a.rk02.p01.mx2 Version is now SRL: v23.10.4-89-g68bbba5a50
+2024-09-06 08:16:10 - esr1a.rk02.p01.mx2 is now Up / Up
+2024-09-06 08:16:10 - csr1.mx2 Version is now EOS: 4.30.5M
+2024-09-06 08:16:10 - csr1.mx2 is now Up / Up
+2024-09-06 08:16:11 - esr1b.core2.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk04.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - dsr4.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - ssp2.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:16:11 - dsr2.rk02.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk03.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk05.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1a.rk02.p01.mx2 is now NoMaint
+2024-09-06 08:16:11 - esr1a.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:16:11 - ssp4.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk06.p01.mgmt.mx2 GNMI System Maintenance request failed
+2024-09-06 08:16:11 - esr1b.rk01.p01.mx2 is now NoMaint
+2024-09-06 08:16:11 - dsr1.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:11 - dsr1.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:16:11 - esr1a.rk04.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:11 - esr1a.rk04.p01.mx2 is now Down / Up
+2024-09-06 08:16:11 - ssp1.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:11 - ssp1.mx2 is now Down / Up
+2024-09-06 08:16:11 - dsr3.rk01.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:11 - dsr3.rk01.p01.mx2 is now Down / Up
+2024-09-06 08:16:11 - esr1a.rk05.p01.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:11 - esr1a.rk05.p01.mx2 is now Down / Up
+2024-09-06 08:16:11 - csr1.mx2 is now Disabled
+2024-09-06 08:16:11 - esr1b.rk04.p01.mx2 pstate is now 10/15
+2024-09-06 08:16:11 - ssp2.mx2 pstate is now 2/2
+2024-09-06 08:16:11 - esr1b.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:16:11 - ssp2.mx2 SC pstate is now -
+2024-09-06 08:16:11 - esr1b.core2.p01.mx2 pstate is now 10/15
+2024-09-06 08:16:11 - esr1b.core2.p01.mx2 SC pstate is now 6/6
+2024-09-06 08:16:12 - esr1b.rk03.p01.mx2 pstate is now 10/15
+2024-09-06 08:16:12 - esr1b.rk03.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - ssp4.mx2 pstate is now 2/2
+2024-09-06 08:16:12 - ssp4.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1a.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:16:12 - esr1a.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1b.rk05.p01.mx2 pstate is now 10/15
+2024-09-06 08:16:12 - esr1b.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1b.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:16:12 - esr1b.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1b.rk02.p01.mx2 pstate is now 15/15
+2024-09-06 08:16:12 - esr1b.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1a.rk01.p01.mx2 pstate is now 15/15
+2024-09-06 08:16:12 - esr1a.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1b.rk06.p01.mx2 pstate is now 10/15
+2024-09-06 08:16:12 - esr1b.rk06.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - dsr4.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:16:12 - dsr4.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - dsr2.rk02.p01.mx2 pstate is now 8/8
+2024-09-06 08:16:12 - dsr2.rk02.p01.mx2 SC pstate is now -
+2024-09-06 08:16:12 - esr1a.rk04.p01.mx2 is now UnderMaint
+2024-09-06 08:16:12 - ssp1.mx2 is now UnderMaint
+2024-09-06 08:16:12 - dsr3.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:16:12 - dsr1.rk01.p01.mx2 is now UnderMaint
+2024-09-06 08:16:12 - esr1a.rk05.p01.mx2 is now UnderMaint
+2024-09-06 08:16:12 - ssp3.mx2 Version is now SRL: v23.3.3-11-ga3835b6dac
+2024-09-06 08:16:12 - ssp3.mx2 is now Down / Up
+2024-09-06 08:16:12 - csr1.mx2 pstate is now 6/6
+2024-09-06 08:16:12 - csr1.mx2 SC pstate is now -
+2024-09-06 08:16:12 - ssp1.mx2 pstate is now 2/2
+2024-09-06 08:16:12 - ssp1.mx2 SC pstate is now -
+2024-09-06 08:16:13 - esr1a.rk04.p01.mx2 pstate is now 0/15
+2024-09-06 08:16:13 - esr1a.rk04.p01.mx2 SC pstate is now -
+2024-09-06 08:16:13 - dsr3.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:16:13 - dsr3.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:16:13 - dsr1.rk01.p01.mx2 pstate is now 8/8
+2024-09-06 08:16:13 - dsr1.rk01.p01.mx2 SC pstate is now -
+2024-09-06 08:16:13 - esr1a.rk05.p01.mx2 pstate is now 0/15
+2024-09-06 08:16:13 - esr1a.rk05.p01.mx2 SC pstate is now -
+2024-09-06 08:16:13 - ssp3.mx2 is now UnderMaint
+2024-09-06 08:16:14 - ssp3.mx2 pstate is now 2/2
+2024-09-06 08:16:14 - ssp3.mx2 SC pstate is now -
+2024-09-06 08:16:14 - esr1a.core2.p01.mgmt.mx2 GNMI port time out
+2024-09-06 08:16:14 - esr1a.core2.p01.mx2 is now Down / Down
+2024-09-06 08:16:14 - esr1a.rk03.p01.mgmt.mx2 GNMI port time out
+2024-09-06 08:16:14 - esr1a.rk06.p01.mgmt.mx2 GNMI port time out
+2024-09-06 08:16:14 - esr1a.rk06.p01.mx2 is now Down / Down
+2024-09-06 08:16:14 - esr1a.rk03.p01.mx2 is now Down / Down
+2024-09-06 08:16:40 - Timeout: Process for ['dsr2.rk02.p01.mx2', 'esr1a.rk01.p01.mx2', 'esr1a.rk05.p01.mx2', 'esr1b.rk02.p01.mx2', 'esr1b.rk06.p01.mx2', 'ssp4.mx2'] exceeded 25 seconds and was terminated.
+2024-09-06 08:47:47 - Status Checking Complete

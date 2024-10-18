@@ -1,0 +1,17 @@
+show version
+show bgp evpn summary
+show ip bgp summary vrf all
+show ip route vrf all
+show vxlan vni
+show mac address-table
+show mlag
+show mlag interfaces
+show mlag config-sanity
+show maintenance
+show interfaces
+show interfaces status
+show interfaces status errdisabled
+show interfaces description
+show system environment all
+show port-channel summary
+show inventory

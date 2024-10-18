@@ -1,0 +1,2147 @@
+2024-07-04 09:56:39  Script Start
+2024-07-04 09:56:47  {
+    "dsr1.rk01.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr1.rk05.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk02.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk06.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk03.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr4.rk04.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk05.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk01.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk02.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk03.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk04.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk05.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk05.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk06.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk06.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk07.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk07.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk08.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk08.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk09.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk09.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk10.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk10.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk11.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk11.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk12.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk12.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk13.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk13.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk14.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk14.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk15.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk15.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk16.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk01.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk02.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk03.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk04.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk05.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk05.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk06.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk06.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk07.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk07.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk08.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk08.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk09.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk09.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk10.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk10.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk11.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk11.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk12.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk12.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk13.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk13.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk14.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk14.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk15.p01.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk15.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk16.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk05.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk06.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk07.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk08.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk09.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk10.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk11.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk12.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk13.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk14.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk15.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk16.p02.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    }
+}
+2024-07-04 09:56:47  Starting Status Checks
+2024-07-04 09:56:49  esr1a.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  dsr1.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  dsr3.rk05.p01.sv15 Version is now EOS: 4.30.5M
+2024-07-04 09:56:49  esr1b.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  dsr2.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  dsr1.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1b.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:49  esr1a.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  dsr2.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  dsr3.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1b.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:56:49  esr1a.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:56:50  dsr3.rk03.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:50  dsr2.rk02.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:50  dsr4.rk04.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:50  dsr1.rk01.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:50  dsr3.rk03.p02.sv15 is now Up / Up
+2024-07-04 09:56:50  dsr2.rk02.p02.sv15 is now Up / Up
+2024-07-04 09:56:50  dsr4.rk04.p02.sv15 is now Up / Up
+2024-07-04 09:56:50  esr1a.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  dsr1.rk01.p02.sv15 is now Up / Up
+2024-07-04 09:56:50  esr1a.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  dsr1.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  dsr2.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1b.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:56:50  esr1a.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:56:50  dsr3.rk05.p01.mgmt.sv15 GNMI System Maintenance request failed: 
+2024-07-04 09:56:51  dsr4.rk04.p02.sv15 is now NoMaint
+2024-07-04 09:56:51  dsr3.rk03.p02.sv15 is now NoMaint
+2024-07-04 09:56:51  dsr2.rk02.p02.sv15 is now NoMaint
+2024-07-04 09:56:51  esr1a.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr1.rk01.p02.sv15 is now NoMaint
+2024-07-04 09:56:51  esr1a.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:56:51  esr1b.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:56:51  esr1b.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:56:51  esr1a.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr1.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr1.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1b.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1b.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr2.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr2.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:56:51  esr1a.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  esr1a.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr4.rk04.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr4.rk04.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr3.rk03.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr3.rk03.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr1.rk01.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:51  dsr1.rk01.p02.sv15 SC pstate is now -
+2024-07-04 09:56:51  dsr2.rk02.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:52  dsr2.rk02.p02.sv15 SC pstate is now -
+2024-07-04 09:56:52  dsr3.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:52  dsr3.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:56:52  esr1b.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:52  esr1b.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:56:52  esr1b.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:56:53  esr1b.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  esr1b.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  esr1b.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:56:53  msw1.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  msw1.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:56:53  esr1b.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:56:53  esr1b.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:56:53  esr1b.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:56:53  msw1.rk05.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk05.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk05.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk06.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk06.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk07.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk07.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk15.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk15.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk16.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk16.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk09.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk09.p02.sv15 is now Up
+2024-07-04 09:56:53  msw1.rk10.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:53  msw1.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:56:53  msw1.rk10.p02.sv15 is now Up
+2024-07-04 09:56:54  msw1.rk11.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:54  msw1.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  msw1.rk11.p02.sv15 is now Up
+2024-07-04 09:56:54  msw1.rk14.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:54  msw1.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  msw1.rk14.p02.sv15 is now Up
+2024-07-04 09:56:54  msw1.rk12.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:54  msw1.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  msw1.rk12.p02.sv15 is now Up
+2024-07-04 09:56:54  msw1.rk08.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:54  msw1.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  msw1.rk08.p02.sv15 is now Up
+2024-07-04 09:56:54  esr1b.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:56:54  msw1.rk13.p02.sv15 pstate is now 2/2
+2024-07-04 09:56:54  msw1.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  msw1.rk13.p02.sv15 is now Up
+2024-07-04 09:56:54  esr1b.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:56:54  esr1b.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:56:54  esr1b.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:56:54  esr1b.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:54  esr1b.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:56:55  esr1b.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:56:55  esr1b.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:17  esr1a.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:17  esr1a.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr2.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr1.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr3.rk05.p01.sv15 Version is now EOS: 4.30.5M
+2024-07-04 09:57:18  esr1a.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1a.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr2.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr1.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr3.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  esr1b.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1b.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr4.rk04.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr3.rk03.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr1.rk01.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr4.rk04.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr3.rk03.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr1.rk01.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  dsr2.rk02.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:18  dsr2.rk02.p02.sv15 is now Up / Up
+2024-07-04 09:57:18  esr1a.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:57:18  esr1a.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr1.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr2.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1b.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr4.rk04.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr1.rk01.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr3.rk03.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  dsr3.rk05.p01.mgmt.sv15 GNMI System Maintenance request failed: 
+2024-07-04 09:57:19  dsr2.rk02.p02.sv15 is now NoMaint
+2024-07-04 09:57:19  esr1a.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:57:19  esr1a.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:57:19  esr1a.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1a.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1b.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:19  esr1b.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:57:19  esr1a.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:57:20  esr1a.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1a.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1a.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr1.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1a.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr1.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1a.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1a.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1a.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1a.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr2.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr2.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr1.rk01.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr1.rk01.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr3.rk03.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr3.rk03.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  esr1b.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  esr1b.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr4.rk04.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr4.rk04.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr2.rk02.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr2.rk02.p02.sv15 SC pstate is now -
+2024-07-04 09:57:20  dsr3.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:20  dsr3.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:21  esr1b.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  esr1b.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  msw1.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  esr1b.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:57:21  msw1.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:21  msw1.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:22  esr1b.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  msw1.rk05.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk05.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk05.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk06.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk06.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk08.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk08.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk07.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk07.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk09.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk09.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk10.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk10.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk11.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk11.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk13.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk13.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk12.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk12.p02.sv15 is now Up
+2024-07-04 09:57:22  esr1b.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  msw1.rk16.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk16.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk14.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk15.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:22  msw1.rk14.p02.sv15 is now Up
+2024-07-04 09:57:22  msw1.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  msw1.rk15.p02.sv15 is now Up
+2024-07-04 09:57:22  esr1b.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:57:22  esr1b.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:22  esr1b.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  esr1b.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:22  esr1b.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:57:22  esr1b.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:22  esr1b.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:57:22  esr1b.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:22  esr1b.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:22  esr1b.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:22  esr1b.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:57:23  esr1b.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:23  esr1b.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:46  esr1a.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  dsr1.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  dsr2.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  dsr3.rk05.p01.sv15 Version is now EOS: 4.30.5M
+2024-07-04 09:57:46  esr1b.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1a.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  dsr1.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  dsr2.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1a.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:57:46  esr1b.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:46  esr1b.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  esr1b.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  esr1b.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  esr1b.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  dsr3.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1b.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  dsr1.rk01.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  dsr2.rk02.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  dsr3.rk03.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  dsr1.rk01.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  dsr4.rk04.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:47  dsr2.rk02.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  dsr3.rk03.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  dsr4.rk04.p02.sv15 is now Up / Up
+2024-07-04 09:57:47  esr1a.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1a.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  esr1b.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  dsr1.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:57:47  dsr2.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1a.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1a.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1b.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1b.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1a.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1a.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  dsr1.rk01.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  dsr3.rk05.p01.mgmt.sv15 GNMI System Maintenance request failed: 
+2024-07-04 09:57:48  dsr3.rk03.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  dsr2.rk02.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  dsr4.rk04.p02.sv15 is now NoMaint
+2024-07-04 09:57:48  esr1a.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:57:48  esr1a.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1b.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:57:48  esr1b.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1b.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  esr1a.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:57:48  esr1a.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  esr1a.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:57:48  dsr2.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:48  dsr2.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr1.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr1.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1b.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:49  esr1b.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1a.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  esr1a.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1b.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:49  esr1b.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1a.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:49  esr1a.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1a.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  esr1a.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr1.rk01.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr1.rk01.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr2.rk02.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr2.rk02.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr3.rk03.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr3.rk03.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr4.rk04.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr4.rk04.p02.sv15 SC pstate is now -
+2024-07-04 09:57:49  dsr3.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:49  dsr3.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:57:49  esr1b.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:49  esr1b.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:49  esr1b.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:57:49  esr1b.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:57:49  esr1b.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  msw1.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:57:50  msw1.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:57:50  esr1b.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:57:50  esr1b.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:57:50  esr1b.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:57:50  esr1b.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:57:50  esr1b.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:57:50  esr1b.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:57:51  msw1.rk09.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk09.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk07.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk07.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk10.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk10.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk06.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk06.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk11.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk11.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk08.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk08.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk16.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk16.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk12.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk12.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk15.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk15.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk13.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk13.p02.sv15 is now Up
+2024-07-04 09:57:51  msw1.rk05.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk05.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk05.p02.sv15 is now Up
+2024-07-04 09:57:51  esr1b.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:57:51  esr1b.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk14.p02.sv15 pstate is now 2/2
+2024-07-04 09:57:51  msw1.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  msw1.rk14.p02.sv15 is now Up
+2024-07-04 09:57:51  esr1b.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:57:51  esr1b.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:57:51  esr1b.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:57:51  esr1b.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:57:52  esr1b.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:52  esr1b.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:57:52  esr1b.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:57:52  esr1b.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:58:15  esr1a.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk03.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk04.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr1.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk09.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr3.rk05.p01.sv15 Version is now EOS: 4.30.5M
+2024-07-04 09:58:15  esr1b.rk07.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr2.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk06.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk08.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk05.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk02.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk04.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1a.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk10.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk03.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk06.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk09.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr1.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr2.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk01.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:15  esr1b.rk06.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk08.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk10.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk08.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk07.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk05.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  dsr3.rk05.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk07.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk10.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk02.p01.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk09.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1a.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:58:15  esr1b.rk01.p01.sv15 is now Up / Up
+2024-07-04 09:58:16  dsr1.rk01.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:16  dsr4.rk04.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:16  dsr3.rk03.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:16  dsr1.rk01.p02.sv15 is now Up / Up
+2024-07-04 09:58:16  dsr2.rk02.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:16  dsr4.rk04.p02.sv15 is now Up / Up
+2024-07-04 09:58:16  dsr3.rk03.p02.sv15 is now Up / Up
+2024-07-04 09:58:16  dsr2.rk02.p02.sv15 is now Up / Up
+2024-07-04 09:58:16  esr1a.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk04.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk03.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk08.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk06.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk07.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk10.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk05.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk09.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk08.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk07.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk10.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk09.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  dsr1.rk05.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  dsr2.rk06.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk02.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1a.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:58:16  esr1b.rk01.p01.sv15 is now NoMaint
+2024-07-04 09:58:16  dsr1.rk01.p02.sv15 is now NoMaint
+2024-07-04 09:58:17  dsr3.rk05.p01.mgmt.sv15 GNMI System Maintenance request failed: 
+2024-07-04 09:58:17  dsr4.rk04.p02.sv15 is now NoMaint
+2024-07-04 09:58:17  dsr2.rk02.p02.sv15 is now NoMaint
+2024-07-04 09:58:17  dsr3.rk03.p02.sv15 is now NoMaint
+2024-07-04 09:58:17  esr1a.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:58:17  esr1a.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk06.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk08.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk03.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk04.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk03.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk07.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk07.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk04.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk09.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk10.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:58:17  esr1b.rk09.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk07.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk10.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk08.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk10.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk08.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk09.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk05.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk05.p02.sv15 SC pstate is now 13/13
+2024-07-04 09:58:17  esr1a.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr1.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr1.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr2.rk06.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr2.rk06.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1a.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk02.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1a.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk02.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  esr1b.rk01.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:17  esr1b.rk01.p01.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr1.rk01.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr1.rk01.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr4.rk04.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr4.rk04.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr3.rk03.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr3.rk03.p02.sv15 SC pstate is now -
+2024-07-04 09:58:17  dsr2.rk02.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:17  dsr2.rk02.p02.sv15 SC pstate is now -
+2024-07-04 09:58:18  dsr3.rk05.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:18  dsr3.rk05.p01.sv15 SC pstate is now -
+2024-07-04 09:58:18  esr1b.rk11.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk11.p01.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk11.p02.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk12.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk12.p01.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk13.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk14.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk12.p02.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk15.p01.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:18  esr1b.rk13.p01.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk13.p02.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk14.p01.sv15 is now Up / Up
+2024-07-04 09:58:18  esr1b.rk14.p02.sv15 is now Up / Up
+2024-07-04 09:58:19  esr1b.rk15.p01.sv15 is now Up / Up
+2024-07-04 09:58:19  msw1.rk05.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  esr1b.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk06.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk07.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  esr1b.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk08.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  esr1b.rk15.p02.sv15 is now Up / Up
+2024-07-04 09:58:19  msw1.rk09.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk11.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk13.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  esr1b.rk16.p02.sv15 is now Up / Up
+2024-07-04 09:58:19  msw1.rk10.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk12.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk15.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk16.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  msw1.rk14.p02.sv15 Version is now EOS: 4.28.7M
+2024-07-04 09:58:19  esr1b.rk11.p01.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk11.p02.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk12.p01.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk12.p02.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk13.p01.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk13.p02.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk14.p01.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk14.p02.sv15 is now NoMaint
+2024-07-04 09:58:19  esr1b.rk15.p01.sv15 is now NoMaint
+2024-07-04 09:58:19  msw1.rk05.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:19  msw1.rk05.p02.sv15 SC pstate is now -
+2024-07-04 09:58:19  msw1.rk05.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk06.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk06.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk06.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk07.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk07.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk07.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk08.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk08.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk08.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk09.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk09.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk09.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk13.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk13.p02.sv15 is now Up
+2024-07-04 09:58:20  esr1b.rk15.p02.sv15 is now NoMaint
+2024-07-04 09:58:20  msw1.rk11.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk11.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk12.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk12.p02.sv15 is now Up
+2024-07-04 09:58:20  esr1b.rk16.p02.sv15 is now NoMaint
+2024-07-04 09:58:20  msw1.rk10.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk10.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk10.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk14.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk14.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk15.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk15.p02.sv15 is now Up
+2024-07-04 09:58:20  msw1.rk16.p02.sv15 pstate is now 2/2
+2024-07-04 09:58:20  msw1.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  msw1.rk16.p02.sv15 is now Up
+2024-07-04 09:58:20  esr1b.rk11.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk11.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk11.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk11.p01.sv15 SC pstate is now 18/18
+2024-07-04 09:58:20  esr1b.rk12.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk12.p01.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk12.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk12.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk13.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk13.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk13.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk13.p01.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk14.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk14.p02.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk15.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk15.p01.sv15 SC pstate is now -
+2024-07-04 09:58:20  esr1b.rk14.p01.sv15 pstate is now 4/4
+2024-07-04 09:58:20  esr1b.rk14.p01.sv15 SC pstate is now -
+2024-07-04 09:58:21  esr1b.rk15.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:21  esr1b.rk15.p02.sv15 SC pstate is now -
+2024-07-04 09:58:21  esr1b.rk16.p02.sv15 pstate is now 4/4
+2024-07-04 09:58:21  esr1b.rk16.p02.sv15 SC pstate is now -
+2024-07-04 09:58:35  Status Checking Complete

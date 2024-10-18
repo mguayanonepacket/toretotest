@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+Hostname             : ssp4.mx2
+Chassis Type         : 7220 IXR-D3L
+Part Number          : 3HE17646AARA01
+Serial Number        : NK224238143
+System HW MAC Address: 9C:54:67:50:7D:A7
+Software Version     : v23.3.3
+Build Number         : 11-ga3835b6dac
+Architecture         : x86_64
+Last Booted          : 2023-12-11T03:29:31.059Z
+Total Memory         : 15987488 kB
+Free Memory          : 12685160 kB
+--------------------------------------------------------------------------------
+
+

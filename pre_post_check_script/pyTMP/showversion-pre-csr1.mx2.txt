@@ -1,0 +1,19 @@
+Arista DCS-7050CX3-32S-F
+Hardware version: 12.02
+Serial number: HBG232600WS
+Hardware MAC address: cc1a.a390.bdd9
+System MAC address: cc1a.a390.bdd9
+
+Software image version: 4.28.7M
+Architecture: i686
+Internal build version: 4.28.7M-31915134.4287M
+Internal build ID: 15c6ead8-fbdf-45ac-a69e-441b9d1728da
+Image format version: 3.0
+Image optimization: Default
+
+Uptime: 38 weeks, 5 days, 10 hours and 24 minutes
+Total memory: 8098908 kB
+Free memory: 5495780 kB
+
+
+

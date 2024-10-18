@@ -1,0 +1,3 @@
+ISSUE FOUND: Test 10 Exceptionpdu1.rk39.p02.da11
+
+ISSUE DETAIL: Exception Network pdu1.rk39.p02.da11Truncated file header

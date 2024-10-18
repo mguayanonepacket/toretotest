@@ -1,0 +1,2489 @@
+2024-06-26 08:06:32  Script Start
+2024-06-26 08:06:42  {
+    "esr1a.rk35.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk36.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk37.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk38.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk39.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk40.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk41.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk42.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk43.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk44.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk45.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk46.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk47.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk48.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk49.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk50.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk51.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk52.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk53.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk54.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk55.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk56.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk57.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk58.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk59.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk35.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk36.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk37.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk38.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk39.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk40.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk41.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk42.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk43.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk44.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk45.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk46.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk47.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk48.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk49.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk50.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk51.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk52.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk53.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk54.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk55.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk56.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk57.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk58.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk59.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk32.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk33.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk34.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk35.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk36.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk37.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk38.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk39.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk40.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk41.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk42.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk43.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk44.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk45.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk46.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk47.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk48.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk49.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk50.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk51.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk52.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk53.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk54.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk55.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk56.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk57.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk58.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk59.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk08.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk09.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk10.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk11.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk12.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk13.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk14.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk15.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk16.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw2.rk17.p01.da11": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    }
+}
+2024-06-26 08:06:42  Starting Status Checks
+2024-06-26 08:06:43  esr1a.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk37.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk49.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk53.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1b.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk36.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk42.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk46.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1b.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk37.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1b.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1a.rk38.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:43  esr1b.rk36.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk56.p01.da11 is now Up / Up
+2024-06-26 08:06:43  esr1a.rk43.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk54.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk57.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk41.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk40.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk44.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk40.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk48.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk43.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk41.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk50.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk54.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk47.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk47.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk38.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk51.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk52.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk55.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk52.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk42.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk48.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk46.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk50.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk53.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk51.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk44.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk56.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk58.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk49.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1a.rk45.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:44  esr1b.rk55.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk35.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk58.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk59.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk57.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk39.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk45.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk35.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk39.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1b.rk59.p01.da11 is now Up / Up
+2024-06-26 08:06:44  esr1a.rk37.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk54.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk43.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk53.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk37.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk42.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk36.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk40.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk41.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk41.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk36.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk57.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk52.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk56.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk52.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk46.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk40.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk38.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk43.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk47.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk54.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk50.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk51.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk46.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk50.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk49.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk42.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk44.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk55.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk44.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk48.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk38.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk47.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk51.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk53.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk49.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk45.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk56.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk55.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk48.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk57.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk45.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk35.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1a.rk59.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk58.p01.da11 is now NoMaint
+2024-06-26 08:06:44  esr1b.rk59.p01.da11 is now NoMaint
+2024-06-26 08:06:45  esr1b.rk39.p01.da11 is now NoMaint
+2024-06-26 08:06:45  esr1b.rk35.p01.da11 is now NoMaint
+2024-06-26 08:06:45  esr1a.rk39.p01.da11 is now NoMaint
+2024-06-26 08:06:45  esr1a.rk58.p01.da11 is now NoMaint
+2024-06-26 08:06:45  esr1a.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1a.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1a.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1a.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1b.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1b.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1b.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1a.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:06:45  esr1a.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:06:45  esr1b.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:06:45  esr1b.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:06:46  msw1.rk32.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk33.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk34.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk13.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk11.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk14.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk12.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk10.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk16.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk09.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk15.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw1.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:46  msw2.rk17.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:06:47  msw1.rk32.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk32.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk32.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk33.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk33.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk33.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk08.p01.da11 Arista Version Request Failed
+2024-06-26 08:06:47  msw2.rk08.p01.da11 Version is now UNKOWN
+2024-06-26 08:06:47  msw1.rk39.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk39.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk48.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk48.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk34.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk34.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk34.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk37.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk37.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk41.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk41.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk43.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk43.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk45.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk45.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk40.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk40.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk38.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk38.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk36.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk36.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk35.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk35.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk11.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk11.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk11.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk53.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk53.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk50.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk58.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk50.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk58.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk59.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk59.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk55.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk14.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk14.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk14.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk55.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk10.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk10.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk10.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk46.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk46.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk44.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk44.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk42.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk42.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk54.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk54.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk52.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk52.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk15.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk15.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk15.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk13.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk13.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk13.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk47.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk47.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk49.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk49.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk09.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk09.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk09.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk16.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk16.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk16.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk57.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk51.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk57.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk51.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk12.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk12.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk12.p01.da11 is now Up
+2024-06-26 08:06:47  msw1.rk56.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw1.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw1.rk56.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk17.p01.da11 pstate is now 2/2
+2024-06-26 08:06:47  msw2.rk17.p01.da11 SC pstate is now -
+2024-06-26 08:06:47  msw2.rk17.p01.da11 is now Up
+2024-06-26 08:06:47  msw2.rk08.p01.da11Error: Stream removed
+2024-06-26 08:07:15  esr1a.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk36.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk43.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk40.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk50.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk38.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk41.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk47.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk52.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk55.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk54.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk37.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk45.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk46.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk44.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk49.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk56.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk53.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk48.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk42.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk35.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk57.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk51.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk36.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk41.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk39.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1a.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk40.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk49.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk53.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk42.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk43.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk45.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk47.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk51.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk48.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk38.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk44.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk50.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk37.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk46.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk52.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk58.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk56.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk59.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk55.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk35.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk57.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk39.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:15  esr1b.rk54.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk58.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1b.rk59.p01.da11 is now Up / Up
+2024-06-26 08:07:15  esr1a.rk55.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk50.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk41.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk40.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk52.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk47.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk43.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk36.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk45.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk54.p01.da11 is now NoMaint
+2024-06-26 08:07:15  esr1a.rk38.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk48.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk56.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk42.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk37.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk53.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk49.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk57.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk51.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk46.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk49.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk41.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk44.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk53.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk43.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk40.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk45.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk47.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk36.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk48.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk35.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk37.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk51.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk38.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk50.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk42.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk56.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk52.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk44.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk57.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk46.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk54.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk55.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk39.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk59.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk58.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk39.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk59.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1b.rk35.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk58.p01.da11 is now NoMaint
+2024-06-26 08:07:16  esr1a.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1b.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1b.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:07:16  esr1a.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:16  esr1a.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:07:16  esr1a.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1a.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:07:17  esr1a.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1b.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:07:17  esr1b.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:07:17  esr1b.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:07:17  esr1b.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1b.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1b.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1b.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:07:17  esr1b.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  esr1a.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:07:17  esr1a.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:17  msw1.rk32.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk34.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk33.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:17  msw1.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk15.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk11.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk10.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk17.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk13.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk12.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk14.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk16.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw2.rk09.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:18  msw1.rk32.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk32.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk32.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk34.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk34.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk34.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk37.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk37.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk33.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk33.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk33.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk39.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk39.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk35.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk35.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk43.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk43.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk44.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk36.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk44.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk36.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk46.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk46.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk08.p01.da11 Arista Version Request Failed
+2024-06-26 08:07:18  msw2.rk08.p01.da11 Version is now UNKOWN
+2024-06-26 08:07:18  msw1.rk40.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk40.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk42.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk42.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk38.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk38.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk45.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk45.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk49.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk57.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk49.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk57.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk47.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk47.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk41.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk41.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk51.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk51.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk52.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk52.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk54.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk54.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk48.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk48.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk56.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk56.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk13.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk13.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk13.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk11.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk11.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk11.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk15.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk15.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk15.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk55.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk55.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk12.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk12.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk12.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk50.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk59.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk59.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk50.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk53.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk53.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk10.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk10.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk10.p01.da11 is now Up
+2024-06-26 08:07:18  msw1.rk58.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw1.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw1.rk58.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk17.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk17.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk17.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk16.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk16.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk16.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk14.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk14.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk14.p01.da11 is now Up
+2024-06-26 08:07:18  msw2.rk09.p01.da11 pstate is now 2/2
+2024-06-26 08:07:18  msw2.rk09.p01.da11 SC pstate is now -
+2024-06-26 08:07:18  msw2.rk09.p01.da11 is now Up
+2024-06-26 08:07:19  msw2.rk08.p01.da11Error: Stream removed
+2024-06-26 08:07:46  esr1a.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk45.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk37.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk42.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk44.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk38.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk40.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk43.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk53.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk36.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk47.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk56.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk41.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk48.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk51.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk54.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk46.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk55.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk50.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk49.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk57.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk36.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk52.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk37.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk38.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk41.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk35.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk40.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk49.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk42.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk59.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1b.rk54.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk43.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk44.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk47.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk45.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:46  esr1a.rk39.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk48.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk51.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk53.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk46.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1a.rk58.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk52.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk56.p01.da11 is now Up / Up
+2024-06-26 08:07:46  esr1b.rk39.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1b.rk50.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1b.rk35.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1b.rk57.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1b.rk55.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1b.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:47  esr1b.rk59.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1a.rk45.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:47  esr1a.rk37.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk47.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk58.p01.da11 is now Up / Up
+2024-06-26 08:07:47  esr1a.rk42.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk43.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk38.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk40.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk51.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk53.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk41.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk44.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk50.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk56.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk49.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk54.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk55.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk48.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk36.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk52.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk46.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk57.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk36.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk38.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk42.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk40.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk37.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk49.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk43.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk48.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk54.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk51.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk45.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk44.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk46.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk47.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk41.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk56.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk52.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk53.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk57.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk50.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk55.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk59.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk35.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk39.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk39.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk35.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk58.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1b.rk59.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk58.p01.da11 is now NoMaint
+2024-06-26 08:07:47  esr1a.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1a.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1a.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:47  esr1b.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:07:47  esr1b.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1a.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1a.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1a.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1a.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1b.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1a.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1a.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1a.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1a.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1b.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:07:48  esr1b.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:07:48  esr1b.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  esr1b.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:48  msw1.rk33.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:48  msw1.rk32.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:48  msw1.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk34.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk13.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk15.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk16.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk10.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk12.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk11.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk09.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk14.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw2.rk17.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:07:49  msw1.rk33.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk33.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk33.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk32.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk32.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk32.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk36.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk36.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk35.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk35.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk34.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk34.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk34.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk40.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk40.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk38.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk38.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk37.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk37.p01.da11 is now Up
+2024-06-26 08:07:49  msw1.rk43.p01.da11 pstate is now 2/2
+2024-06-26 08:07:49  msw1.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:07:49  msw1.rk43.p01.da11 is now Up
+2024-06-26 08:07:49  msw2.rk08.p01.da11 Arista Version Request Failed
+2024-06-26 08:07:49  msw2.rk08.p01.da11 Version is now UNKOWN
+2024-06-26 08:07:50  msw1.rk50.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk44.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk44.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk50.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk42.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk42.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk53.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk53.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk47.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk47.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk39.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk39.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk46.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk46.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk52.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk52.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk51.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk51.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk41.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk54.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk41.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk54.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk45.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk45.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk57.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk57.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk55.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk55.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk48.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk48.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk13.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk13.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk13.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk58.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk58.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk56.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk56.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk49.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk59.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw1.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk49.p01.da11 is now Up
+2024-06-26 08:07:50  msw1.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw1.rk59.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk11.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk11.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk11.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk16.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk16.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk16.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk10.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk10.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk10.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk12.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk12.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk12.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk17.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk17.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk17.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk14.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk14.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk14.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk15.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk15.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk15.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk09.p01.da11 pstate is now 2/2
+2024-06-26 08:07:50  msw2.rk09.p01.da11 SC pstate is now -
+2024-06-26 08:07:50  msw2.rk09.p01.da11 is now Up
+2024-06-26 08:07:50  msw2.rk08.p01.da11Error: Stream removed
+2024-06-26 08:08:17  esr1a.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk36.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk40.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk38.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk37.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk42.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk45.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk44.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk41.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk49.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk46.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk51.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk48.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk43.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk47.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk50.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk52.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1a.rk53.p01.da11 is now Up / Up
+2024-06-26 08:08:17  esr1b.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:17  esr1a.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk56.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk35.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk55.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk54.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk57.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk39.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk36.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk41.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk37.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk45.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk38.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk50.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk54.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk48.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk40.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk44.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk43.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk51.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1b.rk42.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk47.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk46.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk49.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk53.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk35.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk57.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk58.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk52.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk39.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk59.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk40.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk55.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk56.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk58.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1b.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:18  esr1a.rk37.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk36.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk38.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk59.p01.da11 is now Up / Up
+2024-06-26 08:08:18  esr1a.rk45.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk43.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk42.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk44.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk51.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk46.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk49.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk48.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk53.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk47.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk52.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk41.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk50.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk54.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk57.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk56.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk55.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk37.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk41.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk45.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk50.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk44.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk40.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk43.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk49.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk54.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk35.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk38.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk48.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk57.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk46.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk51.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk52.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk47.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk53.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1b.rk42.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:08:18  esr1a.rk39.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk55.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1b.rk56.p01.da11 is now NoMaint
+2024-06-26 08:08:18  esr1a.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1a.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1a.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1a.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1a.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:08:18  esr1a.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:08:18  esr1a.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:08:18  esr1a.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:08:18  esr1a.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:08:18  esr1a.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk39.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk58.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk59.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk35.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk58.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk59.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk37.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk41.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk45.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk50.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk44.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk54.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk49.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk40.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk46.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk52.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk51.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk57.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk47.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk38.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk48.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk43.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk53.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk55.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk42.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk56.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk36.p01.da11 is now NoMaint
+2024-06-26 08:08:19  esr1a.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1a.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1a.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk39.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1b.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1a.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1b.rk35.p01.da11 pstate is now 4/4
+2024-06-26 08:08:19  esr1b.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1a.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk58.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1b.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:08:19  esr1b.rk59.p01.da11 pstate is now 8/8
+2024-06-26 08:08:19  esr1b.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  esr1b.rk36.p01.da11 pstate is now 4/4
+2024-06-26 08:08:20  esr1b.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk32.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk37.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk33.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk35.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk34.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk36.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk38.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk39.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk43.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk41.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk40.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk42.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk46.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk50.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk45.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk44.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk52.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk47.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk49.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk51.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk55.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk53.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk48.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk56.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk54.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk57.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk13.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk09.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk10.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk59.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk14.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk15.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk58.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk11.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk12.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk17.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw2.rk16.p01.da11 Version is now EOS: 4.28.7M
+2024-06-26 08:08:20  msw1.rk37.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk37.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk37.p01.da11 is now Up
+2024-06-26 08:08:20  msw1.rk33.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk33.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk33.p01.da11 is now Up
+2024-06-26 08:08:20  msw1.rk32.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk32.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk32.p01.da11 is now Up
+2024-06-26 08:08:20  msw1.rk35.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk35.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk35.p01.da11 is now Up
+2024-06-26 08:08:20  msw1.rk34.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk34.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk34.p01.da11 is now Up
+2024-06-26 08:08:20  msw1.rk36.p01.da11 pstate is now 2/2
+2024-06-26 08:08:20  msw1.rk36.p01.da11 SC pstate is now -
+2024-06-26 08:08:20  msw1.rk36.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk38.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk38.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk38.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk39.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk39.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk39.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk43.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk43.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk43.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk40.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk40.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk40.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk41.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk41.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk41.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk46.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk46.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk46.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk42.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk42.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk42.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk08.p01.da11 Arista Version Request Failed
+2024-06-26 08:08:21  msw2.rk08.p01.da11 Version is now UNKOWN
+2024-06-26 08:08:21  msw1.rk52.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk52.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk52.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk45.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk45.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk45.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk50.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk50.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk50.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk47.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk47.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk47.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk44.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk44.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk44.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk55.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk51.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk55.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk51.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk55.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk51.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk53.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk53.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk53.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk56.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk56.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk56.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk57.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk57.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk57.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk49.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk49.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk49.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk54.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk54.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk54.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk48.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk48.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk48.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk09.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk09.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk09.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk13.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk13.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk13.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk10.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk10.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk10.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk58.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk58.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk58.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk14.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk14.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk14.p01.da11 is now Up
+2024-06-26 08:08:21  msw1.rk59.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw1.rk59.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw1.rk59.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk15.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk15.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk15.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk11.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk11.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk11.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk12.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk12.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk12.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk17.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk16.p01.da11 pstate is now 2/2
+2024-06-26 08:08:21  msw2.rk17.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk17.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk16.p01.da11 SC pstate is now -
+2024-06-26 08:08:21  msw2.rk16.p01.da11 is now Up
+2024-06-26 08:08:21  msw2.rk08.p01.da11Error: Stream removed
+2024-06-26 08:08:26  Status Checking Complete

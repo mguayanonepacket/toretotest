@@ -1,0 +1,16 @@
+Could not chdir to home directory /home/mguayanone: No such file or directory
+--------------------------------------------------------------------------------
+Hostname             : esr1b.rk02.p01.mx2
+Chassis Type         : 7220 IXR-D2L
+Part Number          : 3HE17645AARA01
+Serial Number        : NK223638215
+System HW MAC Address: 10:98:26:B0:21:14
+Software Version     : v23.10.4
+Build Number         : 89-g68bbba5a50
+Architecture         : x86_64
+Last Booted          : 2024-07-03T17:46:44.457Z
+Total Memory         : 15986113 kB
+Free Memory          : 12306316 kB
+--------------------------------------------------------------------------------
+
+

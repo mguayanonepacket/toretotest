@@ -1,0 +1,77 @@
+VNI to VLAN Mapping for Vxlan1
+VNI          VLAN       Source       Interface             802.1Q Tag
+------------ ---------- ------------ --------------------- ----------
+100016       2003       static       Port-Channel121       1000      
+                                     Vxlan1                2003      
+100051       2015       static       Port-Channel33        2         
+                                     Vxlan1                2015      
+100082       2004       static       Port-Channel33        5         
+                                     Vxlan1                2004      
+100091       2007       static       Port-Channel33        6         
+                                     Vxlan1                2007      
+100092       2011       static       Port-Channel33        8         
+                                     Vxlan1                2011      
+100096       2006       static       Port-Channel33        9         
+                                     Vxlan1                2006      
+100098       2005       static       Port-Channel33        10        
+                                     Vxlan1                2005      
+100099       2002       static       Port-Channel33        12        
+                                     Vxlan1                2002      
+100101       2008       static       Port-Channel33        11        
+                                     Vxlan1                2008      
+100108       2001       static       Port-Channel33        100       
+                                     Vxlan1                2001      
+100109       2009       static       Port-Channel33        3         
+                                     Vxlan1                2009      
+100113       2010       static       Port-Channel33        4         
+                                     Vxlan1                2010      
+100114       2012       static       Port-Channel33        13        
+                                     Vxlan1                2012      
+100119       2013       static       Port-Channel33        7         
+                                     Vxlan1                2013      
+100140       2016       static       Port-Channel33        14        
+                                     Vxlan1                2016      
+500200       2028       static       Port-Channel33        25        
+                                     Vxlan1                2028      
+500240       2029       static       Port-Channel33        27        
+                                     Vxlan1                2029      
+500244       2000       static       Port-Channel33        28        
+                                     Vxlan1                2000      
+500315       2014       static       Port-Channel33        16        
+                                     Vxlan1                2014      
+500390       2023       static       Port-Channel33        15        
+                                     Vxlan1                2023      
+500743       2018       static       Port-Channel33        18        
+                                     Vxlan1                2018      
+500840       2019       static       Port-Channel33        17        
+                                     Vxlan1                2019      
+501180       2017       static       Port-Channel33        19        
+                                     Vxlan1                2017      
+501247       2020       static       Port-Channel33        20        
+                                     Vxlan1                2020      
+501401       2024       static       Port-Channel33        21        
+                                     Vxlan1                2024      
+501685       2021       static       Port-Channel145       2021      
+                                     Vxlan1                2021      
+501888       2025       static       Port-Channel33        23        
+                                     Vxlan1                2025      
+501889       2026       static       Port-Channel33        22        
+                                     Vxlan1                2026      
+501918       2027       static       Port-Channel33        24        
+                                     Vxlan1                2027      
+501924       2030       static       Port-Channel33        26        
+                                     Vxlan1                2030      
+502102       2032       static       Port-Channel33        29        
+                                     Vxlan1                2032      
+502450       2033       static       Port-Channel141       1000      
+                                     Vxlan1                2033      
+502769       2031       static       Port-Channel21        50        
+                                     Vxlan1                2031      
+
+VNI to dynamic VLAN Mapping for Vxlan1
+VNI        VLAN     VRF                                            Source      
+---------- -------- ---------------------------------------------- ----------- 
+300012     3996     CUST-1cf83bed-53cd-44e6-bcc7-37fc53f31f50      evpn        
+
+
+

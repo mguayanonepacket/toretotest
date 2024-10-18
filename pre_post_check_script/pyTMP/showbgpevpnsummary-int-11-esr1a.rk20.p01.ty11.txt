@@ -1,0 +1,8 @@
+BGP summary information for VRF default
+Router identifier 139.178.78.58, local AS number 65530
+Neighbor Status Codes: m - Under maintenance
+  Description              Neighbor     V AS           MsgRcvd   MsgSent  InQ OutQ  Up/Down State   PfxRcd PfxAcc
+  mrr1.ty11                139.178.78.6 4 54825            808       124    0    0 00:03:52 Estab   437    437
+  mrr2.ty11                139.178.78.7 4 54825            807       381    0    0 00:03:49 Estab   437    437
+
+

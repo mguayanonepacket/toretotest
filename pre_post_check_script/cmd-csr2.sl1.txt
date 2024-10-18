@@ -1,0 +1,3 @@
+show bgp evpn summ
+show bgp evpn 
+show mac address-table

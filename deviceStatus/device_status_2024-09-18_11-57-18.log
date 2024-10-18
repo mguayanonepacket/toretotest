@@ -1,0 +1,15 @@
+2024-09-18 11:57:18 - Script Start
+2024-09-18 11:57:18 - {
+    "esr1a.rk20.p01.ty11": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "version": "INIT",
+        "svrPortState": "INIT"
+    }
+}
+2024-09-18 11:57:18 - Starting Status Checks
+2024-09-18 11:57:21 - Status Checking Complete

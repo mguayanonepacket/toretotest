@@ -1,0 +1,69 @@
+System temperature status is: Ok
+Action on overheat: ignore
+Recovery mode when power-cycle upon overheat: not applicable
+Restrict recovery when ambient temperature is at or above: not applicable
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Cpu temp sensor                        38.2   (70) 69.1     95       115
+2       Switch Card temp sensor                25.9   (85) 84.1    100       110
+3       Front-panel temp sensor                23.0   (60) 59.1     65        75
+4       Front PCB temp sensor                  29.1   (70) 69.1     75        80
+5       SwitchAsic top left outer sensor       31.2   (85) 84.1    100       110
+6       SwitchAsic bottom left outer sensor    31.7   (85) 84.1    100       110
+7       SwitchAsic bottom right outer senso    32.3   (85) 84.1    100       110
+8       SwitchAsic top right outer sensor      30.7   (85) 84.1    100       110
+9       SwitchAsic left center sensor          33.4   (85) 84.1    100       110
+10      SwitchAsic right center sensor         33.4   (85) 84.1    100       110
+11      SwitchAsic top right inner sensor      30.7   (85) 84.1    100       110
+12      SwitchAsic center sensor               28.5   (85) 84.1    100       110
+13      SwitchAsic bottom center sensor        31.7   (85) 84.1    100       110
+14      SwitchAsic top left inner sensor       30.1   (85) 84.1    100       110
+15      CPU board temp sensor                  24.0   (55) 54.1     75        85
+16      Back-panel temp sensor                 22.8   (55) 54.1     75        85
+17      CPU VRM VDDCR_CPU_NB temp sensor       34.0   (70) 69.1    110       125
+18      CPU VRM VDDCR_GFX temp sensor          29.0   (70) 69.1    110       125
+
+PowerSupply 1:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Inlet                                  27.0   (55) 54.1     65        70
+2       Primary hotspot                        22.3   (80) 79.1     88        93
+3       Secondary hotspot                      24.2   (80) 79.1    108       113
+
+PowerSupply 2:
+                                                                 Alert  Critical
+                                               Temp    Setpoint  Limit     Limit
+Sensor  Description                             (C)         (C)    (C)       (C)
+------- ----------------------------------- ------- ----------- ------ ---------
+1       Inlet                                  27.2   (55) 54.1     65        70
+2       Primary hotspot                        22.3   (80) 79.1     88        93
+3       Secondary hotspot                      23.6   (80) 79.1    108       113
+
+System cooling status is: Ok
+Ambient temperature: 22C
+Shutdown due to insufficient fans disabled
+Airflow: port-side exhaust
+Number of cooling zones is: 1
+                      Config Actual         Speed        Stable
+Fan            Status  Speed  Speed  Uptime Stability    Uptime
+-------------- ------ ------ ------ ------- ----------- -------
+1/1            Ok        30%    34% 0:10:02 Stable      0:09:46
+1/2            Ok        30%    32% 0:10:02 Stable      0:09:46
+2/1            Ok        30%    33% 0:10:02 Stable      0:09:46
+2/2            Ok        30%    33% 0:10:02 Stable      0:09:46
+PowerSupply1/1 Ok        30%    48% 0:09:47 FW Override     N/A
+PowerSupply2/1 Ok        30%    48% 0:09:47 FW Override     N/A
+
+Power                            Input  Output  Output
+Supply Model           Capacity Current Current  Power Status  Uptime
+------ --------------- -------- ------- ------- ------ ------ -------
+1      PWR-511-AC-BLUE     500W   0.24A   3.59A  42.9W Ok     0:09:47
+2      PWR-511-AC-BLUE     500W   0.24A   3.79A  45.4W Ok     0:09:47
+Total  --                 1000W      --      --  88.2W --          --
+
+
+

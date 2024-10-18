@@ -1,0 +1,627 @@
+2024-06-29 08:07:16  Script Start
+2024-06-29 08:07:21  {
+    "csr1.sv5": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "csr2.sv5": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr1.rk01.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr1.rk01.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk02.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr2.rk02.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk03.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr3.rk03.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr4.rk04.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "dsr4.rk04.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk05.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk06.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk07.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk08.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk09.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk10.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk11.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1a.rk12.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk05.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk06.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk07.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk08.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk09.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk10.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk11.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "esr1b.rk12.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk05.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk05.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk06.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk06.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk07.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk07.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk08.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk08.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk09.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk09.p02.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk10.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk11.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "msw1.rk12.p01.sv16": {
+        "dev_type": "Arista",
+        "updown": "Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "",
+        "mlagstate": "",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "ssp1.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "ssp2.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "ssp3.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    },
+    "ssp4.sv15": {
+        "dev_type": "Arista",
+        "updown": "Down/Down",
+        "peerstate": "INIT",
+        "scpeerstate": "INIT",
+        "maintmode": "INIT",
+        "mlagstate": "INIT",
+        "first_ping": 2,
+        "version": "INIT"
+    }
+}
+2024-06-29 08:07:21  Starting Status Checks
+2024-06-29 08:07:23  esr1b.rk06.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk10.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk07.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk09.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk07.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk08.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk06.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk10.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk05.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk09.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk05.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk08.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk06.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk10.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk07.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk09.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk07.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk06.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk09.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk08.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk10.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk05.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk05.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk08.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  msw1.rk06.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk12.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk11.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk12.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk05.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  ssp1.sv15 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk06.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk07.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk09.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk05.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  ssp2.sv15 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk09.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk11.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk08.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk10.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk12.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk08.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  msw1.rk07.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk11.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  ssp4.sv15 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1b.rk12.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  esr1a.rk12.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  ssp3.sv15 Version is now EOS: 4.28.7M
+2024-06-29 08:07:23  esr1a.rk11.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  ssp1.sv15 is now Up / Up
+2024-06-29 08:07:23  ssp2.sv15 is now Up / Up
+2024-06-29 08:07:23  ssp4.sv15 is now Up / Up
+2024-06-29 08:07:23  esr1b.rk11.p01.sv16 is now Up / Up
+2024-06-29 08:07:23  ssp3.sv15 is now Up / Up
+2024-06-29 08:07:24  dsr3.rk03.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr1.rk01.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr4.rk04.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr4.rk04.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr3.rk03.p02.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr2.rk02.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr1.rk01.p02.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr1.rk01.p01.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr4.rk04.p02.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr2.rk02.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr4.rk04.p01.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr3.rk03.p01.sv16 Version is now EOS: 4.28.7M
+2024-06-29 08:07:24  dsr2.rk02.p02.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr1.rk01.p02.sv16 is now Up / Up
+2024-06-29 08:07:24  dsr2.rk02.p01.sv16 is now Up / Up
+2024-06-29 08:07:24  esr1b.rk06.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk07.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  dsr3.rk03.p01.sv16 is now Up / Up
+2024-06-29 08:07:24  esr1a.rk09.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk08.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk07.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk09.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk10.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk10.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk05.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk06.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk05.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk08.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  msw1.rk06.p02.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk06.p02.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk06.p02.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk05.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk05.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk05.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk10.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk10.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk10.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk06.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk07.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk06.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk06.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk07.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk07.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk11.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk11.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk11.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk09.p02.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk09.p02.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk09.p02.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk07.p02.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk07.p02.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk07.p02.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk09.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk09.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk09.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk05.p02.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk05.p02.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk05.p02.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk08.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk08.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk08.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk12.p01.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk12.p01.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk12.p01.sv16 is now Up
+2024-06-29 08:07:24  msw1.rk08.p02.sv16 pstate is now 2/2
+2024-06-29 08:07:24  msw1.rk08.p02.sv16 SC pstate is now -
+2024-06-29 08:07:24  msw1.rk08.p02.sv16 is now Up
+2024-06-29 08:07:24  ssp2.sv15 is now NoMaint
+2024-06-29 08:07:24  ssp1.sv15 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk11.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1a.rk12.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk12.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  ssp4.sv15 is now NoMaint
+2024-06-29 08:07:24  esr1b.rk11.p01.sv16 is now NoMaint
+2024-06-29 08:07:24  ssp3.sv15 is now NoMaint
+2024-06-29 08:07:25  dsr3.rk03.p02.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr4.rk04.p02.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr4.rk04.p01.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr1.rk01.p01.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr1.rk01.p02.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr2.rk02.p02.sv16 is now NoMaint
+2024-06-29 08:07:25  dsr2.rk02.p01.sv16 is now NoMaint
+2024-06-29 08:07:25  esr1b.rk06.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk06.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk07.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk07.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk09.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk09.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr3.rk03.p01.sv16 is now NoMaint
+2024-06-29 08:07:25  esr1a.rk08.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk08.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk09.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk09.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk10.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk10.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk07.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk07.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk06.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk05.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk06.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk10.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1a.rk05.p01.sv16 SC pstate is now 7/7
+2024-06-29 08:07:25  esr1a.rk10.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk05.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk05.p01.sv16 SC pstate is now 7/7
+2024-06-29 08:07:25  esr1b.rk08.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  esr1b.rk08.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk11.p01.sv16 pstate is now 8/8
+2024-06-29 08:07:25  esr1a.rk11.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1a.rk12.p01.sv16 pstate is now 8/8
+2024-06-29 08:07:25  esr1b.rk12.p01.sv16 pstate is now 8/8
+2024-06-29 08:07:25  esr1a.rk12.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk12.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  ssp2.sv15 pstate is now 2/2
+2024-06-29 08:07:25  ssp2.sv15 SC pstate is now -
+2024-06-29 08:07:25  ssp1.sv15 pstate is now 2/2
+2024-06-29 08:07:25  ssp1.sv15 SC pstate is now -
+2024-06-29 08:07:25  esr1b.rk11.p01.sv16 pstate is now 8/8
+2024-06-29 08:07:25  esr1b.rk11.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  ssp4.sv15 pstate is now 2/2
+2024-06-29 08:07:25  ssp4.sv15 SC pstate is now -
+2024-06-29 08:07:25  ssp3.sv15 pstate is now 2/2
+2024-06-29 08:07:25  ssp3.sv15 SC pstate is now -
+2024-06-29 08:07:25  dsr4.rk04.p02.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr3.rk03.p02.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr4.rk04.p02.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr3.rk03.p02.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr1.rk01.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr1.rk01.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr4.rk04.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr4.rk04.p01.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr1.rk01.p02.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr1.rk01.p02.sv16 SC pstate is now -
+2024-06-29 08:07:25  dsr2.rk02.p02.sv16 pstate is now 4/4
+2024-06-29 08:07:25  dsr2.rk02.p02.sv16 SC pstate is now -
+2024-06-29 08:07:26  dsr2.rk02.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:26  dsr2.rk02.p01.sv16 SC pstate is now -
+2024-06-29 08:07:26  dsr3.rk03.p01.sv16 pstate is now 4/4
+2024-06-29 08:07:26  dsr3.rk03.p01.sv16 SC pstate is now -
+2024-06-29 08:08:21  Status Checking Complete
