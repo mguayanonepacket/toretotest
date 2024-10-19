@@ -254,10 +254,11 @@ def main() -> None:
             break
         print("Please enter a valid router name.")
 
-    user = os.getenv("USER")
+    #user = os.getenv("USER")
+    user = 'mguayanone'
     op_args = {"use_keys": True, "allow_agent": True}
     driver = get_network_driver("junos")
-
+    print(f"el usuario es {user}")
     try:
         with driver(host, user, "", optional_args=op_args) as router:
             router.open()
