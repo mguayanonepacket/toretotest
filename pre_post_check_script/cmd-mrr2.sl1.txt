@@ -1,2 +1,0 @@
-show bgp group INTERNAL-VXLAN detail|no-more
-show bgp summary group INTERNAL-VXLAN  |no-more

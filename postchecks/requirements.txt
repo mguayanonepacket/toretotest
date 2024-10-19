@@ -1,8 +1,0 @@
-cryptography==36.0.2
-pyeapi
-ncclient
-pynetbox
-junos-eznc
-pandas
-pygnmi
-openpyxl

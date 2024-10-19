@@ -1,8 +1,0 @@
-BGP summary information for VRF default
-Router identifier 147.28.222.2, local AS number 65521
-Neighbor Status Codes: m - Under maintenance
-  Description              Neighbor     V AS           MsgRcvd   MsgSent  InQ OutQ  Up/Down State   PfxRcd PfxAcc
-  bbr1.mx2                 10.253.20.4  4 54825         837408    899368    0    0   79d23h Estab   1      1
-  bbr2.mx2                 10.253.20.16 4 54825         848319    917530    0    0  239d02h Estab   1      1
-
-

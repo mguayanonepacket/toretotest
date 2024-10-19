@@ -1,5 +1,0 @@
-
-> show port-channel summary
-% Unavailable command (This command is deprecated by 'show port-channel dense') at line 1
-
-

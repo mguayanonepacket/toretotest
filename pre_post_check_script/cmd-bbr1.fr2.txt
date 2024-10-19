@@ -1,4 +1,0 @@
-show route next-hop 10.253.64.1 active-path brief | no-more
-show route next-hop 10.253.64.5 active-path brief | no-more
-show route next-hop 10.253.64.9 active-path brief | no-more
-show route next-hop 10.253.64.13 active-path brief | no-more

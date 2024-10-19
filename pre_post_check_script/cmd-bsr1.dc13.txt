@@ -1,9 +1,0 @@
-show bgp group detail | match "Name:|Export:|\+|prefixes:|Table" | no-more
-show route summary | no-more
-show interfaces descriptions | no-more
-show bgp summary | no-more
-show bgp summary |except "esta|inet|evpn" | no-more
-show mpls lsp egress | no-more
-show mpls lsp ingress | no-more
-show mpls lsp transit | no-more
-show isis adjacency | no-more

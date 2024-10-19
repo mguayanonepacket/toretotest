@@ -1,3 +1,0 @@
-Parsing error: Unknown token 'interfaces'. Options are ['#', '/', '>', '>>', 'acl', 'arpnd', 'interface', 'lag', 'network-instance', 'platform', 'system', 'tunnel', 'tunnel-interface', 'version', '|']
-
-
